@@ -1,10 +1,16 @@
 import pandas as pd
 import pprint
 import requests
+import json
+import os.path
+
+# Taken from this thread on Twitter: https://twitter.com/APhilosophae/status/1325592240194981888
+# I've fixed it up for Python 3.0 and added some logic so it only hits the NYTimes website once
+# Saving the raw data as it goes along. There's some duplications.
 
 def collapse_results_by_party(results_by_candidate, candidates):
     results_by_party = {}
-    for candidate, count in results_by_candidate.iteritems():
+    for candidate, count in results_by_candidate.items():
         party = candidates[candidate]['party']
         results_by_party[party] = results_by_party.get(party, 0) + count
 
@@ -24,14 +30,28 @@ states = [
 ]
 
 all_results = {}
-for state in states:
-    print 'Downloading {}'.format(state)
-    formatted_state = state.lower().replace(' ', '-')
-    state_results = requests.get('https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{}/president.json'.format(formatted_state)).json()
-    all_results[formatted_state] = state_results
+if not os.path.exists('data'):
+    os.mkdir('data')
+
+if os.path.exists('data/all_results.json'):
+    with open('data/all_results.json') as fl:
+        all_results = json.load(fl)
+else:
+    for state in states:
+        print(f'Downloading {state}')
+        formatted_state = state.lower().replace(' ', '-')
+        state_results = requests.get('https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{}/president.json'.format(formatted_state)).json()
+        all_results[formatted_state] = state_results
+
+        with open(f'data/{state}.json', 'w') as jsfile:
+            json.dump(state_results, jsfile, indent=2) 
+        
+    with open(f'data/all_results.json', 'w') as jsfile:
+        json.dump(all_results, jsfile, indent=2)
+    
 
 records = []
-for state, state_results in all_results.iteritems():
+for state, state_results in all_results.items():
     race = state_results['data']['races'][0]
 
     for candidate in race['candidates']:
