@@ -33,7 +33,9 @@ all_results = {}
 if not os.path.exists('data'):
     os.mkdir('data')
 
-if os.path.exists('data/all_results.json'):
+reload = True
+
+if os.path.exists('data/all_results.json') and not reload:
     with open('data/all_results.json') as fl:
         all_results = json.load(fl)
 else:
