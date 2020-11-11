@@ -4800,7 +4800,7 @@
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/NCGeneral-latest.json",
           "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/NCGeneral-2020-11-11T02:49:14.995Z.json",
           "last_run": "2020-11-11 02:49:32.512",
-          "status": "running"
+          "status": "duplicate"
         },
         "votes2016": 4741564,
         "margin2016": 3.7,
@@ -22256,8 +22256,8 @@
     ]
   },
   "meta": {
-    "version": 14731,
+    "version": 14733,
     "track": "2020-11-03",
-    "timestamp": "2020-11-11T08:19:43.117Z"
+    "timestamp": "2020-11-11T10:25:42.547Z"
   }
 }

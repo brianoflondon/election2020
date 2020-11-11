@@ -2970,9 +2970,9 @@
         ],
         "precinct_metadata": {
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/PAGeneralConcatenator-latest.json",
-          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/PAGeneralConcatenator-2020-11-11T04:51:33.612Z.json",
-          "last_run": "2020-11-11 04:51:36.959",
-          "status": "duplicate"
+          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/PAGeneralConcatenator-2020-11-11T10:24:48.471Z.json",
+          "last_run": "2020-11-11 10:25:02.970",
+          "status": "finished"
         },
         "votes2016": 6166708,
         "margin2016": 0.7,
@@ -24874,8 +24874,8 @@
     ]
   },
   "meta": {
-    "version": 14731,
+    "version": 14733,
     "track": "2020-11-03",
-    "timestamp": "2020-11-11T08:19:43.117Z"
+    "timestamp": "2020-11-11T10:25:42.547Z"
   }
 }
