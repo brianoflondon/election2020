@@ -48,7 +48,7 @@ else:
         with open(f'states/{state}.json', 'w') as jsfile:
             json.dump(state_results, jsfile, indent=2) 
         
-    with open(f'states/all_results.json', 'w') as jsfile:
+    with open(f'data/all_results.json', 'w') as jsfile:
         json.dump(all_results, jsfile, indent=2)
     
 
