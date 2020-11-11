@@ -45,10 +45,10 @@ else:
         state_results = requests.get('https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{}/president.json'.format(formatted_state)).json()
         all_results[formatted_state] = state_results
 
-        with open(f'data/{state}.json', 'w') as jsfile:
+        with open(f'states/{state}.json', 'w') as jsfile:
             json.dump(state_results, jsfile, indent=2) 
         
-    with open(f'data/all_results.json', 'w') as jsfile:
+    with open(f'states/all_results.json', 'w') as jsfile:
         json.dump(all_results, jsfile, indent=2)
     
 
