@@ -32,54 +32,58 @@ states = [
 ]
 
 all_results = {}
-if not os.path.exists('data'):
-    os.mkdir('data')
+folders = ['data','senate','states']
+for fol in folders:
+    if not os.path.exists(fol):
+        os.mkdir(fol)
 
 reload = True
 
-if os.path.exists('data/all_results.json') and not reload:
-    with open('data/all_results.json') as fl:
+if os.path.exists('data/all_senate_results.json') and not reload:
+    with open('data/all__senate_results.json') as fl:
         all_results = json.load(fl)
 else:
     for state in states:
         print(f'Downloading {state}')
         formatted_state = state.lower().replace(' ', '-')
-        state_results = requests.get('https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{}/president.json'.format(formatted_state)).json()
-        all_results[formatted_state] = state_results
-
-        with open(f'states/{state}.json', 'w') as jsfile:
-            json.dump(state_results, jsfile, indent=2) 
+        urlToGet = f'https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{formatted_state}/senate.json'
+        r = requests.get(urlToGet)
+        if r.status_code == 200:
+            state_results = r.json()
+            all_results[formatted_state] = state_results
+            with open(f'senate/{state}.json', 'w') as jsfile:
+                json.dump(state_results, jsfile, indent=2) 
         
-    with open(f'data/all_results.json', 'w') as jsfile:
+    with open(f'data/all_senate_results.json', 'w') as jsfile:
         json.dump(all_results, jsfile, indent=2)
     
 
-records = []
-for state, state_results in all_results.items():
-    race = state_results['data']['races'][0]
+# records = []
+# for state, state_results in all_results.items():
+#     race = state_results['data']['races'][0]
 
-    for candidate in race['candidates']:
-        if candidate['party_id'] == 'republican':
-            candidate['party'] = 'rep'
-        elif candidate['party_id'] == 'democrat':
-            candidate['party'] = 'dem'
-        else:
-            candidate['party'] = 'trd'
-    candidates = { candidate['candidate_key']: candidate for candidate in race['candidates'] }
+#     for candidate in race['candidates']:
+#         if candidate['party_id'] == 'republican':
+#             candidate['party'] = 'rep'
+#         elif candidate['party_id'] == 'democrat':
+#             candidate['party'] = 'dem'
+#         else:
+#             candidate['party'] = 'trd'
+#     candidates = { candidate['candidate_key']: candidate for candidate in race['candidates'] }
 
-    for data_point in race['timeseries']:
-        data_point['state']             = state
-        data_point['expected_votes']    = race['tot_exp_vote']
-        data_point['trump2016']         = race['trump2016']
-        data_point['votes2012']         = race['votes2012']
-        data_point['votes2016']         = race['votes2016']
+#     for data_point in race['timeseries']:
+#         data_point['state']             = state
+#         data_point['expected_votes']    = race['tot_exp_vote']
+#         data_point['trump2016']         = race['trump2016']
+#         data_point['votes2012']         = race['votes2012']
+#         data_point['votes2016']         = race['votes2016']
 
-        vote_shares = collapse_results_by_party(data_point['vote_shares'], candidates)
-        for party in ['rep', 'dem', 'trd']:
-            data_point['vote_share_{}'.format(party)] = vote_shares.get(party, 0)
+#         vote_shares = collapse_results_by_party(data_point['vote_shares'], candidates)
+#         for party in ['rep', 'dem', 'trd']:
+#             data_point['vote_share_{}'.format(party)] = vote_shares.get(party, 0)
 
-        data_point.pop('vote_shares')
-        records.append(data_point)
+#         data_point.pop('vote_shares')
+#         records.append(data_point)
 
-time_series_df = pd.DataFrame.from_records(records)
-time_series_df.to_csv('data/nyt_ts.csv', encoding='utf-8')
+# time_series_df = pd.DataFrame.from_records(records)
+# time_series_df.to_csv('data/nyt_ts.csv', encoding='utf-8')
