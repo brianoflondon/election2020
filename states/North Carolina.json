@@ -4730,8 +4730,8 @@
         ],
         "precinct_metadata": {
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/NCGeneral-latest.json",
-          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/NCGeneral-2020-11-13T02:47:06.185Z.json",
-          "last_run": "2020-11-13 02:47:19.833",
+          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/NCGeneral-2020-11-13T12:04:46.056Z.json",
+          "last_run": "2020-11-13 12:04:58.736",
           "status": "duplicate"
         },
         "votes2016": 4741564,
@@ -22785,8 +22785,8 @@
     ]
   },
   "meta": {
-    "version": 16275,
+    "version": 16282,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T05:00:08.188Z"
+    "timestamp": "2020-11-13T12:41:10.619Z"
   }
 }

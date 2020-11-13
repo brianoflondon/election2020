@@ -2868,7 +2868,7 @@
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/PAGeneralConcatenator-latest.json",
           "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/precincts/PAGeneralConcatenator-2020-11-13T04:39:56.628Z.json",
           "last_run": "2020-11-13 04:39:59.609",
-          "status": "finished"
+          "status": "duplicate"
         },
         "votes2016": 6166708,
         "margin2016": 0.7,
@@ -25287,8 +25287,8 @@
     ]
   },
   "meta": {
-    "version": 16275,
+    "version": 16282,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T05:00:08.188Z"
+    "timestamp": "2020-11-13T12:41:10.619Z"
   }
 }
