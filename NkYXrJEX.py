@@ -16,6 +16,8 @@ def collapse_results_by_party(results_by_candidate, candidates):
 
     return results_by_party
 
+
+
 states = [
  'Alaska', 'Alabama', 'Arkansas', 'Arizona', 'California', 'Colorado',
  'Connecticut', 'Delaware', 'Florida', 'Georgia',
@@ -30,8 +32,11 @@ states = [
 ]
 
 all_results = {}
-if not os.path.exists('data'):
-    os.mkdir('data')
+all_results_senate = {}
+folders = ['data','senate','states']
+for fol in folders:
+    if not os.path.exists(fol):
+        os.mkdir(fol)
 
 reload = True
 
@@ -40,16 +45,33 @@ if os.path.exists('data/all_results.json') and not reload:
         all_results = json.load(fl)
 else:
     for state in states:
-        print(f'Downloading {state}')
+        print(f'Downloading Presidential Results {state}')
         formatted_state = state.lower().replace(' ', '-')
-        state_results = requests.get('https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{}/president.json'.format(formatted_state)).json()
+        urlToGet = f'https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{formatted_state}/president.json'
+        state_results = requests.get(urlToGet).json()
         all_results[formatted_state] = state_results
 
         with open(f'states/{state}.json', 'w') as jsfile:
             json.dump(state_results, jsfile, indent=2) 
+
+        print(f'Downloading Senate Results {state}')
+        urlToGet = f'https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/{formatted_state}/senate.json'
+        r = requests.get(urlToGet)
+        if r.status_code == 200:
+            state_results = r.json()
+            all_results_senate[formatted_state] = state_results
+            with open(f'senate/{state}.json', 'w') as jsfile:
+                json.dump(state_results, jsfile, indent=2) 
+
+
         
     with open(f'data/all_results.json', 'w') as jsfile:
         json.dump(all_results, jsfile, indent=2)
+    with open(f'data/all_senate_results.json', 'w') as jsfile:
+        json.dump(all_results_senate, jsfile, indent=2)
+    
+    
+    
     
 
 records = []
