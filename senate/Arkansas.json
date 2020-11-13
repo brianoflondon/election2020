@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1184760,
+        "votes": 1184796,
         "absentee_votes": 926749,
         "absentee_counties": 75,
         "absentee_count_progress": "unknown",
@@ -54,7 +54,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-12T21:54:47Z",
+        "last_updated": "2020-11-13T15:28:44Z",
         "candidates": [
           {
             "candidate_id": "cotton-61872-4-s",
@@ -67,7 +67,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 789879,
+            "votes": 789905,
             "percent": 66.7,
             "percent_display": "66.7",
             "electoral_votes": 0,
@@ -88,7 +88,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 394881,
+            "votes": 394891,
             "percent": 33.3,
             "percent_display": "33.3",
             "electoral_votes": 0,
@@ -100,8 +100,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 33.33992,
-        "leader_margin_votes": 394998,
+        "leader_margin_value": 33.34025,
+        "leader_margin_votes": 395014,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cotton +33",
         "leader_party_id": "republican",
@@ -439,7 +439,7 @@
           {
             "fips": "05021",
             "name": "Clay",
-            "votes": 5094,
+            "votes": 5099,
             "absentee_votes": 1375,
             "reporting": 15,
             "precincts": 17,
@@ -456,15 +456,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cottont": 4194,
-              "harringtonr": 900
+              "cottont": 4196,
+              "harringtonr": 903
             },
             "results_absentee": {
               "cottont": 1108,
               "harringtonr": 267
             },
-            "last_updated": "2020-11-11T03:26:30Z",
-            "leader_margin_value": 64.66431,
+            "last_updated": "2020-11-13T14:49:42Z",
+            "leader_margin_value": 64.58129,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cotton +65",
             "leader_party_id": "republican"
@@ -505,7 +505,7 @@
           {
             "fips": "05025",
             "name": "Cleveland",
-            "votes": 3546,
+            "votes": 3557,
             "absentee_votes": 2134,
             "reporting": 16,
             "precincts": 17,
@@ -522,15 +522,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cottont": 2978,
-              "harringtonr": 568
+              "cottont": 2987,
+              "harringtonr": 570
             },
             "results_absentee": {
               "cottont": 1734,
               "harringtonr": 400
             },
-            "last_updated": "2020-11-11T03:26:24Z",
-            "leader_margin_value": 67.9639,
+            "last_updated": "2020-11-13T15:00:46Z",
+            "leader_margin_value": 67.95052,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Cotton +68",
             "leader_party_id": "republican"
@@ -1957,7 +1957,7 @@
           {
             "fips": "05113",
             "name": "Polk",
-            "votes": 8387,
+            "votes": 8407,
             "absentee_votes": 6246,
             "reporting": 15,
             "precincts": 17,
@@ -1974,15 +1974,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cottont": 7068,
-              "harringtonr": 1319
+              "cottont": 7083,
+              "harringtonr": 1324
             },
             "results_absentee": {
               "cottont": 5179,
               "harringtonr": 1067
             },
-            "last_updated": "2020-11-11T03:26:04Z",
-            "leader_margin_value": 68.54656,
+            "last_updated": "2020-11-13T15:28:42Z",
+            "leader_margin_value": 68.50244,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cotton +69",
             "leader_party_id": "republican"
@@ -3910,6 +3910,36 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-11-12T21:54:47Z"
+          },
+          {
+            "vote_shares": {
+              "cottont": 0.667,
+              "harringtonr": 0.333
+            },
+            "votes": 1184765,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T14:49:48Z"
+          },
+          {
+            "vote_shares": {
+              "cottont": 0.667,
+              "harringtonr": 0.333
+            },
+            "votes": 1184776,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T15:00:50Z"
+          },
+          {
+            "vote_shares": {
+              "cottont": 0.667,
+              "harringtonr": 0.333
+            },
+            "votes": 1184796,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T15:28:44Z"
           }
         ]
       }
@@ -3928,7 +3958,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 73777278,
+            "votes": 73800057,
             "percent": "50.3",
             "change": -5,
             "flip_count": 3,
@@ -3945,7 +3975,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 202,
-            "votes": 70889346,
+            "votes": 70906555,
             "percent": "48.3",
             "change": 6,
             "flip_count": 9,
@@ -3962,7 +3992,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2079321,
+            "votes": 2079470,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -3990,7 +4020,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 290,
-            "votes": 77920048,
+            "votes": 77945089,
             "percent": "50.8",
             "change": 0,
             "flip_count": 0,
@@ -4007,7 +4037,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 217,
-            "votes": 72609925,
+            "votes": 72630131,
             "percent": "47.4",
             "change": 0,
             "flip_count": 0,
@@ -4024,7 +4054,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2761092,
+            "votes": 2764273,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -4056,7 +4086,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41341724,
+            "votes": 41357883,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -4073,7 +4103,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43595155,
+            "votes": 43610909,
             "percent": "49.7",
             "change": -1,
             "flip_count": 1,
@@ -4090,7 +4120,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2860319,
+            "votes": 2860950,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -4314,12 +4344,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 168954,
-          "percent": 54.1,
-          "percent_display": "54.1",
+          "votes": 173233,
+          "percent": 53.3,
+          "percent_display": "53.3",
           "electoral_votes": 3,
-          "absentee_votes": 51047,
-          "absentee_percent": 42.8,
+          "absentee_votes": 60159,
+          "absentee_percent": 40.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -4356,12 +4386,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 170194,
-          "percent": 54.9,
-          "percent_display": "54.9",
+          "votes": 174885,
+          "percent": 54.3,
+          "percent_display": "54.3",
           "electoral_votes": 0,
-          "absentee_votes": 53177,
-          "absentee_percent": 44.7,
+          "absentee_votes": 63314,
+          "absentee_percent": 42.6,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sullivan-64262-2-s.png",
           "has_image": false,
           "link": ""
@@ -7576,9 +7606,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3396108,
+          "votes": 3400164,
           "percent": 49.8,
-          "percent_display": "49.77",
+          "percent_display": "49.79",
           "electoral_votes": 20,
           "absentee_votes": 971598,
           "absentee_percent": 78.5,
@@ -8971,7 +9001,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176838,
+          "votes": 176845,
           "percent": 52.1,
           "percent_display": "52.1",
           "electoral_votes": 0,
@@ -14967,12 +14997,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 837509,
+          "votes": 840163,
           "percent": 58,
           "percent_display": "58.0",
           "electoral_votes": 6,
-          "absentee_votes": 218438,
-          "absentee_percent": 49.1,
+          "absentee_votes": 306506,
+          "absentee_percent": 48,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -16047,8 +16077,8 @@
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 0,
-          "absentee_votes": 271659,
-          "absentee_percent": 55.1,
+          "absentee_votes": 371608,
+          "absentee_percent": 54.6,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cox-20073827-45-g.png",
           "has_image": false,
           "link": ""
@@ -17121,11 +17151,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3730598,
+          "votes": 3733016,
           "percent": 55.8,
           "percent_display": "55.8",
           "electoral_votes": 29,
-          "absentee_votes": 125000,
+          "absentee_votes": 126374,
           "absentee_percent": 65.1,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -17643,7 +17673,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 757078,
+          "votes": 757107,
           "percent": 62.6,
           "percent_display": "62.6",
           "electoral_votes": 6,
@@ -17684,7 +17714,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 789879,
+          "votes": 789905,
           "percent": 66.7,
           "percent_display": "66.7",
           "electoral_votes": 0,
@@ -18271,9 +18301,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289493,
-          "percent": 57.1,
-          "percent_display": "57.1",
+          "votes": 2298659,
+          "percent": 57,
+          "percent_display": "57.0",
           "electoral_votes": 0,
           "absentee_votes": 868079,
           "absentee_percent": 53.3,
@@ -18531,9 +18561,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2351741,
-          "percent": 57.2,
-          "percent_display": "57.2",
+          "votes": 2361323,
+          "percent": 57.1,
+          "percent_display": "57.1",
           "electoral_votes": 14,
           "absentee_votes": 891202,
           "absentee_percent": 53.4,
@@ -20243,8 +20273,8 @@
     ]
   },
   "meta": {
-    "version": 16282,
+    "version": 16358,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T12:41:10.619Z"
+    "timestamp": "2020-11-13T15:31:51.970Z"
   }
 }

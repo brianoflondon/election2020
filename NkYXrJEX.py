@@ -17,7 +17,6 @@ def collapse_results_by_party(results_by_candidate, candidates):
     return results_by_party
 
 
-
 states = [
  'Alaska', 'Alabama', 'Arkansas', 'Arizona', 'California', 'Colorado',
  'Connecticut', 'Delaware', 'Florida', 'Georgia',
