@@ -32,7 +32,7 @@ states = [
 ]
 
 all_results = {}
-all_results_senate = {}
+all_senate_results = {}
 folders = ['data','senate','states']
 for fol in folders:
     if not os.path.exists(fol):
@@ -59,7 +59,7 @@ else:
         r = requests.get(urlToGet)
         if r.status_code == 200:
             state_results = r.json()
-            all_results_senate[formatted_state] = state_results
+            all_senate_results[formatted_state] = state_results
             with open(f'senate/{state}.json', 'w') as jsfile:
                 json.dump(state_results, jsfile, indent=2) 
 
@@ -68,7 +68,7 @@ else:
     with open(f'data/all_results.json', 'w') as jsfile:
         json.dump(all_results, jsfile, indent=2)
     with open(f'data/all_senate_results.json', 'w') as jsfile:
-        json.dump(all_results_senate, jsfile, indent=2)
+        json.dump(all_senate_results, jsfile, indent=2)
     
     
     
