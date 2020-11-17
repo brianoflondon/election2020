@@ -1658,10 +1658,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 868,
+            "tot_exp_vote": 870,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:57:02Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1726,10 +1726,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 504,
+            "tot_exp_vote": 540,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:04Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1794,10 +1794,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1025,
+            "tot_exp_vote": 1079,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1861,11 +1861,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 370,
+            "eevp": 100,
+            "tot_exp_vote": 365,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1930,10 +1930,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1420,
+            "tot_exp_vote": 1485,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T16:28:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1998,10 +1998,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 186,
+            "tot_exp_vote": 214,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:09Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2066,10 +2066,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 669,
+            "tot_exp_vote": 696,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:10Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2134,10 +2134,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 141,
+            "tot_exp_vote": 143,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:10Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2202,10 +2202,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 637,
+            "tot_exp_vote": 669,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2270,10 +2270,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1079,
+            "tot_exp_vote": 1095,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2338,10 +2338,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 3800,
+            "tot_exp_vote": 3807,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2406,10 +2406,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 4668,
+            "tot_exp_vote": 4766,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:13Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2474,10 +2474,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1300,
+            "tot_exp_vote": 1296,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2541,11 +2541,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 177,
+            "eevp": 100,
+            "tot_exp_vote": 176,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2609,11 +2609,11 @@
               "de_la_fuenter": 0,
               "kopitkek": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 7141,
+            "eevp": 100,
+            "tot_exp_vote": 7096,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T16:29:41Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2678,10 +2678,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 569,
+            "tot_exp_vote": 583,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:15Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2746,10 +2746,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 682,
+            "tot_exp_vote": 711,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:57:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2814,10 +2814,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1519,
+            "tot_exp_vote": 1536,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:16Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2882,10 +2882,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1117,
+            "tot_exp_vote": 1147,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:17Z",
             "results_absentee": {
               "bidenj": 0,
@@ -2950,10 +2950,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 123,
+            "tot_exp_vote": 130,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3018,10 +3018,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 755,
+            "tot_exp_vote": 780,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3085,11 +3085,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 96,
-            "tot_exp_vote": 1550,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1494,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3154,10 +3154,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 664,
+            "tot_exp_vote": 717,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:20Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3221,11 +3221,11 @@
               "pierceb": 0,
               "scalfz": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2200,
+            "eevp": 100,
+            "tot_exp_vote": 2184,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:58:07Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3290,10 +3290,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 6680,
+            "tot_exp_vote": 6663,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:58:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3358,10 +3358,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 585,
+            "tot_exp_vote": 601,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:22Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3426,10 +3426,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 734,
+            "tot_exp_vote": 739,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:22Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3493,11 +3493,11 @@
               "scalfz": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 627,
+            "eevp": 100,
+            "tot_exp_vote": 619,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3562,10 +3562,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2157,
+            "tot_exp_vote": 2245,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:59:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3630,10 +3630,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 839,
+            "tot_exp_vote": 852,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3698,10 +3698,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 321,
+            "tot_exp_vote": 329,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3766,10 +3766,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 438,
+            "tot_exp_vote": 490,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3833,11 +3833,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 96,
-            "tot_exp_vote": 67,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 65,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3902,10 +3902,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 922,
+            "tot_exp_vote": 924,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:59:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -3970,10 +3970,10 @@
               "mccormick": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 21209,
+            "tot_exp_vote": 22218,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:59:43Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4038,10 +4038,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 888,
+            "tot_exp_vote": 892,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4105,11 +4105,11 @@
               "mccormick": 0,
               "pierceb": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1160,
+            "eevp": 100,
+            "tot_exp_vote": 1148,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4173,11 +4173,11 @@
               "pierceb": 0,
               "scalfz": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 2250,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 2199,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4242,10 +4242,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 482,
+            "tot_exp_vote": 498,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4310,10 +4310,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2170,
+            "tot_exp_vote": 2161,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4378,10 +4378,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 768,
+            "tot_exp_vote": 792,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4446,10 +4446,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 520,
+            "tot_exp_vote": 541,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4513,11 +4513,11 @@
               "la_rivag": 0,
               "scalfz": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2920,
+            "eevp": 100,
+            "tot_exp_vote": 2886,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T23:59:56Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4581,11 +4581,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 739,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 99,
+            "tot_exp_vote": 730,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4650,10 +4650,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1732,
+            "tot_exp_vote": 1772,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:00:09Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4718,10 +4718,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 841,
+            "tot_exp_vote": 853,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4785,11 +4785,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1500,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1469,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:00:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4854,10 +4854,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 9550,
+            "tot_exp_vote": 9594,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:00:33Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4922,10 +4922,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 632,
+            "tot_exp_vote": 630,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -4990,10 +4990,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 758,
+            "tot_exp_vote": 830,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5058,10 +5058,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 825,
+            "tot_exp_vote": 850,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:46Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5125,11 +5125,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 571,
+            "eevp": 100,
+            "tot_exp_vote": 568,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:47Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5194,10 +5194,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 769,
+            "tot_exp_vote": 774,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5261,11 +5261,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 775,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 755,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:00:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5330,10 +5330,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1466,
+            "tot_exp_vote": 1469,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:00:59Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5398,10 +5398,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2520,
+            "tot_exp_vote": 2515,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:11:04Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5466,10 +5466,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1420,
+            "tot_exp_vote": 1413,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5534,10 +5534,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 877,
+            "tot_exp_vote": 950,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:11:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5601,11 +5601,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1380,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1357,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:11:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5670,10 +5670,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 879,
+            "tot_exp_vote": 914,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:53Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5737,11 +5737,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 85,
-            "tot_exp_vote": 164,
-            "eevp_value": "85%",
-            "eevp_display": "85% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 140,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:54Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5805,11 +5805,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1803,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1764,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:12:04Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5874,10 +5874,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 628,
+            "tot_exp_vote": 634,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:56Z",
             "results_absentee": {
               "bidenj": 0,
@@ -5941,11 +5941,11 @@
               "swingg": 0,
               "write-ins": 0
             },
-            "eevp": 93,
-            "tot_exp_vote": 650,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 607,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:15:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6009,11 +6009,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 93,
-            "tot_exp_vote": 1365,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1274,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6077,11 +6077,11 @@
               "kopitkek": 0,
               "scalfz": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 13500,
+            "eevp": 100,
+            "tot_exp_vote": 13414,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:02:37Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6145,11 +6145,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1330,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1308,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:16:52Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6213,11 +6213,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3020,
+            "eevp": 100,
+            "tot_exp_vote": 2996,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:02:46Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6281,11 +6281,11 @@
               "scalfz": 0,
               "swingg": 0
             },
-            "eevp": 95,
-            "tot_exp_vote": 1200,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1140,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:02:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6349,11 +6349,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 634,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 99,
+            "tot_exp_vote": 629,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6417,11 +6417,11 @@
               "scalfz": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 985,
+            "eevp": 100,
+            "tot_exp_vote": 971,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6485,11 +6485,11 @@
               "scalfz": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1850,
+            "eevp": 100,
+            "tot_exp_vote": 1830,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:03:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6554,10 +6554,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 785,
+            "tot_exp_vote": 824,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6621,11 +6621,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 100,
-            "tot_exp_vote": 703,
+            "eevp": 99,
+            "tot_exp_vote": 763,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6690,10 +6690,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2685,
+            "tot_exp_vote": 2917,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:03:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6758,10 +6758,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 655,
+            "tot_exp_vote": 666,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:05Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6825,11 +6825,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 91,
-            "tot_exp_vote": 138,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 129,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6893,11 +6893,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 93,
-            "tot_exp_vote": 437,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 99,
+            "tot_exp_vote": 411,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:17:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -6961,11 +6961,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 88,
-            "tot_exp_vote": 49,
-            "eevp_value": "88%",
-            "eevp_display": "88% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 43,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:08Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7029,11 +7029,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 1450,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1409,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:18:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7098,10 +7098,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 166,
+            "tot_exp_vote": 169,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:10Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7166,10 +7166,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 477,
+            "tot_exp_vote": 491,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7234,10 +7234,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 541,
+            "tot_exp_vote": 549,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7302,10 +7302,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 161,
+            "tot_exp_vote": 174,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7369,11 +7369,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1370,
+            "eevp": 100,
+            "tot_exp_vote": 1354,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:03:35Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7438,10 +7438,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 485,
+            "tot_exp_vote": 492,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7505,11 +7505,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 96,
-            "tot_exp_vote": 178,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 171,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:18:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7574,10 +7574,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1541,
+            "tot_exp_vote": 1577,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:03:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7642,10 +7642,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 5753,
+            "tot_exp_vote": 6264,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:04:08Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7709,11 +7709,11 @@
               "scalfz": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2210,
+            "eevp": 100,
+            "tot_exp_vote": 2198,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:12:31Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7777,11 +7777,11 @@
               "pierceb": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1750,
+            "eevp": 100,
+            "tot_exp_vote": 1726,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:20:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7845,11 +7845,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3100,
+            "eevp": 100,
+            "tot_exp_vote": 3084,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:04:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7914,10 +7914,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 338,
+            "tot_exp_vote": 358,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -7981,11 +7981,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 436,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 427,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:20Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8050,10 +8050,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1388,
+            "tot_exp_vote": 1405,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:23:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8118,10 +8118,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1715,
+            "tot_exp_vote": 1731,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:23:47Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8185,11 +8185,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 96,
-            "tot_exp_vote": 273,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 262,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8254,10 +8254,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 620,
+            "tot_exp_vote": 673,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:22Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8322,10 +8322,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 343,
+            "tot_exp_vote": 349,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8390,10 +8390,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 575,
+            "tot_exp_vote": 581,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8458,10 +8458,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 274,
+            "tot_exp_vote": 294,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8525,11 +8525,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 3724,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 3662,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:24:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8593,11 +8593,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1600,
+            "eevp": 100,
+            "tot_exp_vote": 1589,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:06:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8662,10 +8662,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 740,
+            "tot_exp_vote": 836,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8730,10 +8730,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 295,
+            "tot_exp_vote": 329,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8797,11 +8797,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 100,
-            "tot_exp_vote": 115,
+            "eevp": 99,
+            "tot_exp_vote": 135,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8865,11 +8865,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 551,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 542,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -8933,11 +8933,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 79,
-            "tot_exp_vote": 62,
-            "eevp_value": "79%",
-            "eevp_display": "79% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 50,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9002,10 +9002,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 886,
+            "tot_exp_vote": 959,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9070,10 +9070,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1055,
+            "tot_exp_vote": 1118,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9138,10 +9138,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 485,
+            "tot_exp_vote": 487,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9206,10 +9206,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1236,
+            "tot_exp_vote": 1237,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:06:32Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9273,11 +9273,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 650,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 633,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9341,11 +9341,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 2500,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 2440,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:06:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9410,10 +9410,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 131,
+            "tot_exp_vote": 145,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9478,10 +9478,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2680,
+            "tot_exp_vote": 2785,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:25:09Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9546,10 +9546,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 644,
+            "tot_exp_vote": 646,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9614,10 +9614,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 968,
+            "tot_exp_vote": 964,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:25:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9682,10 +9682,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 715,
+            "tot_exp_vote": 780,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9750,10 +9750,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 4350,
+            "tot_exp_vote": 4331,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:07:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9817,11 +9817,11 @@
               "mccormick": 0,
               "scalfz": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 1275,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1243,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:42:38Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9885,11 +9885,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 560,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 549,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -9954,10 +9954,10 @@
               "de_la_fuenter": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 5678,
+            "tot_exp_vote": 6168,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:43Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10022,10 +10022,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1346,
+            "tot_exp_vote": 1403,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10090,10 +10090,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 737,
+            "tot_exp_vote": 756,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:43:15Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10157,11 +10157,11 @@
               "duncanr": 0,
               "scalfz": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 5344,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 5185,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10226,10 +10226,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1180,
+            "tot_exp_vote": 1188,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:46Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10294,10 +10294,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 381,
+            "tot_exp_vote": 401,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:47Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10361,11 +10361,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3220,
+            "eevp": 100,
+            "tot_exp_vote": 3197,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:43:33Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10429,11 +10429,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 856,
+            "eevp": 100,
+            "tot_exp_vote": 848,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:43:50Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10498,10 +10498,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 106,
+            "tot_exp_vote": 117,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:49Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10565,11 +10565,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 1207,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1172,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:52Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10634,10 +10634,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 337,
+            "tot_exp_vote": 346,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:50Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10702,10 +10702,10 @@
               "pierceb": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1192,
+            "tot_exp_vote": 1214,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10769,11 +10769,11 @@
               "pierceb": 0,
               "scalfz": 0
             },
-            "eevp": 95,
-            "tot_exp_vote": 1200,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1141,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:07:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10838,10 +10838,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1737,
+            "tot_exp_vote": 1842,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:52Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10905,11 +10905,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 787,
+            "eevp": 100,
+            "tot_exp_vote": 776,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:44:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -10974,10 +10974,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 696,
+            "tot_exp_vote": 705,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:12:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11041,11 +11041,11 @@
               "pierceb": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2490,
+            "eevp": 100,
+            "tot_exp_vote": 2465,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:07:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11110,10 +11110,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 104,
+            "tot_exp_vote": 108,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:56Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11177,11 +11177,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2600,
+            "eevp": 100,
+            "tot_exp_vote": 2570,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:12:59Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11246,10 +11246,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 603,
+            "tot_exp_vote": 612,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11314,10 +11314,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 726,
+            "tot_exp_vote": 752,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11382,10 +11382,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 379,
+            "tot_exp_vote": 420,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:59Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11449,11 +11449,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 900,
+            "eevp": 100,
+            "tot_exp_vote": 887,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:59Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11517,11 +11517,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 95,
-            "tot_exp_vote": 547,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 519,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:00Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11586,10 +11586,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 259,
+            "tot_exp_vote": 300,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11654,10 +11654,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 329,
+            "tot_exp_vote": 332,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:02Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11722,10 +11722,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1710,
+            "tot_exp_vote": 1737,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11790,10 +11790,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 757,
+            "tot_exp_vote": 814,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11857,11 +11857,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 95,
-            "tot_exp_vote": 390,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 371,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:08:04Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11926,10 +11926,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 670,
+            "tot_exp_vote": 679,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -11994,10 +11994,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1613,
+            "tot_exp_vote": 1664,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:08:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12061,11 +12061,11 @@
               "pierceb": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1823,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1778,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:13:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12130,10 +12130,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 945,
+            "tot_exp_vote": 955,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:09Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12198,10 +12198,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1468,
+            "tot_exp_vote": 1515,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:08:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12266,10 +12266,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2524,
+            "tot_exp_vote": 2586,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12334,10 +12334,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 418,
+            "tot_exp_vote": 445,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12402,10 +12402,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 424,
+            "tot_exp_vote": 431,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12470,10 +12470,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 926,
+            "tot_exp_vote": 942,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:13Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12537,11 +12537,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 2980,
+            "eevp": 100,
+            "tot_exp_vote": 2941,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12605,11 +12605,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 375,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 369,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:49:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12674,10 +12674,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 726,
+            "tot_exp_vote": 732,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:15Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12742,10 +12742,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2530,
+            "tot_exp_vote": 2519,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:16Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12810,10 +12810,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 420,
+            "tot_exp_vote": 433,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:17Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12878,10 +12878,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1475,
+            "tot_exp_vote": 1486,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:17Z",
             "results_absentee": {
               "bidenj": 0,
@@ -12946,10 +12946,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 438,
+            "tot_exp_vote": 437,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13014,10 +13014,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 7949,
+            "tot_exp_vote": 8000,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13081,11 +13081,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 2574,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 2486,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:20Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13150,10 +13150,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 618,
+            "tot_exp_vote": 648,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:20Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13218,10 +13218,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 622,
+            "tot_exp_vote": 678,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:08:53Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13286,10 +13286,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 243,
+            "tot_exp_vote": 253,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13353,11 +13353,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 65,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 64,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:24Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13421,11 +13421,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 2300,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 2225,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:09:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13490,10 +13490,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 846,
+            "tot_exp_vote": 894,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13558,10 +13558,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 339,
+            "tot_exp_vote": 374,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13626,10 +13626,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 5360,
+            "tot_exp_vote": 5419,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13694,10 +13694,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1010,
+            "tot_exp_vote": 1015,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:09:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13762,10 +13762,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 728,
+            "tot_exp_vote": 742,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:09:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13829,11 +13829,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 93,
-            "tot_exp_vote": 740,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 690,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:55:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13898,10 +13898,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 12700,
+            "tot_exp_vote": 12670,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -13965,11 +13965,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1330,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1309,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14033,11 +14033,11 @@
               "segalj": 1,
               "de_la_fuenter": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 4550,
+            "eevp": 100,
+            "tot_exp_vote": 4516,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14102,10 +14102,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 3020,
+            "tot_exp_vote": 3057,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14170,10 +14170,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 3800,
+            "tot_exp_vote": 3794,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14238,10 +14238,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 401,
+            "tot_exp_vote": 453,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:22Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14305,11 +14305,11 @@
               "mccormick": 0,
               "pierceb": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3400,
+            "eevp": 100,
+            "tot_exp_vote": 3377,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:08:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14374,10 +14374,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 531,
+            "tot_exp_vote": 539,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14442,10 +14442,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 112,
+            "tot_exp_vote": 114,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14509,11 +14509,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1043,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1023,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14581,7 +14581,7 @@
             "tot_exp_vote": 477,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14646,10 +14646,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 3400,
+            "tot_exp_vote": 3406,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14714,10 +14714,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 776,
+            "tot_exp_vote": 800,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14782,10 +14782,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 160,
+            "tot_exp_vote": 190,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:30Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14850,10 +14850,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 357,
+            "tot_exp_vote": 388,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:31Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14917,11 +14917,11 @@
               "swingg": 0,
               "write-ins": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 675,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 652,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:41Z",
             "results_absentee": {
               "bidenj": 0,
@@ -14986,10 +14986,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 477,
+            "tot_exp_vote": 539,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:44Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15054,10 +15054,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2990,
+            "tot_exp_vote": 3228,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15122,10 +15122,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1900,
+            "tot_exp_vote": 1910,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:46Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15190,10 +15190,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 332,
+            "tot_exp_vote": 341,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:55:53Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15258,10 +15258,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 643,
+            "tot_exp_vote": 646,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:47Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15326,10 +15326,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 764,
+            "tot_exp_vote": 769,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15394,10 +15394,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 724,
+            "tot_exp_vote": 795,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:49Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15462,10 +15462,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 849,
+            "tot_exp_vote": 863,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:56:09Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15530,10 +15530,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2200,
+            "tot_exp_vote": 2224,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:56:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15597,11 +15597,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1500,
+            "eevp": 100,
+            "tot_exp_vote": 1481,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15665,11 +15665,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 96,
-            "tot_exp_vote": 1350,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1300,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:52Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15734,10 +15734,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 408,
+            "tot_exp_vote": 428,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:53Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15801,11 +15801,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 75,
-            "tot_exp_vote": 73,
-            "eevp_value": "75%",
-            "eevp_display": "75% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 55,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:53Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15870,10 +15870,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1244,
+            "tot_exp_vote": 1248,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:56:42Z",
             "results_absentee": {
               "bidenj": 0,
@@ -15938,10 +15938,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 581,
+            "tot_exp_vote": 586,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:57:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16005,11 +16005,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1320,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1298,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:57:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16074,10 +16074,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 308,
+            "tot_exp_vote": 326,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:09:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16142,10 +16142,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 439,
+            "tot_exp_vote": 492,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16209,11 +16209,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 1300,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1264,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:58Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16278,10 +16278,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 600,
+            "tot_exp_vote": 609,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:47:59Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16345,11 +16345,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3520,
+            "eevp": 100,
+            "tot_exp_vote": 3498,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:09:50Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16414,10 +16414,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 824,
+            "tot_exp_vote": 831,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:00Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16482,10 +16482,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 420,
+            "tot_exp_vote": 454,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16550,10 +16550,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1766,
+            "tot_exp_vote": 1792,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16617,11 +16617,11 @@
               "segalj": 0,
               "write-ins": 0
             },
-            "eevp": 93,
-            "tot_exp_vote": 800,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 742,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:02Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16686,10 +16686,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 333,
+            "tot_exp_vote": 357,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16754,10 +16754,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 149,
+            "tot_exp_vote": 151,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:10:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16822,10 +16822,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1160,
+            "tot_exp_vote": 1167,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:08Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16890,10 +16890,10 @@
               "scalfz": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 792,
+            "tot_exp_vote": 841,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:58:43Z",
             "results_absentee": {
               "bidenj": 0,
@@ -16958,10 +16958,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 339,
+            "tot_exp_vote": 349,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:03Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17025,11 +17025,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1450,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1425,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:13:33Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17093,11 +17093,11 @@
               "la_rivag": 0,
               "mccormick": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 1820,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 1789,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:10:16Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17161,11 +17161,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 242,
+            "eevp": 100,
+            "tot_exp_vote": 240,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:06Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17229,11 +17229,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 467,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 456,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-17T00:10:27Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17298,10 +17298,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 606,
+            "tot_exp_vote": 612,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:10Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17366,10 +17366,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 441,
+            "tot_exp_vote": 452,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17433,11 +17433,11 @@
               "swingg": 0,
               "westk": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 221,
+            "eevp": 100,
+            "tot_exp_vote": 218,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17502,10 +17502,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 719,
+            "tot_exp_vote": 775,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:12Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17570,10 +17570,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1726,
+            "tot_exp_vote": 1862,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:13Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17638,10 +17638,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 6900,
+            "tot_exp_vote": 6873,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17705,11 +17705,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 1172,
+            "eevp": 100,
+            "tot_exp_vote": 1156,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:14Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17773,11 +17773,11 @@
               "segalj": 0,
               "write-ins": 0
             },
-            "eevp": 92,
-            "tot_exp_vote": 308,
-            "eevp_value": "92%",
-            "eevp_display": "92% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 282,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:15Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17842,10 +17842,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 1898,
+            "tot_exp_vote": 1890,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:16Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17910,10 +17910,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 579,
+            "tot_exp_vote": 674,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:17Z",
             "results_absentee": {
               "bidenj": 0,
@@ -17977,11 +17977,11 @@
               "scalfz": 0,
               "segalj": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 3720,
+            "eevp": 100,
+            "tot_exp_vote": 3701,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:17Z",
             "results_absentee": {
               "bidenj": 0,
@@ -18046,10 +18046,10 @@
               "segalj": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 894,
+            "tot_exp_vote": 923,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:18Z",
             "results_absentee": {
               "bidenj": 0,
@@ -18114,10 +18114,10 @@
               "westk": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 590,
+            "tot_exp_vote": 588,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T21:59:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -18181,11 +18181,11 @@
               "westk": 0,
               "write-ins": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 198,
+            "eevp": 100,
+            "tot_exp_vote": 196,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:19Z",
             "results_absentee": {
               "bidenj": 0,
@@ -18250,10 +18250,10 @@
               "swingg": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 2118,
+            "tot_exp_vote": 2109,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:20Z",
             "results_absentee": {
               "bidenj": 0,
@@ -18317,11 +18317,11 @@
               "segalj": 0,
               "swingg": 0
             },
-            "eevp": 94,
-            "tot_exp_vote": 665,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 624,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-16T15:48:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -19325,7 +19325,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74707037,
+            "votes": 74808206,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -19342,7 +19342,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71690911,
+            "votes": 71762419,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -19359,7 +19359,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2074543,
+            "votes": 2076286,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -19387,7 +19387,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78879297,
+            "votes": 78949245,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -19404,7 +19404,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73236351,
+            "votes": 73281611,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -19421,7 +19421,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2795110,
+            "votes": 2796947,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -19453,8 +19453,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41643176,
-            "percent": "47.1",
+            "votes": 41699791,
+            "percent": "47.2",
             "change": 1,
             "flip_count": 2,
             "leader_count": 0,
@@ -19470,7 +19470,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43805723,
+            "votes": 43852510,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -19487,7 +19487,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2881423,
+            "votes": 2886320,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -19526,9 +19526,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 176964,
-          "percent": 47.5,
-          "percent_display": "47.48",
+          "votes": 177170,
+          "percent": 47.4,
+          "percent_display": "47.42",
           "electoral_votes": 0,
           "absentee_votes": 119579,
           "absentee_percent": 41.8,
@@ -19674,9 +19674,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2472230,
+          "votes": 2472278,
           "percent": 49.5,
-          "percent_display": "49.52",
+          "percent_display": "49.51",
           "electoral_votes": 16,
           "absentee_votes": 2097870,
           "absentee_percent": 52.4,
@@ -19807,7 +19807,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2646942,
+          "votes": 2665077,
           "percent": 48.7,
           "percent_display": "48.7",
           "electoral_votes": 0,
@@ -23162,7 +23162,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3432034,
+          "votes": 3434307,
           "percent": 49.9,
           "percent_display": "49.9",
           "electoral_votes": 20,
@@ -27522,7 +27522,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1630713,
+          "votes": 1630716,
           "percent": 49.5,
           "percent_display": "49.45",
           "electoral_votes": 10,
@@ -29162,9 +29162,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 169134,
-          "percent": 50.8,
-          "percent_display": "50.8",
+          "votes": 170865,
+          "percent": 50.7,
+          "percent_display": "50.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -29783,11 +29783,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 864946,
+          "votes": 864997,
           "percent": 51.8,
           "percent_display": "51.8",
           "electoral_votes": 0,
-          "absentee_votes": 402927,
+          "absentee_votes": 402978,
           "absentee_percent": 40.9,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/ernst-63566-16-s.png",
           "has_image": false,
@@ -29823,7 +29823,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5668640,
+          "votes": 5668731,
           "percent": 51.2,
           "percent_display": "51.2",
           "electoral_votes": 29,
@@ -29944,11 +29944,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897415,
+          "votes": 897467,
           "percent": 53.2,
           "percent_display": "53.2",
           "electoral_votes": 6,
-          "absentee_votes": 410303,
+          "absentee_votes": 410353,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -30448,9 +30448,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 692693,
-          "percent": 55.1,
-          "percent_display": "55.1",
+          "votes": 698239,
+          "percent": 55,
+          "percent_display": "55.0",
           "electoral_votes": 0,
           "absentee_votes": 17004,
           "absentee_percent": 45.8,
@@ -30553,7 +30553,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 852677,
+          "votes": 854317,
           "percent": 58,
           "percent_display": "58.0",
           "electoral_votes": 6,
@@ -30922,7 +30922,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 10842414,
+          "votes": 10844195,
           "percent": 63.7,
           "percent_display": "63.7",
           "electoral_votes": 55,
@@ -31629,7 +31629,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 906019,
+          "votes": 907535,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 0,
@@ -32526,7 +32526,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 579091,
+          "votes": 579098,
           "percent": 64.7,
           "percent_display": "64.7",
           "electoral_votes": 0,
@@ -32584,7 +32584,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 553781,
+          "votes": 555509,
           "percent": 58.5,
           "percent_display": "58.5",
           "electoral_votes": 4,
@@ -32707,12 +32707,12 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3788949,
+          "votes": 3808287,
           "percent": 56,
           "percent_display": "56.0",
           "electoral_votes": 29,
-          "absentee_votes": 130804,
-          "absentee_percent": 65.4,
+          "absentee_votes": 132310,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -32915,7 +32915,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1729291,
+          "votes": 1729394,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 11,
@@ -33229,12 +33229,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 759281,
+          "votes": 759443,
           "percent": 62.4,
           "percent_display": "62.4",
           "electoral_votes": 6,
-          "absentee_votes": 572172,
-          "absentee_percent": 60.7,
+          "absentee_votes": 573148,
+          "absentee_percent": 60.6,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -33270,12 +33270,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 792405,
+          "votes": 792561,
           "percent": 66.5,
           "percent_display": "66.5",
           "electoral_votes": 0,
-          "absentee_votes": 600848,
-          "absentee_percent": 64.8,
+          "absentee_votes": 602074,
+          "absentee_percent": 64.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cotton-61872-4-s.png",
           "has_image": false,
           "link": ""
@@ -33857,7 +33857,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2378242,
+          "votes": 2406771,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 0,
@@ -33898,7 +33898,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2211210,
+          "votes": 2215449,
           "percent": 65.8,
           "percent_display": "65.8",
           "electoral_votes": 0,
@@ -34117,7 +34117,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2442224,
+          "votes": 2471364,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 14,
@@ -34199,7 +34199,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1909582,
+          "votes": 1917406,
           "percent": 65.3,
           "percent_display": "65.3",
           "electoral_votes": 10,
@@ -34281,9 +34281,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 739309,
-          "percent": 58.6,
-          "percent_display": "58.6",
+          "votes": 744930,
+          "percent": 58.5,
+          "percent_display": "58.5",
           "electoral_votes": 6,
           "absentee_votes": 18031,
           "absentee_percent": 51.6,
@@ -34939,7 +34939,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 546900,
+          "votes": 547122,
           "percent": 70.3,
           "percent_display": "70.3",
           "electoral_votes": 0,
@@ -35303,7 +35303,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1651366,
+          "votes": 1651485,
           "percent": 54.7,
           "percent_display": "54.7",
           "electoral_votes": 0,
@@ -35829,8 +35829,8 @@
     ]
   },
   "meta": {
-    "version": 18504,
+    "version": 18825,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T07:18:00.144Z"
+    "timestamp": "2020-11-17T19:36:43.092Z"
   }
 }
