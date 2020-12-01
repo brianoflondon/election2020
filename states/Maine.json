@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 816428,
+        "votes": 816423,
         "electoral_votes": 4,
         "electoral_vote_details": [
           {
@@ -74,10 +74,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 543,
+        "precincts_reporting": 544,
         "precincts_total": 552,
-        "reporting_display": "98% reporting",
-        "reporting_value": "98%",
+        "reporting_display": "99% reporting",
+        "reporting_value": "99%",
         "eevp": 100,
         "tot_exp_vote": 819461,
         "eevp_source": "edison",
@@ -91,24 +91,24 @@
             "reporting": 155,
             "precincts": 155,
             "results": {
-              "jorgensenj": 7226,
+              "jorgensenj": 7227,
               "trumpd": 162941,
-              "hawkinsh": 4620,
+              "hawkinsh": 4619,
               "bidenj": 264866,
               "de_la_fuenter": 686,
               "write_ins": 859
             }
           },
           {
-            "votes": 378323,
+            "votes": 378374,
             "name": "District 2",
-            "reporting": 387,
+            "reporting": 389,
             "precincts": 397,
             "results": {
-              "jorgensenj": 6851,
-              "trumpd": 197830,
-              "hawkinsh": 3646,
-              "bidenj": 168130,
+              "jorgensenj": 6852,
+              "trumpd": 197866,
+              "hawkinsh": 3647,
+              "bidenj": 168143,
               "de_la_fuenter": 639,
               "write_ins": 1227
             }
@@ -116,7 +116,7 @@
         ],
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T05:23:54Z",
+        "last_updated": "2020-11-30T16:26:47Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -236,7 +236,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1217,
+            "votes": 1212,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -248,7 +248,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 8.67572,
+        "leader_margin_value": 8.67577,
         "leader_margin_votes": 70831,
         "leader_margin_display": "D+9",
         "leader_margin_name_display": "Biden +9",
@@ -257,9 +257,9 @@
           {
             "fips": "23001",
             "name": "Androscoggin",
-            "votes": 58796,
+            "votes": 58791,
             "absentee_votes": 17255,
-            "reporting": 23,
+            "reporting": 24,
             "precincts": 24,
             "absentee_method": null,
             "eevp": null,
@@ -279,7 +279,7 @@
               "jorgensenj": 1105,
               "hawkinsh": 603,
               "de_la_fuenter": 108,
-              "write-ins": 95
+              "write-ins": 90
             },
             "results_absentee": {
               "bidenj": 10839,
@@ -289,12 +289,12 @@
               "de_la_fuenter": 27,
               "write-ins": 32
             },
-            "last_updated": "2020-11-24T13:26:15Z",
-            "leader_margin_value": 2.80801,
+            "last_updated": "2020-11-30T16:25:32Z",
+            "leader_margin_value": 2.80825,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Trump +3",
             "leader_party_id": "republican",
-            "margin2020": 2.80801,
+            "margin2020": 2.80825,
             "votes2016": 55601,
             "margin2016": 9.4,
             "votes2012": 52862,
@@ -427,7 +427,7 @@
               "write-ins": 0,
               "de_la_fuenter": 0
             },
-            "last_updated": "2020-11-24T15:46:53Z",
+            "last_updated": "2020-11-30T17:10:35Z",
             "leader_margin_value": 4.00964,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Trump +4",
@@ -611,7 +611,7 @@
               "de_la_fuenter": 5,
               "write-ins": 2
             },
-            "last_updated": "2020-11-24T13:26:12Z",
+            "last_updated": "2020-11-30T15:50:58Z",
             "leader_margin_value": 10.28073,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Biden +10",
@@ -933,7 +933,7 @@
               "de_la_fuenter": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T16:13:36Z",
+            "last_updated": "2020-11-30T17:02:45Z",
             "leader_margin_value": 19.73806,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Trump +20",
@@ -979,7 +979,7 @@
               "de_la_fuenter": 22,
               "write-ins": 54
             },
-            "last_updated": "2020-11-24T13:26:10Z",
+            "last_updated": "2020-11-30T15:46:40Z",
             "leader_margin_value": 12.6115,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
@@ -1303,7 +1303,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:42:31Z",
+            "last_updated": "2020-11-30T15:17:07Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1339,7 +1339,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:03:50Z",
+            "last_updated": "2020-11-30T15:19:52Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1375,7 +1375,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:47:09Z",
+            "last_updated": "2020-11-30T15:23:17Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1447,7 +1447,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:45Z",
+            "last_updated": "2020-11-30T15:26:13Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1735,7 +1735,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-25T00:03:14Z",
+            "last_updated": "2020-11-30T14:17:57Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1807,7 +1807,7 @@
             "eevp_value": "85%",
             "eevp_display": "85% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:58:11Z",
+            "last_updated": "2020-11-30T15:31:05Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1843,7 +1843,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:46:35Z",
+            "last_updated": "2020-11-30T15:38:12Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1951,7 +1951,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T15:32:31Z",
+            "last_updated": "2020-11-30T14:31:26Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -1987,7 +1987,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:46Z",
+            "last_updated": "2020-11-30T15:41:31Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2023,7 +2023,7 @@
             "eevp_value": "81%",
             "eevp_display": "81% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:34:06Z",
+            "last_updated": "2020-11-30T15:44:48Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2095,7 +2095,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:46:24Z",
+            "last_updated": "2020-11-30T15:48:58Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2131,7 +2131,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:37:34Z",
+            "last_updated": "2020-11-30T15:51:13Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2167,7 +2167,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:38:40Z",
+            "last_updated": "2020-11-30T15:54:29Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2239,7 +2239,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-25T00:03:30Z",
+            "last_updated": "2020-11-30T14:40:17Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2347,7 +2347,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:04:35Z",
+            "last_updated": "2020-11-30T14:52:33Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2419,7 +2419,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:05:18Z",
+            "last_updated": "2020-11-30T14:53:00Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2491,7 +2491,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:47:16Z",
+            "last_updated": "2020-11-30T15:57:15Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2527,7 +2527,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:06Z",
+            "last_updated": "2020-11-30T14:54:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2635,7 +2635,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T14:55:18Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2671,7 +2671,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T14:56:05Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2707,7 +2707,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:50:09Z",
+            "last_updated": "2020-11-30T16:08:48Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2743,7 +2743,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:51:23Z",
+            "last_updated": "2020-11-30T16:13:52Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2815,7 +2815,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:52:16Z",
+            "last_updated": "2020-11-30T14:59:19Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2851,7 +2851,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T15:10:46Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2887,7 +2887,7 @@
             "eevp_value": "85%",
             "eevp_display": "85% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:06:20Z",
+            "last_updated": "2020-11-30T15:11:15Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -2959,7 +2959,7 @@
             "eevp_value": "89%",
             "eevp_display": "89% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:53:24Z",
+            "last_updated": "2020-11-30T16:15:49Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3067,7 +3067,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T15:13:12Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3139,7 +3139,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T15:13:50Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3211,7 +3211,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:32:48Z",
+            "last_updated": "2020-11-30T15:18:25Z",
             "results_absentee": {
               "bidenj": 8599,
               "trumpd": 2168,
@@ -3355,7 +3355,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T15:19:14Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3427,7 +3427,7 @@
             "eevp_value": "90%",
             "eevp_display": "90% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:56:46Z",
+            "last_updated": "2020-11-30T16:24:02Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3499,7 +3499,7 @@
             "eevp_value": "85%",
             "eevp_display": "85% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:58:01Z",
+            "last_updated": "2020-11-30T16:34:45Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3571,7 +3571,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T16:37:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3643,7 +3643,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T15:23:07Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3679,7 +3679,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:14:13Z",
+            "last_updated": "2020-11-30T16:40:05Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3715,7 +3715,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T15:24:21Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3859,7 +3859,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:01:30Z",
+            "last_updated": "2020-11-30T16:42:33Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -3967,7 +3967,7 @@
             "eevp_value": "80%",
             "eevp_display": "80% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T15:27:01Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4039,7 +4039,7 @@
             "eevp_value": "83%",
             "eevp_display": "83% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:04:12Z",
+            "last_updated": "2020-11-30T16:47:38Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4147,7 +4147,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:06:38Z",
+            "last_updated": "2020-11-30T16:54:16Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4183,7 +4183,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:31:06Z",
+            "last_updated": "2020-11-30T19:54:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4291,7 +4291,7 @@
             "eevp_value": "90%",
             "eevp_display": "90% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:08:30Z",
+            "last_updated": "2020-11-30T16:55:19Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4327,7 +4327,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:09:25Z",
+            "last_updated": "2020-11-30T17:00:13Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4435,7 +4435,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-25T00:33:30Z",
+            "last_updated": "2020-11-30T15:43:21Z",
             "results_absentee": {
               "bidenj": 414,
               "trumpd": 380,
@@ -4471,7 +4471,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:13:36Z",
+            "last_updated": "2020-11-30T17:02:45Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4579,7 +4579,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:46:53Z",
+            "last_updated": "2020-11-30T17:10:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4651,7 +4651,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:10Z",
+            "last_updated": "2020-11-30T15:46:24Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4687,7 +4687,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:10Z",
+            "last_updated": "2020-11-30T15:46:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4795,7 +4795,7 @@
             "eevp_value": "80%",
             "eevp_display": "80% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:15:09Z",
+            "last_updated": "2020-11-30T17:12:14Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4939,7 +4939,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:16:49Z",
+            "last_updated": "2020-11-30T17:23:05Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -4975,7 +4975,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:17:55Z",
+            "last_updated": "2020-11-30T17:33:31Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5011,7 +5011,7 @@
             "eevp_value": "83%",
             "eevp_display": "83% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:46:44Z",
+            "last_updated": "2020-11-30T17:42:48Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5047,7 +5047,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:12Z",
+            "last_updated": "2020-11-30T15:50:58Z",
             "results_absentee": {
               "bidenj": 815,
               "trumpd": 200,
@@ -5083,7 +5083,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:44:14Z",
+            "last_updated": "2020-11-30T17:50:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5155,7 +5155,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:23:32Z",
+            "last_updated": "2020-11-30T17:54:43Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5299,7 +5299,7 @@
             "eevp_value": "86%",
             "eevp_display": "86% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:29:50Z",
+            "last_updated": "2020-11-30T18:19:07Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5335,7 +5335,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:45:50Z",
+            "last_updated": "2020-11-30T18:23:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5407,7 +5407,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:14Z",
+            "last_updated": "2020-11-30T15:59:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5587,7 +5587,7 @@
             "eevp_value": "68%",
             "eevp_display": "68% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:18:01Z",
+            "last_updated": "2020-11-30T18:30:55Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5605,7 +5605,7 @@
             "name": "Durham",
             "fips": "2300101020",
             "fips_town": "2300101020",
-            "votes": 2795,
+            "votes": 2790,
             "absentee_votes": 1501,
             "reporting": 1,
             "precincts": 1,
@@ -5616,14 +5616,14 @@
               "jorgensenj": 63,
               "hawkinsh": 26,
               "de_la_fuenter": 7,
-              "write-ins": 5
+              "write-ins": 0
             },
             "eevp": 100,
             "tot_exp_vote": 2789,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:15Z",
+            "last_updated": "2020-11-30T16:25:32Z",
             "results_absentee": {
               "bidenj": 957,
               "trumpd": 489,
@@ -5632,7 +5632,7 @@
               "de_la_fuenter": 2,
               "write-ins": 0
             },
-            "leader_margin_value": 1.00179,
+            "leader_margin_value": 1.00358,
             "leader_margin_display": "D+1.0",
             "leader_margin_name_display": "Biden +1.0",
             "leader_party_id": "democrat"
@@ -5659,7 +5659,7 @@
             "eevp_value": "89%",
             "eevp_display": "89% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:16Z",
+            "last_updated": "2020-11-30T16:08:49Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5767,7 +5767,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:34:42Z",
+            "last_updated": "2020-11-30T16:23:11Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5803,7 +5803,7 @@
             "eevp_value": "84%",
             "eevp_display": "84% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:18:53Z",
+            "last_updated": "2020-11-30T18:45:12Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5911,7 +5911,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:17Z",
+            "last_updated": "2020-11-30T16:23:28Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5947,7 +5947,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:20:06Z",
+            "last_updated": "2020-11-30T16:24:00Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -5983,7 +5983,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:21:32Z",
+            "last_updated": "2020-11-30T18:58:45Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6055,7 +6055,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-25T00:35:36Z",
+            "last_updated": "2020-11-30T16:25:11Z",
             "results_absentee": {
               "bidenj": 1866,
               "trumpd": 1333,
@@ -6091,7 +6091,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:36:56Z",
+            "last_updated": "2020-11-30T16:25:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6271,7 +6271,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:37:36Z",
+            "last_updated": "2020-11-30T16:26:41Z",
             "results_absentee": {
               "bidenj": 917,
               "trumpd": 563,
@@ -6307,7 +6307,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T13:26:18Z",
+            "last_updated": "2020-11-30T16:27:08Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6451,7 +6451,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:44Z",
+            "last_updated": "2020-11-30T16:27:29Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6559,7 +6559,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:44Z",
+            "last_updated": "2020-11-30T16:28:18Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6667,7 +6667,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:45Z",
+            "last_updated": "2020-11-30T16:28:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -6919,7 +6919,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T00:37:55Z",
+            "last_updated": "2020-11-30T19:01:55Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7027,7 +7027,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:35:08Z",
+            "last_updated": "2020-11-30T19:12:58Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7063,7 +7063,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:46Z",
+            "last_updated": "2020-11-30T16:30:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7099,7 +7099,7 @@
             "eevp_value": "14%",
             "eevp_display": "14% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:36:58Z",
+            "last_updated": "2020-11-30T19:24:44Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7135,7 +7135,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:38:00Z",
+            "last_updated": "2020-12-01T00:53:17Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7171,7 +7171,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:46Z",
+            "last_updated": "2020-11-30T19:28:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7495,7 +7495,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T16:32:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7531,7 +7531,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T16:32:58Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7567,7 +7567,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:40:12Z",
+            "last_updated": "2020-11-30T19:34:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7603,7 +7603,7 @@
             "eevp_value": "82%",
             "eevp_display": "82% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:41:06Z",
+            "last_updated": "2020-11-30T19:38:28Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7639,7 +7639,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T16:34:22Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7675,7 +7675,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T16:36:13Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7783,7 +7783,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:44:38Z",
+            "last_updated": "2020-11-30T19:42:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -7999,7 +7999,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:45:40Z",
+            "last_updated": "2020-11-30T19:46:57Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8215,7 +8215,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:51:46Z",
+            "last_updated": "2020-11-30T16:38:46Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8287,7 +8287,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T16:39:19Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8359,7 +8359,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T16:39:48Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8467,7 +8467,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:54:32Z",
+            "last_updated": "2020-11-30T20:03:45Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8539,7 +8539,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T20:18:59Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8575,7 +8575,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:56:15Z",
+            "last_updated": "2020-11-30T16:48:26Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8611,7 +8611,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T20:26:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8647,7 +8647,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:57:01Z",
+            "last_updated": "2020-11-30T20:28:37Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8719,7 +8719,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T16:49:47Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8791,7 +8791,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:57:55Z",
+            "last_updated": "2020-11-30T20:32:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -8935,7 +8935,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:51Z",
+            "last_updated": "2020-11-30T16:50:59Z",
             "results_absentee": {
               "bidenj": 1441,
               "trumpd": 442,
@@ -9007,7 +9007,7 @@
             "eevp_value": "0%",
             "eevp_display": "0% reported",
             "turnout_stage": 0,
-            "last_updated": "2020-11-24T13:26:51Z",
+            "last_updated": "2020-11-30T20:38:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9115,7 +9115,7 @@
             "eevp_value": "89%",
             "eevp_display": "89% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:59:30Z",
+            "last_updated": "2020-11-30T16:58:34Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9151,7 +9151,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:04:09Z",
+            "last_updated": "2020-11-30T20:47:59Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9187,7 +9187,7 @@
             "eevp_value": "75%",
             "eevp_display": "75% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:01:50Z",
+            "last_updated": "2020-11-30T21:01:59Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9387,7 +9387,7 @@
             "fips_town": "2300101050",
             "votes": 17388,
             "absentee_votes": 12164,
-            "reporting": 6,
+            "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
@@ -9403,7 +9403,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T17:03:04Z",
+            "last_updated": "2020-11-30T18:01:14Z",
             "results_absentee": {
               "bidenj": 7941,
               "trumpd": 3910,
@@ -9475,7 +9475,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:53Z",
+            "last_updated": "2020-11-30T18:01:25Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9511,7 +9511,7 @@
             "eevp_value": "80%",
             "eevp_display": "80% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:53Z",
+            "last_updated": "2020-11-30T18:01:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9547,7 +9547,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:53Z",
+            "last_updated": "2020-11-30T18:02:16Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9619,7 +9619,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:03:57Z",
+            "last_updated": "2020-11-30T21:03:23Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9727,7 +9727,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:54Z",
+            "last_updated": "2020-11-30T18:03:25Z",
             "results_absentee": {
               "bidenj": 1645,
               "trumpd": 1300,
@@ -9763,7 +9763,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:54Z",
+            "last_updated": "2020-11-30T18:03:43Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9835,7 +9835,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:06:21Z",
+            "last_updated": "2020-11-30T18:06:20Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -9943,7 +9943,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:55Z",
+            "last_updated": "2020-11-30T18:06:37Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10051,7 +10051,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:07:13Z",
+            "last_updated": "2020-11-30T21:08:19Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10159,7 +10159,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:08:21Z",
+            "last_updated": "2020-11-30T18:10:59Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10303,7 +10303,7 @@
             "eevp_value": "80%",
             "eevp_display": "80% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:09:05Z",
+            "last_updated": "2020-11-30T21:10:26Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10411,7 +10411,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:15:07Z",
+            "last_updated": "2020-11-30T21:21:23Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10519,7 +10519,7 @@
             "eevp_value": "73%",
             "eevp_display": "73% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:16:47Z",
+            "last_updated": "2020-11-30T18:13:21Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10555,7 +10555,7 @@
             "eevp_value": "83%",
             "eevp_display": "83% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:18:13Z",
+            "last_updated": "2020-11-30T18:13:49Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10627,7 +10627,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:19:37Z",
+            "last_updated": "2020-11-30T18:15:10Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10663,7 +10663,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:57Z",
+            "last_updated": "2020-11-30T18:15:29Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10699,7 +10699,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:20:31Z",
+            "last_updated": "2020-11-30T18:16:01Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10771,7 +10771,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:21:23Z",
+            "last_updated": "2020-11-30T18:16:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10807,7 +10807,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:22:23Z",
+            "last_updated": "2020-11-30T18:17:07Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -10915,7 +10915,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:57Z",
+            "last_updated": "2020-11-30T18:17:30Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11059,7 +11059,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:58Z",
+            "last_updated": "2020-11-30T18:27:09Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11275,7 +11275,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:58Z",
+            "last_updated": "2020-11-30T18:27:38Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11311,7 +11311,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:23:11Z",
+            "last_updated": "2020-11-30T18:28:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11347,7 +11347,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:23:44Z",
+            "last_updated": "2020-11-30T18:28:22Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11419,7 +11419,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:24:41Z",
+            "last_updated": "2020-11-30T18:29:04Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11527,7 +11527,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:27:17Z",
+            "last_updated": "2020-11-30T18:31:01Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11635,7 +11635,7 @@
             "eevp_value": "54%",
             "eevp_display": "54% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T18:31:25Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11707,7 +11707,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:47Z",
+            "last_updated": "2020-11-30T18:31:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11743,7 +11743,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:28:46Z",
+            "last_updated": "2020-11-30T18:32:51Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11851,7 +11851,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T18:33:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -11995,7 +11995,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:28:08Z",
+            "last_updated": "2020-11-30T18:32:15Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12067,7 +12067,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:29:49Z",
+            "last_updated": "2020-11-30T18:34:05Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12103,7 +12103,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T18:34:25Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12175,7 +12175,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:30:45Z",
+            "last_updated": "2020-11-30T18:35:15Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12247,7 +12247,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T18:34:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12355,7 +12355,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:31:31Z",
+            "last_updated": "2020-11-30T18:35:58Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12499,7 +12499,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T18:36:30Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12535,7 +12535,7 @@
             "eevp_value": "84%",
             "eevp_display": "84% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:32:28Z",
+            "last_updated": "2020-11-30T18:37:14Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12607,7 +12607,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T18:37:39Z",
             "results_absentee": {
               "bidenj": 2711,
               "trumpd": 520,
@@ -12679,7 +12679,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:33:21Z",
+            "last_updated": "2020-11-30T18:38:09Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12823,7 +12823,7 @@
             "eevp_value": "67%",
             "eevp_display": "67% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:34:41Z",
+            "last_updated": "2020-11-30T18:43:08Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -12967,7 +12967,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T18:43:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13003,7 +13003,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T18:43:55Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13111,7 +13111,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:35:36Z",
+            "last_updated": "2020-11-30T18:44:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13147,7 +13147,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:50:18Z",
+            "last_updated": "2020-11-30T18:45:00Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13183,7 +13183,7 @@
             "eevp_value": "88%",
             "eevp_display": "88% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:51:54Z",
+            "last_updated": "2020-11-30T18:45:37Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13291,7 +13291,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:36:18Z",
+            "last_updated": "2020-11-30T19:55:02Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13327,7 +13327,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:53:21Z",
+            "last_updated": "2020-11-30T18:46:36Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13363,7 +13363,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:54:05Z",
+            "last_updated": "2020-11-30T18:46:09Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13435,7 +13435,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:59:38Z",
+            "last_updated": "2020-11-30T18:47:23Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13615,7 +13615,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T18:00:34Z",
+            "last_updated": "2020-11-30T18:47:53Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13651,7 +13651,7 @@
             "eevp_value": "90%",
             "eevp_display": "90% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T18:02:22Z",
+            "last_updated": "2020-11-30T18:48:20Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -13831,7 +13831,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T18:03:49Z",
+            "last_updated": "2020-12-01T00:52:40Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14191,7 +14191,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T22:57:51Z",
+            "last_updated": "2020-11-30T18:50:28Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14299,7 +14299,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T22:58:19Z",
+            "last_updated": "2020-11-30T18:51:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14443,7 +14443,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T22:58:45Z",
+            "last_updated": "2020-11-30T18:51:29Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14479,7 +14479,7 @@
             "eevp_value": "90%",
             "eevp_display": "90% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T22:59:26Z",
+            "last_updated": "2020-11-30T18:52:48Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14587,7 +14587,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:44Z",
+            "last_updated": "2020-11-30T18:53:28Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14659,7 +14659,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:01:17Z",
+            "last_updated": "2020-11-30T19:21:03Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -14695,7 +14695,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T23:02:01Z",
+            "last_updated": "2020-11-30T19:21:26Z",
             "results_absentee": {
               "bidenj": 4065,
               "trumpd": 2254,
@@ -14839,7 +14839,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:45Z",
+            "last_updated": "2020-11-30T19:22:02Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15091,7 +15091,7 @@
             "eevp_value": "80%",
             "eevp_display": "80% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:02:40Z",
+            "last_updated": "2020-11-30T19:22:20Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15379,7 +15379,7 @@
             "eevp_value": "85%",
             "eevp_display": "85% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:03:14Z",
+            "last_updated": "2020-11-30T19:23:01Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15487,7 +15487,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T23:03:34Z",
+            "last_updated": "2020-11-30T19:23:43Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15595,7 +15595,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T19:24:34Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15631,7 +15631,7 @@
             "eevp_value": "81%",
             "eevp_display": "81% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:04:09Z",
+            "last_updated": "2020-11-30T19:25:06Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15667,7 +15667,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:37:27Z",
+            "last_updated": "2020-11-30T18:54:31Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15703,7 +15703,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:00:27Z",
+            "last_updated": "2020-11-30T18:59:57Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15811,7 +15811,7 @@
             "eevp_value": "86%",
             "eevp_display": "86% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:04:33Z",
+            "last_updated": "2020-11-30T19:25:37Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -15919,7 +15919,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:05:36Z",
+            "last_updated": "2020-11-30T19:26:20Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16063,7 +16063,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:08:53Z",
+            "last_updated": "2020-11-30T19:27:06Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16099,7 +16099,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:48Z",
+            "last_updated": "2020-11-30T19:27:43Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16135,7 +16135,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:09:15Z",
+            "last_updated": "2020-11-30T19:28:07Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16207,7 +16207,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:35:21Z",
+            "last_updated": "2020-11-30T19:28:43Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16387,7 +16387,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:09:41Z",
+            "last_updated": "2020-11-30T19:29:22Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16423,7 +16423,7 @@
             "eevp_value": "74%",
             "eevp_display": "74% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:10:13Z",
+            "last_updated": "2020-11-30T19:29:46Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16459,7 +16459,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:49Z",
+            "last_updated": "2020-11-30T19:30:11Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16495,7 +16495,7 @@
             "eevp_value": "75%",
             "eevp_display": "75% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:10:44Z",
+            "last_updated": "2020-11-30T19:30:50Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16567,7 +16567,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T01:03:19Z",
+            "last_updated": "2020-11-30T19:31:30Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16603,7 +16603,7 @@
             "eevp_value": "90%",
             "eevp_display": "90% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T19:34:52Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16675,7 +16675,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T19:35:22Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16711,7 +16711,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T19:35:45Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16891,7 +16891,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:11:37Z",
+            "last_updated": "2020-11-30T19:36:08Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16927,7 +16927,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:32:41Z",
+            "last_updated": "2020-11-30T19:36:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -16963,7 +16963,7 @@
             "eevp_value": "77%",
             "eevp_display": "77% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:11:58Z",
+            "last_updated": "2020-11-30T19:37:06Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17035,7 +17035,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:12:24Z",
+            "last_updated": "2020-11-30T19:37:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17071,7 +17071,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:12:57Z",
+            "last_updated": "2020-11-30T19:38:02Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17179,7 +17179,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:44Z",
+            "last_updated": "2020-11-30T19:38:22Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17215,7 +17215,7 @@
             "eevp_value": "76%",
             "eevp_display": "76% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:13:28Z",
+            "last_updated": "2020-11-30T19:38:51Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17251,7 +17251,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-25T02:17:31Z",
+            "last_updated": "2020-11-30T19:39:32Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17287,7 +17287,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:45Z",
+            "last_updated": "2020-11-30T19:40:14Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17395,7 +17395,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:13:56Z",
+            "last_updated": "2020-11-30T19:40:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17431,7 +17431,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-25T01:02:23Z",
+            "last_updated": "2020-11-30T19:41:06Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17647,7 +17647,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T23:15:14Z",
+            "last_updated": "2020-11-30T19:41:39Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17719,7 +17719,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:15:31Z",
+            "last_updated": "2020-11-30T19:42:31Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17791,7 +17791,7 @@
             "eevp_value": "83%",
             "eevp_display": "83% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:16:03Z",
+            "last_updated": "2020-11-30T19:42:59Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17863,7 +17863,7 @@
             "eevp_value": "85%",
             "eevp_display": "85% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:16:43Z",
+            "last_updated": "2020-11-30T19:43:28Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -17935,7 +17935,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:56:46Z",
+            "last_updated": "2020-11-30T19:44:35Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18043,7 +18043,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T23:17:30Z",
+            "last_updated": "2020-11-30T19:43:59Z",
             "results_absentee": {
               "bidenj": 6308,
               "trumpd": 2181,
@@ -18115,7 +18115,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:56:11Z",
+            "last_updated": "2020-11-30T19:45:18Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18223,7 +18223,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:26:50Z",
+            "last_updated": "2020-11-30T19:45:47Z",
             "results_absentee": {
               "bidenj": 492,
               "trumpd": 279,
@@ -18259,7 +18259,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:55:40Z",
+            "last_updated": "2020-11-30T19:46:17Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18295,7 +18295,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:55:14Z",
+            "last_updated": "2020-11-30T19:46:47Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18331,7 +18331,7 @@
             "eevp_value": "93%",
             "eevp_display": "93% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:54:33Z",
+            "last_updated": "2020-11-30T19:47:13Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18367,7 +18367,7 @@
             "eevp_value": "87%",
             "eevp_display": "87% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T23:54:09Z",
+            "last_updated": "2020-11-30T19:47:49Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18403,7 +18403,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T23:53:45Z",
+            "last_updated": "2020-11-30T19:48:19Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18439,7 +18439,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:46Z",
+            "last_updated": "2020-11-30T19:48:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18583,7 +18583,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T23:53:15Z",
+            "last_updated": "2020-11-30T19:51:10Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18799,7 +18799,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T23:52:36Z",
+            "last_updated": "2020-11-30T19:51:42Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -18871,7 +18871,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:26:51Z",
+            "last_updated": "2020-11-30T19:53:46Z",
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
@@ -23356,6 +23356,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T05:23:54Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.528,
+              "trumpd": 0.441
+            },
+            "votes": 816423,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T16:25:32Z"
           }
         ]
       }
@@ -23374,7 +23384,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75958425,
+            "votes": 76043490,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -23390,12 +23400,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 206,
-            "votes": 72404979,
+            "count": 207,
+            "votes": 72442263,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
-            "leader_count": 7,
+            "leader_count": 6,
             "change_full": "Gained 9 seats",
             "change_abbr": "+9",
             "flip_text_full": "Flipped 12 seats",
@@ -23408,7 +23418,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2079315,
+            "votes": 2080486,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -23436,7 +23446,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80104118,
+            "votes": 80185187,
             "percent": "51.1",
             "change": 0,
             "flip_count": 0,
@@ -23453,7 +23463,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73918712,
+            "votes": 73946421,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -23470,7 +23480,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2863125,
+            "votes": 2866786,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -23502,7 +23512,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42031308,
+            "votes": 42048853,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -23519,7 +23529,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44023075,
+            "votes": 44053546,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -23536,7 +23546,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2904343,
+            "votes": 2907223,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -23553,6 +23563,80 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-24-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-24-2020-11-03",
+        "datetime": 1606774155226,
+        "is_today": false,
+        "text": "John Katko, Republican, wins re-election in New York\u2019s 24th Congressional District.",
+        "winner": {
+          "candidate_id": "katko-63757-33-h",
+          "candidate_key": "katkoj",
+          "first_name": "John",
+          "last_name": "Katko",
+          "order": 2,
+          "name_display": "John Katko",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 181084,
+          "percent": 57.4,
+          "percent_display": "57.4",
+          "electoral_votes": 0,
+          "absentee_votes": 10914,
+          "absentee_percent": 31.4,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/katko-63757-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Katko",
+        "candidate_name_display": "John Katko",
+        "candidate_id": "katko-63757-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-24.html"
+      },
+      {
+        "id": 551,
+        "author": "Reid Epstein",
+        "author_title_or_location": "in Washington",
+        "text": "The chairwoman of the Wisconsin Elections Commission has certified Biden as the winner in Wisconsin, formalizing his narrow victory in a state Trump carried four years ago.",
+        "link_url": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump/wisconsin-certifies-bidens-narrow-victory-following-arizona-which-did-so-earlier-today",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1606772594000,
+        "author_headshot": "https://static01.nyt.com/images/2019/06/25/reader-center/author-reid-epstein/9e877853d8234217b58e5762253aa771-thumbLarge.png",
+        "is_today": false,
+        "linked_states": null
+      },
+      {
+        "id": 550,
+        "author": "Glenn Thrush",
+        "author_title_or_location": "in Washington",
+        "text": "Arizona has officially certified Biden\u2019s narrow victory in the state, further undermining Trump\u2019s efforts to portray his decisive national loss as a matter still under dispute.",
+        "link_url": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump/arizona-certifies-bidens-victory-in-the-state-and-wisconsin-is-expected-to-follow-suit-later-today",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1606763109000,
+        "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "is_today": false,
+        "linked_states": null
+      },
       {
         "id": "CA-G-H-21-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -23575,9 +23659,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 85373,
-          "percent": 50.5,
-          "percent_display": "50.5",
+          "votes": 85928,
+          "percent": 50.4,
+          "percent_display": "50.45",
           "electoral_votes": 0,
           "absentee_votes": 48048,
           "absentee_percent": 49.7,
@@ -23931,7 +24015,7 @@
           "winner": true,
           "votes": 1672143,
           "percent": 49.4,
-          "percent_display": "49.39",
+          "percent_display": "49.36",
           "electoral_votes": 11,
           "absentee_votes": 1540981,
           "absentee_percent": 51.6,
@@ -25929,7 +26013,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 195427,
+          "votes": 195434,
           "percent": 54,
           "percent_display": "54.0",
           "electoral_votes": 0,
@@ -31842,12 +31926,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 385881,
-          "percent": 50.6,
-          "percent_display": "50.6",
+          "votes": 416328,
+          "percent": 51.2,
+          "percent_display": "51.2",
           "electoral_votes": 0,
           "absentee_votes": 22094,
-          "absentee_percent": 37.3,
+          "absentee_percent": 37.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/collins-1727-20-s.png",
           "has_image": false,
           "link": ""
@@ -31909,9 +31993,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 174734,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 183987,
+          "percent": 53.4,
+          "percent_display": "53.4",
           "electoral_votes": 0,
           "absentee_votes": 18523,
           "absentee_percent": 70.1,
@@ -33456,7 +33540,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 194065,
+          "votes": 194066,
           "percent": 53.4,
           "percent_display": "53.4",
           "electoral_votes": 0,
@@ -35119,7 +35203,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11082293,
+          "votes": 11090510,
           "percent": 63.5,
           "percent_display": "63.5",
           "electoral_votes": 55,
@@ -36904,9 +36988,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 4131812,
-          "percent": 57,
-          "percent_display": "57.0",
+          "votes": 4204648,
+          "percent": 57.3,
+          "percent_display": "57.3",
           "electoral_votes": 29,
           "absentee_votes": 240047,
           "absentee_percent": 68.8,
@@ -37426,7 +37510,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 760613,
+          "votes": 760647,
           "percent": 62.4,
           "percent_display": "62.4",
           "electoral_votes": 6,
@@ -37467,7 +37551,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 793847,
+          "votes": 793871,
           "percent": 66.5,
           "percent_display": "66.5",
           "electoral_votes": 0,
@@ -40026,8 +40110,8 @@
     ]
   },
   "meta": {
-    "version": 23218,
+    "version": 23585,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T04:35:17.949Z"
+    "timestamp": "2020-12-01T05:43:18.085Z"
   }
 }
