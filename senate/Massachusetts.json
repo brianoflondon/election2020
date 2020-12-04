@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3408865,
+        "votes": 3463395,
         "absentee_votes": 111967,
         "absentee_counties": 16,
         "absentee_count_progress": "unknown",
@@ -42,19 +42,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 2030,
+        "precincts_reporting": 2049,
         "precincts_total": 2174,
-        "reporting_display": "93% reporting",
-        "reporting_value": "93%",
-        "eevp": 94,
+        "reporting_display": "94% reporting",
+        "reporting_value": "94%",
+        "eevp": 95,
         "tot_exp_vote": 3631402,
         "eevp_source": "edison",
-        "eevp_value": "94%",
-        "eevp_display": "94% reported",
+        "eevp_value": "95%",
+        "eevp_display": "95% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-25T15:46:49Z",
+        "last_updated": "2020-12-02T16:48:14Z",
         "candidates": [
           {
             "candidate_id": "markey-888-22-s",
@@ -67,9 +67,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 2247478,
-            "percent": 65.9,
-            "percent_display": "65.9",
+            "votes": 2289169,
+            "percent": 66.1,
+            "percent_display": "66.1",
             "electoral_votes": 0,
             "absentee_votes": 74745,
             "absentee_percent": 66.8,
@@ -88,9 +88,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1136363,
-            "percent": 33.3,
-            "percent_display": "33.3",
+            "votes": 1148093,
+            "percent": 33.1,
+            "percent_display": "33.1",
             "electoral_votes": 0,
             "absentee_votes": 36737,
             "absentee_percent": 32.8,
@@ -109,9 +109,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25024,
-            "percent": 0.7,
-            "percent_display": "0.7",
+            "votes": 26133,
+            "percent": 0.8,
+            "percent_display": "0.8",
             "electoral_votes": 0,
             "absentee_votes": 485,
             "absentee_percent": 0.4,
@@ -121,8 +121,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 32.59487,
-        "leader_margin_votes": 1111115,
+        "leader_margin_value": 32.94675,
+        "leader_margin_votes": 1141076,
         "leader_margin_display": "D+33",
         "leader_margin_name_display": "Markey +33",
         "leader_party_id": "democrat",
@@ -130,9 +130,9 @@
           {
             "fips": "25001",
             "name": "Barnstable",
-            "votes": 146532,
+            "votes": 147595,
             "absentee_votes": 0,
-            "reporting": 63,
+            "reporting": 65,
             "precincts": 65,
             "absentee_method": null,
             "eevp": null,
@@ -147,9 +147,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 88613,
-              "oconnork": 57368,
-              "write-ins": 551
+              "markeye": 89173,
+              "oconnork": 57721,
+              "write-ins": 701
             },
             "results_absentee": {
               "markeye": 0,
@@ -157,7 +157,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T13:22:51Z",
-            "leader_margin_value": 21.32299,
+            "leader_margin_value": 21.30966,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Markey +21",
             "leader_party_id": "democrat"
@@ -165,7 +165,7 @@
           {
             "fips": "25003",
             "name": "Berkshire",
-            "votes": 68101,
+            "votes": 68160,
             "absentee_votes": 0,
             "reporting": 55,
             "precincts": 59,
@@ -183,8 +183,8 @@
             "provisional_count_progress": null,
             "results": {
               "markeye": 50399,
-              "oconnork": 17389,
-              "write-ins": 313
+              "oconnork": 17391,
+              "write-ins": 370
             },
             "results_absentee": {
               "markeye": 0,
@@ -192,7 +192,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T15:45:04Z",
-            "leader_margin_value": 48.47212,
+            "leader_margin_value": 48.42723,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Markey +48",
             "leader_party_id": "democrat"
@@ -200,7 +200,7 @@
           {
             "fips": "25005",
             "name": "Bristol",
-            "votes": 266474,
+            "votes": 267308,
             "absentee_votes": 15237,
             "reporting": 160,
             "precincts": 172,
@@ -217,9 +217,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 152261,
-              "oconnork": 112269,
-              "write-ins": 1944
+              "markeye": 152696,
+              "oconnork": 112520,
+              "write-ins": 2092
             },
             "results_absentee": {
               "markeye": 8686,
@@ -227,7 +227,7 @@
               "write-ins": 112
             },
             "last_updated": "2020-11-24T13:22:06Z",
-            "leader_margin_value": 15.00784,
+            "leader_margin_value": 15.02985,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Markey +15",
             "leader_party_id": "democrat"
@@ -270,9 +270,9 @@
           {
             "fips": "25009",
             "name": "Essex",
-            "votes": 406848,
+            "votes": 408548,
             "absentee_votes": 0,
-            "reporting": 227,
+            "reporting": 228,
             "precincts": 240,
             "absentee_method": null,
             "eevp": null,
@@ -287,9 +287,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 262669,
-              "oconnork": 141346,
-              "write-ins": 2833
+              "markeye": 263836,
+              "oconnork": 141822,
+              "write-ins": 2890
             },
             "results_absentee": {
               "markeye": 0,
@@ -297,7 +297,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T13:22:14Z",
-            "leader_margin_value": 29.82023,
+            "leader_margin_value": 29.86528,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Markey +30",
             "leader_party_id": "democrat"
@@ -305,7 +305,7 @@
           {
             "fips": "25011",
             "name": "Franklin",
-            "votes": 40302,
+            "votes": 40316,
             "absentee_votes": 848,
             "reporting": 37,
             "precincts": 40,
@@ -322,9 +322,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 28926,
-              "oconnork": 10862,
-              "write-ins": 514
+              "markeye": 28928,
+              "oconnork": 10863,
+              "write-ins": 525
             },
             "results_absentee": {
               "markeye": 637,
@@ -332,7 +332,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T13:22:15Z",
-            "leader_margin_value": 44.8216,
+            "leader_margin_value": 44.80851,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Markey +45",
             "leader_party_id": "democrat"
@@ -340,7 +340,7 @@
           {
             "fips": "25013",
             "name": "Hampden",
-            "votes": 208951,
+            "votes": 208990,
             "absentee_votes": 5478,
             "reporting": 150,
             "precincts": 166,
@@ -358,8 +358,8 @@
             "provisional_count_progress": null,
             "results": {
               "markeye": 121823,
-              "oconnork": 84525,
-              "write-ins": 2603
+              "oconnork": 84535,
+              "write-ins": 2632
             },
             "results_absentee": {
               "markeye": 3459,
@@ -367,7 +367,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T15:44:40Z",
-            "leader_margin_value": 17.85012,
+            "leader_margin_value": 17.842,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Markey +18",
             "leader_party_id": "democrat"
@@ -375,7 +375,7 @@
           {
             "fips": "25015",
             "name": "Hampshire",
-            "votes": 84137,
+            "votes": 84711,
             "absentee_votes": 4853,
             "reporting": 52,
             "precincts": 56,
@@ -392,9 +392,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 61291,
-              "oconnork": 22086,
-              "write-ins": 760
+              "markeye": 61825,
+              "oconnork": 22121,
+              "write-ins": 765
             },
             "results_absentee": {
               "markeye": 2409,
@@ -402,7 +402,7 @@
               "write-ins": 54
             },
             "last_updated": "2020-11-24T15:44:13Z",
-            "leader_margin_value": 46.59662,
+            "leader_margin_value": 46.86995,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Markey +47",
             "leader_party_id": "democrat"
@@ -410,9 +410,9 @@
           {
             "fips": "25017",
             "name": "Middlesex",
-            "votes": 813287,
+            "votes": 834811,
             "absentee_votes": 10596,
-            "reporting": 436,
+            "reporting": 447,
             "precincts": 474,
             "absentee_method": null,
             "eevp": null,
@@ -427,9 +427,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 581405,
-              "oconnork": 226597,
-              "write-ins": 5285
+              "markeye": 598839,
+              "oconnork": 230557,
+              "write-ins": 5415
             },
             "results_absentee": {
               "markeye": 7024,
@@ -437,7 +437,7 @@
               "write-ins": 50
             },
             "last_updated": "2020-11-24T13:22:02Z",
-            "leader_margin_value": 43.62642,
+            "leader_margin_value": 44.11561,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Markey +44",
             "leader_party_id": "democrat"
@@ -480,9 +480,9 @@
           {
             "fips": "25021",
             "name": "Norfolk",
-            "votes": 354879,
+            "votes": 356440,
             "absentee_votes": 15760,
-            "reporting": 184,
+            "reporting": 185,
             "precincts": 211,
             "absentee_method": null,
             "eevp": null,
@@ -497,9 +497,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 234340,
-              "oconnork": 118582,
-              "write-ins": 1957
+              "markeye": 235602,
+              "oconnork": 118785,
+              "write-ins": 2053
             },
             "results_absentee": {
               "markeye": 12475,
@@ -507,7 +507,7 @@
               "write-ins": 32
             },
             "last_updated": "2020-11-24T18:33:28Z",
-            "leader_margin_value": 32.61901,
+            "leader_margin_value": 32.77326,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Markey +33",
             "leader_party_id": "democrat"
@@ -515,7 +515,7 @@
           {
             "fips": "25023",
             "name": "Plymouth",
-            "votes": 291958,
+            "votes": 292383,
             "absentee_votes": 40218,
             "reporting": 140,
             "precincts": 143,
@@ -532,9 +532,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 167220,
-              "oconnork": 123088,
-              "write-ins": 1650
+              "markeye": 167423,
+              "oconnork": 123191,
+              "write-ins": 1769
             },
             "results_absentee": {
               "markeye": 27167,
@@ -542,7 +542,7 @@
               "write-ins": 139
             },
             "last_updated": "2020-11-24T18:20:42Z",
-            "leader_margin_value": 15.11587,
+            "leader_margin_value": 15.1281,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Markey +15",
             "leader_party_id": "democrat"
@@ -550,7 +550,7 @@
           {
             "fips": "25025",
             "name": "Suffolk",
-            "votes": 305891,
+            "votes": 325972,
             "absentee_votes": 0,
             "reporting": 294,
             "precincts": 298,
@@ -567,9 +567,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 248846,
-              "oconnork": 55552,
-              "write-ins": 1493
+              "markeye": 265571,
+              "oconnork": 58815,
+              "write-ins": 1586
             },
             "results_absentee": {
               "markeye": 0,
@@ -577,7 +577,7 @@
               "write-ins": 0
             },
             "last_updated": "2020-11-24T18:17:48Z",
-            "leader_margin_value": 63.19048,
+            "leader_margin_value": 63.42753,
             "leader_margin_display": "D+63",
             "leader_margin_name_display": "Markey +63",
             "leader_party_id": "democrat"
@@ -585,9 +585,9 @@
           {
             "fips": "25027",
             "name": "Worcester",
-            "votes": 401912,
+            "votes": 408568,
             "absentee_votes": 14517,
-            "reporting": 225,
+            "reporting": 229,
             "precincts": 242,
             "absentee_method": null,
             "eevp": null,
@@ -602,9 +602,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "markeye": 234953,
-              "oconnork": 161914,
-              "write-ins": 5045
+              "markeye": 238322,
+              "oconnork": 164987,
+              "write-ins": 5259
             },
             "results_absentee": {
               "markeye": 9390,
@@ -612,7 +612,7 @@
               "write-ins": 93
             },
             "last_updated": "2020-11-24T13:22:09Z",
-            "leader_margin_value": 18.17288,
+            "leader_margin_value": 17.94928,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Markey +18",
             "leader_party_id": "democrat"
@@ -684,60 +684,60 @@
             "name": "Acushnet",
             "fips": "25005005",
             "fips_town": "25005005",
-            "votes": 5629,
+            "votes": 5900,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2754,
-              "oconnork": 2875,
-              "write-ins": 0
+              "markeye": 2870,
+              "oconnork": 2965,
+              "write-ins": 65
             },
-            "eevp": 90,
+            "eevp": 95,
             "tot_exp_vote": 6234,
-            "eevp_value": "90%",
-            "eevp_display": "90% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:23:34Z",
+            "last_updated": "2020-12-01T21:00:55Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 2.14958,
-            "leader_margin_display": "R+2",
-            "leader_margin_name_display": "O'Connor +2",
+            "leader_margin_value": 1.61017,
+            "leader_margin_display": "R+1.6",
+            "leader_margin_name_display": "O'Connor +1.6",
             "leader_party_id": "republican"
           },
           {
             "name": "Adams",
             "fips": "25003005",
             "fips_town": "25003005",
-            "votes": 4304,
+            "votes": 4363,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 5,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
               "markeye": 2948,
-              "oconnork": 1356,
-              "write-ins": 0
+              "oconnork": 1358,
+              "write-ins": 57
             },
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 4392,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:20:09Z",
+            "last_updated": "2020-12-01T21:02:22Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 36.98885,
-            "leader_margin_display": "D+37",
-            "leader_margin_name_display": "Markey +37",
+            "leader_margin_value": 36.44281,
+            "leader_margin_display": "D+36",
+            "leader_margin_name_display": "Markey +36",
             "leader_party_id": "democrat"
           },
           {
@@ -804,28 +804,28 @@
             "name": "Amesbury",
             "fips": "25009005",
             "fips_town": "25009005",
-            "votes": 10100,
+            "votes": 10240,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 6674,
-              "oconnork": 3369,
-              "write-ins": 57
+              "markeye": 6769,
+              "oconnork": 3412,
+              "write-ins": 59
             },
             "eevp": 100,
             "tot_exp_vote": 9955,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:11:36Z",
+            "last_updated": "2020-12-01T21:07:52Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 32.72277,
+            "leader_margin_value": 32.7832,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Markey +33",
             "leader_party_id": "democrat"
@@ -834,60 +834,60 @@
             "name": "Amherst",
             "fips": "25015005",
             "fips_town": "25015005",
-            "votes": 11211,
+            "votes": 11785,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 10,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 10253,
-              "oconnork": 894,
-              "write-ins": 64
+              "markeye": 10787,
+              "oconnork": 929,
+              "write-ins": 69
             },
-            "eevp": 69,
+            "eevp": 72,
             "tot_exp_vote": 16301,
-            "eevp_value": "69%",
-            "eevp_display": "69% reported",
+            "eevp_value": "72%",
+            "eevp_display": "72% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:58:01Z",
+            "last_updated": "2020-12-01T21:14:04Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 83.48051,
-            "leader_margin_display": "D+83",
-            "leader_margin_name_display": "Markey +83",
+            "leader_margin_value": 83.64871,
+            "leader_margin_display": "D+84",
+            "leader_margin_name_display": "Markey +84",
             "leader_party_id": "democrat"
           },
           {
             "name": "Andover",
             "fips": "25009010",
             "fips_town": "25009010",
-            "votes": 20065,
+            "votes": 21527,
             "absentee_votes": 0,
-            "reporting": 10,
+            "reporting": 11,
             "precincts": 11,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 12840,
-              "oconnork": 7075,
-              "write-ins": 150
+              "markeye": 13854,
+              "oconnork": 7470,
+              "write-ins": 203
             },
-            "eevp": 97,
+            "eevp": 100,
             "tot_exp_vote": 20704,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:23:39Z",
+            "last_updated": "2020-12-01T21:15:36Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 28.73162,
-            "leader_margin_display": "D+29",
-            "leader_margin_name_display": "Markey +29",
+            "leader_margin_value": 29.65578,
+            "leader_margin_display": "D+30",
+            "leader_margin_name_display": "Markey +30",
             "leader_party_id": "democrat"
           },
           {
@@ -954,28 +954,28 @@
             "name": "Ashburnham",
             "fips": "25027005",
             "fips_town": "25027005",
-            "votes": 3699,
+            "votes": 3771,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1992,
-              "oconnork": 1580,
-              "write-ins": 127
+              "markeye": 2037,
+              "oconnork": 1606,
+              "write-ins": 128
             },
             "eevp": 100,
             "tot_exp_vote": 3699,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T16:15:02Z",
+            "last_updated": "2020-12-01T21:16:35Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 11.13815,
+            "leader_margin_value": 11.42933,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Markey +11",
             "leader_party_id": "democrat"
@@ -1074,58 +1074,58 @@
             "name": "Athol",
             "fips": "25027010",
             "fips_town": "25027010",
-            "votes": 0,
+            "votes": 5441,
             "absentee_votes": 0,
-            "reporting": 0,
+            "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 0,
-              "oconnork": 0,
-              "write-ins": 0
+              "markeye": 2799,
+              "oconnork": 2492,
+              "write-ins": 150
             },
-            "eevp": 0,
+            "eevp": 100,
             "tot_exp_vote": 5450,
-            "eevp_value": "0%",
-            "eevp_display": "0% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:58:20Z",
+            "last_updated": "2020-12-01T21:18:04Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": null,
-            "leader_margin_display": "\u2013",
-            "leader_margin_name_display": "\u2013",
-            "leader_party_id": ""
+            "leader_margin_value": 5.64235,
+            "leader_margin_display": "D+6",
+            "leader_margin_name_display": "Markey +6",
+            "leader_party_id": "democrat"
           },
           {
             "name": "Attleboro",
             "fips": "25005010",
             "fips_town": "25005010",
-            "votes": 22737,
+            "votes": 23176,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 13468,
-              "oconnork": 9104,
-              "write-ins": 165
+              "markeye": 13738,
+              "oconnork": 9243,
+              "write-ins": 195
             },
             "eevp": 100,
             "tot_exp_vote": 22781,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:29:56Z",
+            "last_updated": "2020-12-01T21:25:47Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 19.19339,
+            "leader_margin_value": 19.39506,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Markey +19",
             "leader_party_id": "democrat"
@@ -1134,58 +1134,58 @@
             "name": "Auburn",
             "fips": "25027015",
             "fips_town": "25027015",
-            "votes": 9072,
+            "votes": 10015,
             "absentee_votes": 0,
-            "reporting": 4,
+            "reporting": 5,
             "precincts": 5,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 5237,
-              "oconnork": 3741,
-              "write-ins": 94
+              "markeye": 5668,
+              "oconnork": 4221,
+              "write-ins": 126
             },
-            "eevp": 89,
+            "eevp": 99,
             "tot_exp_vote": 10154,
-            "eevp_value": "89%",
-            "eevp_display": "89% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-12-01T00:44:27Z",
+            "last_updated": "2020-12-01T21:26:39Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 16.4903,
-            "leader_margin_display": "D+16",
-            "leader_margin_name_display": "Markey +16",
+            "leader_margin_value": 14.44833,
+            "leader_margin_display": "D+14",
+            "leader_margin_name_display": "Markey +14",
             "leader_party_id": "democrat"
           },
           {
             "name": "Avon",
             "fips": "25021005",
             "fips_town": "25021005",
-            "votes": 2650,
+            "votes": 2653,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1670,
+              "markeye": 1672,
               "oconnork": 969,
-              "write-ins": 11
+              "write-ins": 12
             },
             "eevp": 96,
             "tot_exp_vote": 2753,
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:21:47Z",
+            "last_updated": "2020-12-01T21:27:40Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 26.45283,
+            "leader_margin_value": 26.4983,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Markey +26",
             "leader_party_id": "democrat"
@@ -1194,14 +1194,14 @@
             "name": "Ayer",
             "fips": "25017025",
             "fips_town": "25017025",
-            "votes": 4555,
+            "votes": 4566,
             "absentee_votes": 0,
             "reporting": 2,
             "precincts": 2,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2936,
-              "oconnork": 1572,
+              "markeye": 2944,
+              "oconnork": 1575,
               "write-ins": 47
             },
             "eevp": 100,
@@ -1209,13 +1209,13 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T13:21:49Z",
+            "last_updated": "2020-12-01T21:28:35Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 29.94512,
+            "leader_margin_value": 29.98248,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Markey +30",
             "leader_party_id": "democrat"
@@ -1224,28 +1224,28 @@
             "name": "Barnstable",
             "fips": "25001005",
             "fips_town": "25001005",
-            "votes": 27991,
+            "votes": 28131,
             "absentee_votes": 0,
-            "reporting": 12,
+            "reporting": 13,
             "precincts": 13,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
               "markeye": 16133,
               "oconnork": 11842,
-              "write-ins": 16
+              "write-ins": 156
             },
             "eevp": 96,
             "tot_exp_vote": 29152,
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T13:21:52Z",
+            "last_updated": "2020-12-01T21:33:03Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 15.32993,
+            "leader_margin_value": 15.25363,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Markey +15",
             "leader_party_id": "democrat"
@@ -1254,28 +1254,28 @@
             "name": "Barre",
             "fips": "25027020",
             "fips_town": "25027020",
-            "votes": 3106,
+            "votes": 3114,
             "absentee_votes": 0,
             "reporting": 2,
             "precincts": 2,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1548,
+              "markeye": 1554,
               "oconnork": 1462,
-              "write-ins": 96
+              "write-ins": 98
             },
             "eevp": 98,
             "tot_exp_vote": 3168,
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:47:40Z",
+            "last_updated": "2020-12-01T21:33:52Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 2.76883,
+            "leader_margin_value": 2.9544,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Markey +3",
             "leader_party_id": "democrat"
@@ -1314,30 +1314,30 @@
             "name": "Bedford",
             "fips": "25017030",
             "fips_town": "25017030",
-            "votes": 8368,
+            "votes": 8752,
             "absentee_votes": 0,
             "reporting": 4,
             "precincts": 4,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 5907,
-              "oconnork": 2419,
-              "write-ins": 42
+              "markeye": 6254,
+              "oconnork": 2455,
+              "write-ins": 43
             },
-            "eevp": 98,
+            "eevp": 100,
             "tot_exp_vote": 8568,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:12:09Z",
+            "last_updated": "2020-12-01T21:39:11Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 41.6826,
-            "leader_margin_display": "D+42",
-            "leader_margin_name_display": "Markey +42",
+            "leader_margin_value": 43.40722,
+            "leader_margin_display": "D+43",
+            "leader_margin_name_display": "Markey +43",
             "leader_party_id": "democrat"
           },
           {
@@ -1374,28 +1374,28 @@
             "name": "Bellingham",
             "fips": "25021010",
             "fips_town": "25021010",
-            "votes": 9675,
+            "votes": 9751,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 5187,
-              "oconnork": 4340,
-              "write-ins": 148
+              "markeye": 5234,
+              "oconnork": 4366,
+              "write-ins": 151
             },
             "eevp": 99,
             "tot_exp_vote": 9820,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:15:28Z",
+            "last_updated": "2020-12-01T21:40:14Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 8.75452,
+            "leader_margin_value": 8.90165,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Markey +9",
             "leader_party_id": "democrat"
@@ -1404,88 +1404,88 @@
             "name": "Belmont",
             "fips": "25017035",
             "fips_town": "25017035",
-            "votes": 0,
+            "votes": 15170,
             "absentee_votes": 0,
-            "reporting": 0,
+            "reporting": 7,
             "precincts": 8,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 0,
-              "oconnork": 0,
-              "write-ins": 0
+              "markeye": 11789,
+              "oconnork": 3287,
+              "write-ins": 94
             },
-            "eevp": 0,
+            "eevp": 94,
             "tot_exp_vote": 16212,
-            "eevp_value": "0%",
-            "eevp_display": "0% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T16:19:20Z",
+            "last_updated": "2020-12-01T21:42:47Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": null,
-            "leader_margin_display": "\u2013",
-            "leader_margin_name_display": "\u2013",
-            "leader_party_id": ""
+            "leader_margin_value": 56.04483,
+            "leader_margin_display": "D+56",
+            "leader_margin_name_display": "Markey +56",
+            "leader_party_id": "democrat"
           },
           {
             "name": "Berkley",
             "fips": "25005015",
             "fips_town": "25005015",
-            "votes": 3915,
+            "votes": 4039,
             "absentee_votes": 0,
             "reporting": 2,
             "precincts": 2,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1806,
-              "oconnork": 2109,
-              "write-ins": 0
+              "markeye": 1855,
+              "oconnork": 2131,
+              "write-ins": 53
             },
-            "eevp": 97,
+            "eevp": 100,
             "tot_exp_vote": 4027,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:22:07Z",
+            "last_updated": "2020-12-01T21:44:10Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 7.73946,
-            "leader_margin_display": "R+8",
-            "leader_margin_name_display": "O'Connor +8",
+            "leader_margin_value": 6.83337,
+            "leader_margin_display": "R+7",
+            "leader_margin_name_display": "O'Connor +7",
             "leader_party_id": "republican"
           },
           {
             "name": "Berlin",
             "fips": "25027025",
             "fips_town": "25027025",
-            "votes": 2204,
+            "votes": 2244,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1342,
-              "oconnork": 857,
-              "write-ins": 5
+              "markeye": 1351,
+              "oconnork": 859,
+              "write-ins": 34
             },
             "eevp": 100,
             "tot_exp_vote": 2147,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:22:11Z",
+            "last_updated": "2020-12-01T21:44:56Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 22.00544,
+            "leader_margin_value": 21.92513,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Markey +22",
             "leader_party_id": "democrat"
@@ -1494,14 +1494,14 @@
             "name": "Bernardston",
             "fips": "25011010",
             "fips_town": "25011010",
-            "votes": 1342,
+            "votes": 1344,
             "absentee_votes": 848,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 874,
-              "oconnork": 447,
+              "markeye": 875,
+              "oconnork": 448,
               "write-ins": 21
             },
             "eevp": 100,
@@ -1509,13 +1509,13 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:37:12Z",
+            "last_updated": "2020-12-01T21:46:34Z",
             "results_absentee": {
               "markeye": 637,
               "oconnork": 211,
               "write-ins": 0
             },
-            "leader_margin_value": 31.81818,
+            "leader_margin_value": 31.77083,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Markey +32",
             "leader_party_id": "democrat"
@@ -1554,28 +1554,28 @@
             "name": "Billerica",
             "fips": "25017040",
             "fips_town": "25017040",
-            "votes": 23595,
+            "votes": 24245,
             "absentee_votes": 0,
-            "reporting": 10,
+            "reporting": 11,
             "precincts": 11,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 13195,
-              "oconnork": 10177,
-              "write-ins": 223
+              "markeye": 13611,
+              "oconnork": 10399,
+              "write-ins": 235
             },
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 23789,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:22:19Z",
+            "last_updated": "2020-12-01T21:48:23Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 12.79085,
+            "leader_margin_value": 13.24809,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Markey +13",
             "leader_party_id": "democrat"
@@ -1584,60 +1584,60 @@
             "name": "Blackstone",
             "fips": "25027030",
             "fips_town": "25027030",
-            "votes": 4895,
+            "votes": 5039,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2409,
-              "oconnork": 2428,
+              "markeye": 2483,
+              "oconnork": 2498,
               "write-ins": 58
             },
-            "eevp": 97,
+            "eevp": 100,
             "tot_exp_vote": 5032,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:22:21Z",
+            "last_updated": "2020-12-01T21:54:16Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 0.38815,
-            "leader_margin_display": "R+0.39",
-            "leader_margin_name_display": "O'Connor +0.39",
+            "leader_margin_value": 0.29768,
+            "leader_margin_display": "R+0.30",
+            "leader_margin_name_display": "O'Connor +0.30",
             "leader_party_id": "republican"
           },
           {
             "name": "Blandford",
             "fips": "25013010",
             "fips_town": "25013010",
-            "votes": 754,
+            "votes": 764,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
               "markeye": 283,
-              "oconnork": 452,
+              "oconnork": 462,
               "write-ins": 19
             },
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 772,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:31:45Z",
+            "last_updated": "2020-12-01T21:57:36Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 22.41379,
-            "leader_margin_display": "R+22",
-            "leader_margin_name_display": "O'Connor +22",
+            "leader_margin_value": 23.42932,
+            "leader_margin_display": "R+23",
+            "leader_margin_name_display": "O'Connor +23",
             "leader_party_id": "republican"
           },
           {
@@ -1674,28 +1674,28 @@
             "name": "Boston",
             "fips": "25025005",
             "fips_town": "25025005",
-            "votes": 266761,
+            "votes": 286842,
             "absentee_votes": 0,
             "reporting": 255,
             "precincts": 255,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 220778,
-              "oconnork": 44783,
-              "write-ins": 1200
+              "markeye": 237503,
+              "oconnork": 48046,
+              "write-ins": 1293
             },
-            "eevp": 87,
+            "eevp": 93,
             "tot_exp_vote": 307161,
-            "eevp_value": "87%",
-            "eevp_display": "87% reported",
+            "eevp_value": "93%",
+            "eevp_display": "93% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T13:22:25Z",
+            "last_updated": "2020-12-01T21:58:31Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 65.97479,
+            "leader_margin_value": 66.04925,
             "leader_margin_display": "D+66",
             "leader_margin_name_display": "Markey +66",
             "leader_party_id": "democrat"
@@ -1704,88 +1704,88 @@
             "name": "Bourne",
             "fips": "25001010",
             "fips_town": "25001010",
-            "votes": 11105,
+            "votes": 11987,
             "absentee_votes": 0,
-            "reporting": 6,
+            "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 5914,
-              "oconnork": 5115,
-              "write-ins": 76
+              "markeye": 6443,
+              "oconnork": 5464,
+              "write-ins": 80
             },
-            "eevp": 91,
+            "eevp": 98,
             "tot_exp_vote": 12170,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:34:10Z",
+            "last_updated": "2020-12-01T21:59:25Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 7.19496,
-            "leader_margin_display": "D+7",
-            "leader_margin_name_display": "Markey +7",
+            "leader_margin_value": 8.16718,
+            "leader_margin_display": "D+8",
+            "leader_margin_name_display": "Markey +8",
             "leader_party_id": "democrat"
           },
           {
             "name": "Boxborough",
             "fips": "25017045",
             "fips_town": "25017045",
-            "votes": 3362,
+            "votes": 3391,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2439,
-              "oconnork": 897,
-              "write-ins": 26
+              "markeye": 2449,
+              "oconnork": 909,
+              "write-ins": 33
             },
             "eevp": 100,
             "tot_exp_vote": 3351,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:08:11Z",
+            "last_updated": "2020-12-01T22:00:16Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 45.86556,
-            "leader_margin_display": "D+46",
-            "leader_margin_name_display": "Markey +46",
+            "leader_margin_value": 45.41433,
+            "leader_margin_display": "D+45",
+            "leader_margin_name_display": "Markey +45",
             "leader_party_id": "democrat"
           },
           {
             "name": "Boxford",
             "fips": "25009020",
             "fips_town": "25009020",
-            "votes": 5398,
+            "votes": 5496,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2874,
-              "oconnork": 2482,
-              "write-ins": 42
+              "markeye": 2932,
+              "oconnork": 2520,
+              "write-ins": 44
             },
-            "eevp": 98,
+            "eevp": 100,
             "tot_exp_vote": 5515,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:47:06Z",
+            "last_updated": "2020-12-02T15:23:52Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 7.26195,
+            "leader_margin_value": 7.49636,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Markey +7",
             "leader_party_id": "democrat"
@@ -1794,14 +1794,14 @@
             "name": "Boylston",
             "fips": "25027040",
             "fips_town": "25027040",
-            "votes": 3264,
+            "votes": 3269,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 1832,
-              "oconnork": 1410,
+              "markeye": 1834,
+              "oconnork": 1413,
               "write-ins": 22
             },
             "eevp": 100,
@@ -1809,13 +1809,13 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T17:48:21Z",
+            "last_updated": "2020-12-02T15:24:58Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 12.92892,
+            "leader_margin_value": 12.87856,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Markey +13",
             "leader_party_id": "democrat"
@@ -1824,28 +1824,28 @@
             "name": "Braintree",
             "fips": "25021015",
             "fips_town": "25021015",
-            "votes": 21074,
+            "votes": 21286,
             "absentee_votes": 0,
             "reporting": 11,
             "precincts": 12,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 12479,
-              "oconnork": 8456,
-              "write-ins": 139
+              "markeye": 12626,
+              "oconnork": 8513,
+              "write-ins": 147
             },
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 22697,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T18:31:34Z",
+            "last_updated": "2020-12-02T15:32:33Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 19.08987,
+            "leader_margin_value": 19.32256,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Markey +19",
             "leader_party_id": "democrat"
@@ -1854,28 +1854,28 @@
             "name": "Brewster",
             "fips": "25001015",
             "fips_town": "25001015",
-            "votes": 7327,
+            "votes": 7368,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 4811,
-              "oconnork": 2493,
-              "write-ins": 23
+              "markeye": 4842,
+              "oconnork": 2497,
+              "write-ins": 29
             },
             "eevp": 98,
             "tot_exp_vote": 7489,
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T20:34:36Z",
+            "last_updated": "2020-12-02T15:33:37Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 31.63641,
+            "leader_margin_value": 31.82682,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Markey +32",
             "leader_party_id": "democrat"
@@ -1884,28 +1884,28 @@
             "name": "Bridgewater",
             "fips": "25023010",
             "fips_town": "25023010",
-            "votes": 13838,
+            "votes": 14244,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 7582,
-              "oconnork": 6256,
-              "write-ins": 0
+              "markeye": 7772,
+              "oconnork": 6358,
+              "write-ins": 114
             },
-            "eevp": 95,
+            "eevp": 98,
             "tot_exp_vote": 14549,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T18:18:51Z",
+            "last_updated": "2020-12-02T15:34:31Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 9.58231,
+            "leader_margin_value": 9.92699,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Markey +10",
             "leader_party_id": "democrat"
@@ -1914,7 +1914,7 @@
             "name": "Brimfield",
             "fips": "25013015",
             "fips_town": "25013015",
-            "votes": 2254,
+            "votes": 2283,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
@@ -1922,20 +1922,20 @@
             "results": {
               "markeye": 1061,
               "oconnork": 1191,
-              "write-ins": 2
+              "write-ins": 31
             },
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 2269,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:37:41Z",
+            "last_updated": "2020-12-02T15:56:00Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 5.76752,
+            "leader_margin_value": 5.69426,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "O'Connor +6",
             "leader_party_id": "republican"
@@ -1974,13 +1974,13 @@
             "name": "Brookfield",
             "fips": "25027045",
             "fips_town": "25027045",
-            "votes": 2009,
+            "votes": 2012,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 958,
+              "markeye": 961,
               "oconnork": 1027,
               "write-ins": 24
             },
@@ -1989,13 +1989,13 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T17:48:49Z",
+            "last_updated": "2020-12-02T15:56:57Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 3.43454,
+            "leader_margin_value": 3.28032,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "O'Connor +3",
             "leader_party_id": "republican"
@@ -2004,28 +2004,28 @@
             "name": "Brookline",
             "fips": "25021020",
             "fips_town": "25021020",
-            "votes": 29510,
+            "votes": 30780,
             "absentee_votes": 0,
-            "reporting": 14,
+            "reporting": 15,
             "precincts": 16,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 25505,
-              "oconnork": 3998,
-              "write-ins": 7
+              "markeye": 26571,
+              "oconnork": 4118,
+              "write-ins": 91
             },
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 29755,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 6,
-            "last_updated": "2020-11-24T18:32:04Z",
+            "last_updated": "2020-12-02T15:57:51Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 72.88038,
+            "leader_margin_value": 72.94672,
             "leader_margin_display": "D+73",
             "leader_margin_name_display": "Markey +73",
             "leader_party_id": "democrat"
@@ -2034,13 +2034,13 @@
             "name": "Buckland",
             "fips": "25011015",
             "fips_town": "25011015",
-            "votes": 1176,
+            "votes": 1177,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 891,
+              "markeye": 892,
               "oconnork": 255,
               "write-ins": 30
             },
@@ -2049,13 +2049,13 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:38:05Z",
+            "last_updated": "2020-12-02T16:11:30Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 54.08163,
+            "leader_margin_value": 54.12065,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Markey +54",
             "leader_party_id": "democrat"
@@ -2064,58 +2064,58 @@
             "name": "Burlington",
             "fips": "25017050",
             "fips_town": "25017050",
-            "votes": 14894,
+            "votes": 15090,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 9283,
-              "oconnork": 5499,
-              "write-ins": 112
+              "markeye": 9422,
+              "oconnork": 5555,
+              "write-ins": 113
             },
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 15057,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:08:45Z",
+            "last_updated": "2020-12-02T16:26:43Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 25.4062,
-            "leader_margin_display": "D+25",
-            "leader_margin_name_display": "Markey +25",
+            "leader_margin_value": 25.62624,
+            "leader_margin_display": "D+26",
+            "leader_margin_name_display": "Markey +26",
             "leader_party_id": "democrat"
           },
           {
             "name": "Cambridge",
             "fips": "25017055",
             "fips_town": "25017055",
-            "votes": 49087,
+            "votes": 54139,
             "absentee_votes": 241,
-            "reporting": 28,
+            "reporting": 31,
             "precincts": 34,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 45133,
-              "oconnork": 3796,
-              "write-ins": 158
+              "markeye": 49842,
+              "oconnork": 4134,
+              "write-ins": 163
             },
-            "eevp": 83,
+            "eevp": 91,
             "tot_exp_vote": 59302,
-            "eevp_value": "83%",
-            "eevp_display": "83% reported",
+            "eevp_value": "91%",
+            "eevp_display": "91% reported",
             "turnout_stage": 4,
-            "last_updated": "2020-11-24T19:09:19Z",
+            "last_updated": "2020-12-02T16:27:51Z",
             "results_absentee": {
               "markeye": 221,
               "oconnork": 20,
               "write-ins": 0
             },
-            "leader_margin_value": 84.21171,
+            "leader_margin_value": 84.42712,
             "leader_margin_display": "D+84",
             "leader_margin_name_display": "Markey +84",
             "leader_party_id": "democrat"
@@ -2154,28 +2154,28 @@
             "name": "Carlisle",
             "fips": "25017060",
             "fips_town": "25017060",
-            "votes": 3576,
+            "votes": 3608,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 2631,
-              "oconnork": 924,
-              "write-ins": 21
+              "markeye": 2647,
+              "oconnork": 930,
+              "write-ins": 31
             },
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 3594,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T19:10:03Z",
+            "last_updated": "2020-12-02T16:46:22Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 47.7349,
+            "leader_margin_value": 47.58869,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Markey +48",
             "leader_party_id": "democrat"
@@ -2184,37 +2184,37 @@
             "name": "Carver",
             "fips": "25023020",
             "fips_town": "25023020",
-            "votes": 6812,
+            "votes": 6831,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "results": {
-              "markeye": 3329,
-              "oconnork": 3409,
-              "write-ins": 74
+              "markeye": 3342,
+              "oconnork": 3410,
+              "write-ins": 79
             },
             "eevp": 97,
             "tot_exp_vote": 7031,
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T13:22:56Z",
+            "last_updated": "2020-12-02T16:47:13Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 1.1744,
-            "leader_margin_display": "R+1.2",
-            "leader_margin_name_display": "O'Connor +1.2",
+            "leader_margin_value": 0.99546,
+            "leader_margin_display": "R+1.00",
+            "leader_margin_name_display": "O'Connor +1.00",
             "leader_party_id": "republican"
           },
           {
             "name": "Charlemont",
             "fips": "25011020",
             "fips_town": "25011020",
-            "votes": 722,
+            "votes": 733,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
@@ -2222,20 +2222,20 @@
             "results": {
               "markeye": 492,
               "oconnork": 230,
-              "write-ins": 0
+              "write-ins": 11
             },
-            "eevp": 95,
+            "eevp": 96,
             "tot_exp_vote": 764,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "turnout_stage": 2,
-            "last_updated": "2020-11-24T15:38:55Z",
+            "last_updated": "2020-12-02T16:48:13Z",
             "results_absentee": {
               "markeye": 0,
               "oconnork": 0,
               "write-ins": 0
             },
-            "leader_margin_value": 36.28809,
+            "leader_margin_value": 35.74352,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Markey +36",
             "leader_party_id": "democrat"
@@ -11184,12 +11184,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "94% of the estimated vote total has been reported.",
-            "timestamp": 1606235411423,
+            "sentence": "95% of the estimated vote total has been reported.",
+            "timestamp": 1606859111601,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "94% of the estimated vote total has been reported.",
+            "generatedText": "95% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -13830,6 +13830,202 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T15:33:13Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3409195,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:02:23Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3409335,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:07:54Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3409909,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:14:05Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3411443,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:16:36Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3416884,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:18:06Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418266,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:26:40Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418280,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:28:38Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418420,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:33:06Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418428,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:33:54Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418812,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:39:13Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3418888,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:40:16Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3434058,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:42:49Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3434222,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:44:58Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3434224,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:46:35Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3434874,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:48:25Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3435018,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:54:18Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3455109,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T21:58:33Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3456020,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T22:00:18Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3456123,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T15:24:59Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3456376,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T15:33:39Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3456782,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T15:34:32Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3456811,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T15:56:01Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3458084,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T15:57:52Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3458085,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T16:11:35Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3458281,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T16:26:45Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3463333,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T16:27:52Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3463384,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T16:47:14Z"
+          },
+          {
+            "vote_shares": {},
+            "votes": 3463395,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-02T16:48:14Z"
           }
         ]
       }
@@ -13848,13 +14044,13 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76043490,
-            "percent": "50.5",
-            "change": -8,
+            "votes": 76825079,
+            "percent": "50.7",
+            "change": -9,
             "flip_count": 3,
             "leader_count": 0,
-            "change_full": "Lost 8 seats",
-            "change_abbr": "\u20138",
+            "change_full": "Lost 9 seats",
+            "change_abbr": "\u20139",
             "flip_text_full": "Flipped 3 seats",
             "flip_text_extra": "",
             "flip_text_abbr": "Flipped 3",
@@ -13864,17 +14060,17 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 207,
-            "votes": 72442263,
-            "percent": "48.1",
-            "change": 9,
-            "flip_count": 12,
-            "leader_count": 6,
-            "change_full": "Gained 9 seats",
-            "change_abbr": "+9",
-            "flip_text_full": "Flipped 12 seats",
-            "flip_text_extra": "(+9 net gain)",
-            "flip_text_abbr": "Flipped 12",
+            "count": 209,
+            "votes": 72602595,
+            "percent": "47.9",
+            "change": 10,
+            "flip_count": 13,
+            "leader_count": 4,
+            "change_full": "Gained 10 seats",
+            "change_abbr": "+10",
+            "flip_text_full": "Flipped 13 seats",
+            "flip_text_extra": "(+10 net gain)",
+            "flip_text_abbr": "Flipped 13",
             "winner": false
           },
           "other": {
@@ -13882,7 +14078,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2080486,
+            "votes": 2088729,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -13910,8 +14106,8 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80185187,
-            "percent": "51.1",
+            "votes": 80949782,
+            "percent": "51.3",
             "change": 0,
             "flip_count": 0,
             "leader_count": 0,
@@ -13927,8 +14123,8 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73946421,
-            "percent": "47.1",
+            "votes": 74092142,
+            "percent": "46.9",
             "change": 0,
             "flip_count": 0,
             "leader_count": 0,
@@ -13944,7 +14140,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2866786,
+            "votes": 2870990,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -13976,8 +14172,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42048853,
-            "percent": "47.2",
+            "votes": 42092353,
+            "percent": "47.3",
             "change": 1,
             "flip_count": 2,
             "leader_count": 0,
@@ -13993,7 +14189,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44053546,
+            "votes": 44066965,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -14010,7 +14206,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907223,
+            "votes": 2907836,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -14027,6 +14223,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-11-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-11-2020-11-03",
+        "datetime": 1606859536568,
+        "is_today": false,
+        "text": "Nicole Malliotakis, Republican, wins New York\u2019s 11th Congressional District.",
+        "winner": {
+          "candidate_id": "malliotakis-19220-33-h",
+          "candidate_key": "malliotakisn",
+          "first_name": "Nicole",
+          "last_name": "Malliotakis",
+          "order": 2,
+          "name_display": "Nicole Malliotakis",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 155608,
+          "percent": 53.1,
+          "percent_display": "53.1",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/malliotakis-19220-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Malliotakis",
+        "candidate_name_display": "Nicole Malliotakis",
+        "candidate_id": "malliotakis-19220-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-11.html"
+      },
+      {
+        "id": "CA-G-H-25-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "CA-G-H-25-2020-11-03",
+        "datetime": 1606855820179,
+        "is_today": false,
+        "text": "Mike Garcia, Republican, wins re-election in California\u2019s 25th Congressional District.",
+        "winner": {
+          "candidate_id": "garcia-20073116-5-h",
+          "candidate_key": "garciam",
+          "first_name": "Mike",
+          "last_name": "Garcia",
+          "order": 2,
+          "name_display": "Mike Garcia",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 169638,
+          "percent": 50,
+          "percent_display": "50.05",
+          "electoral_votes": 0,
+          "absentee_votes": 89124,
+          "absentee_percent": 47.6,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garcia-20073116-5-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garcia",
+        "candidate_name_display": "Mike Garcia",
+        "candidate_id": "garcia-20073116-5-h",
+        "race_call_party_winner": "republican",
+        "state_name": "California",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-california-house-district-25.html"
+      },
       {
         "id": "NY-G-H-24-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -14049,12 +14325,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 181084,
-          "percent": 57.4,
-          "percent_display": "57.4",
+          "votes": 173948,
+          "percent": 54.2,
+          "percent_display": "54.2",
           "electoral_votes": 0,
-          "absentee_votes": 10914,
-          "absentee_percent": 31.4,
+          "absentee_votes": 17125,
+          "absentee_percent": 32.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/katko-63757-33-h.png",
           "has_image": false,
           "link": ""
@@ -14072,7 +14348,7 @@
         "author": "Reid Epstein",
         "author_title_or_location": "in Washington",
         "text": "The chairwoman of the Wisconsin Elections Commission has certified Biden as the winner in Wisconsin, formalizing his narrow victory in a state Trump carried four years ago.",
-        "link_url": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump/wisconsin-certifies-bidens-narrow-victory-following-arizona-which-did-so-earlier-today",
+        "link_url": "https://www.nytimes.com/2020/11/30/us/politics/wisconsin-arizona-election-results.html",
         "link_text": "",
         "linked_state_1": "",
         "linked_state_2": "",
@@ -14645,12 +14921,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 189543,
+          "votes": 189951,
           "percent": 52.8,
           "percent_display": "52.8",
           "electoral_votes": 3,
-          "absentee_votes": 72953,
-          "absentee_percent": 41.8,
+          "absentee_votes": 74711,
+          "absentee_percent": 42.1,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -14687,12 +14963,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 190772,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 191065,
+          "percent": 54,
+          "percent_display": "54.0",
           "electoral_votes": 0,
-          "absentee_votes": 75946,
-          "absentee_percent": 43.8,
+          "absentee_votes": 80665,
+          "absentee_percent": 44.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sullivan-64262-2-s.png",
           "has_image": false,
           "link": ""
@@ -16477,7 +16753,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 195434,
+          "votes": 195510,
           "percent": 54,
           "percent_display": "54.0",
           "electoral_votes": 0,
@@ -17727,7 +18003,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 222242,
+          "votes": 222253,
           "percent": 51.1,
           "percent_display": "51.1",
           "electoral_votes": 0,
@@ -17907,11 +18183,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3459923,
+          "votes": 3459998,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
-          "absentee_votes": 996451,
+          "absentee_votes": 996482,
           "absentee_percent": 78.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -19302,7 +19578,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 183035,
+          "votes": 183344,
           "percent": 51.9,
           "percent_display": "51.9",
           "electoral_votes": 0,
@@ -22457,9 +22733,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 183987,
-          "percent": 53.4,
-          "percent_display": "53.4",
+          "votes": 195854,
+          "percent": 52.5,
+          "percent_display": "52.5",
           "electoral_votes": 0,
           "absentee_votes": 18523,
           "absentee_percent": 70.1,
@@ -22956,7 +23232,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 220508,
+          "votes": 220634,
           "percent": 51.4,
           "percent_display": "51.4",
           "electoral_votes": 0,
@@ -25030,9 +25306,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 178840,
-          "percent": 60.9,
-          "percent_display": "60.9",
+          "votes": 184485,
+          "percent": 59.6,
+          "percent_display": "59.6",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -25109,7 +25385,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180176,
+          "votes": 180684,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -25667,7 +25943,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11090510,
+          "votes": 11109764,
           "percent": 63.5,
           "percent_display": "63.5",
           "electoral_votes": 55,
@@ -26227,9 +26503,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 105455,
-          "percent": 68.8,
-          "percent_display": "68.8",
+          "votes": 152661,
+          "percent": 71.6,
+          "percent_display": "71.6",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -26455,9 +26731,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 136471,
-          "percent": 88.2,
-          "percent_display": "88.2",
+          "votes": 169533,
+          "percent": 88.9,
+          "percent_display": "88.9",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -26680,7 +26956,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1731022,
+          "votes": 1731172,
           "percent": 53.5,
           "percent_display": "53.5",
           "electoral_votes": 0,
@@ -27452,12 +27728,12 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 4204648,
-          "percent": 57.3,
-          "percent_display": "57.3",
+          "votes": 4943074,
+          "percent": 60.2,
+          "percent_display": "60.2",
           "electoral_votes": 29,
-          "absentee_votes": 240047,
-          "absentee_percent": 68.8,
+          "absentee_votes": 253591,
+          "absentee_percent": 69.2,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -28602,7 +28878,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2540205,
+          "votes": 2540938,
           "percent": 57.2,
           "percent_display": "57.2",
           "electoral_votes": 0,
@@ -28643,9 +28919,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2247478,
-          "percent": 65.9,
-          "percent_display": "65.9",
+          "votes": 2289169,
+          "percent": 66.1,
+          "percent_display": "66.1",
           "electoral_votes": 0,
           "absentee_votes": 74745,
           "absentee_percent": 66.8,
@@ -28683,7 +28959,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3262360,
+          "votes": 3263455,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -28862,7 +29138,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2607331,
+          "votes": 2608271,
           "percent": 57.1,
           "percent_display": "57.1",
           "electoral_votes": 14,
@@ -28985,12 +29261,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1849820,
+          "votes": 1852475,
           "percent": 60.7,
           "percent_display": "60.7",
           "electoral_votes": 11,
           "absentee_votes": 631119,
-          "absentee_percent": 48.6,
+          "absentee_percent": 48.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -29067,7 +29343,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460611,
+          "votes": 3461763,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -29643,7 +29919,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 545051,
+          "votes": 545382,
           "percent": 68.6,
           "percent_display": "68.6",
           "electoral_votes": 5,
@@ -30574,8 +30850,8 @@
     ]
   },
   "meta": {
-    "version": 23585,
+    "version": 24044,
     "track": "2020-11-03",
-    "timestamp": "2020-12-01T05:43:18.085Z"
+    "timestamp": "2020-12-03T14:49:22.561Z"
   }
 }
