@@ -138,7 +138,8 @@
             "leader_margin_value": 39.87335,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Reed +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "fips": "44003",
@@ -171,7 +172,8 @@
             "leader_margin_value": 21.67731,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Reed +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "fips": "44005",
@@ -204,7 +206,8 @@
             "leader_margin_value": 38.6628,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Reed +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "fips": "44007",
@@ -237,7 +240,8 @@
             "leader_margin_value": 36.59786,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Reed +37",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "fips": "44009",
@@ -270,7 +274,8 @@
             "leader_margin_value": 28.61796,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Reed +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           }
         ],
         "edison_certified": false,
@@ -288,11 +293,11 @@
               "reedj": 7778,
               "watersa": 2733
             },
-            "eevp": 96,
-            "tot_exp_vote": 10929,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 10754,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:21:56Z",
             "results_absentee": {
               "reedj": 0,
@@ -301,7 +306,8 @@
             "leader_margin_value": 47.99734,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Reed +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Bristol",
@@ -316,11 +322,11 @@
               "reedj": 7512,
               "watersa": 3653
             },
-            "eevp": 93,
-            "tot_exp_vote": 11945,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 11597,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:50Z",
             "results_absentee": {
               "reedj": 0,
@@ -329,7 +335,8 @@
             "leader_margin_value": 34.56337,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Reed +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Burrillville",
@@ -344,11 +351,11 @@
               "reedj": 3876,
               "watersa": 4299
             },
-            "eevp": 100,
-            "tot_exp_vote": 8142,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 8501,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:01Z",
             "results_absentee": {
               "reedj": 0,
@@ -357,7 +364,8 @@
             "leader_margin_value": 5.17431,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Waters +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "watersa"
           },
           {
             "name": "Central Falls",
@@ -372,11 +380,11 @@
               "reedj": 3002,
               "watersa": 658
             },
-            "eevp": 77,
-            "tot_exp_vote": 4744,
-            "eevp_value": "77%",
-            "eevp_display": "77% reported",
-            "turnout_stage": 2,
+            "eevp": 86,
+            "tot_exp_vote": 4256,
+            "eevp_value": "86%",
+            "eevp_display": "86% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:25Z",
             "results_absentee": {
               "reedj": 0,
@@ -385,7 +393,8 @@
             "leader_margin_value": 64.04372,
             "leader_margin_display": "D+64",
             "leader_margin_name_display": "Reed +64",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Charlestown",
@@ -400,11 +409,11 @@
               "reedj": 3044,
               "watersa": 1940
             },
-            "eevp": 100,
-            "tot_exp_vote": 4976,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 5193,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:02Z",
             "results_absentee": {
               "reedj": 0,
@@ -413,7 +422,8 @@
             "leader_margin_value": 22.15088,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Reed +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Coventry",
@@ -428,11 +438,11 @@
               "reedj": 10440,
               "watersa": 8788
             },
-            "eevp": 98,
-            "tot_exp_vote": 19616,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 19915,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:52Z",
             "results_absentee": {
               "reedj": 0,
@@ -441,7 +451,8 @@
             "leader_margin_value": 8.59164,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Reed +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Cranston",
@@ -456,11 +467,11 @@
               "reedj": 25591,
               "watersa": 13907
             },
-            "eevp": 96,
-            "tot_exp_vote": 41212,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 40851,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:56Z",
             "results_absentee": {
               "reedj": 0,
@@ -469,7 +480,8 @@
             "leader_margin_value": 29.58124,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Reed +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Cumberland",
@@ -484,11 +496,11 @@
               "reedj": 11640,
               "watersa": 7089
             },
-            "eevp": 97,
-            "tot_exp_vote": 19305,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 19576,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:37:11Z",
             "results_absentee": {
               "reedj": 0,
@@ -497,7 +509,8 @@
             "leader_margin_value": 24.29922,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Reed +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "East Greenwich",
@@ -513,10 +526,10 @@
               "watersa": 2993
             },
             "eevp": 98,
-            "tot_exp_vote": 8612,
+            "tot_exp_vote": 8574,
             "eevp_value": "98%",
             "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:06Z",
             "results_absentee": {
               "reedj": 0,
@@ -525,7 +538,8 @@
             "leader_margin_value": 29.10943,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Reed +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "East Providence",
@@ -541,10 +555,10 @@
               "watersa": 6363
             },
             "eevp": 96,
-            "tot_exp_vote": 22859,
+            "tot_exp_vote": 23021,
             "eevp_value": "96%",
             "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:01Z",
             "results_absentee": {
               "reedj": 0,
@@ -553,7 +567,8 @@
             "leader_margin_value": 42.22283,
             "leader_margin_display": "D+42",
             "leader_margin_name_display": "Reed +42",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Exeter",
@@ -568,11 +583,11 @@
               "reedj": 2165,
               "watersa": 1785
             },
-            "eevp": 98,
-            "tot_exp_vote": 4016,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 4059,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:09Z",
             "results_absentee": {
               "reedj": 0,
@@ -581,7 +596,8 @@
             "leader_margin_value": 9.62025,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Reed +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Foster",
@@ -597,10 +613,10 @@
               "watersa": 1407
             },
             "eevp": 96,
-            "tot_exp_vote": 2838,
+            "tot_exp_vote": 2856,
             "eevp_value": "96%",
             "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:10Z",
             "results_absentee": {
               "reedj": 0,
@@ -609,7 +625,8 @@
             "leader_margin_value": 2.8133,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Waters +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "watersa"
           },
           {
             "name": "Glocester",
@@ -624,11 +641,11 @@
               "reedj": 2910,
               "watersa": 2971
             },
-            "eevp": 100,
-            "tot_exp_vote": 5895,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 6075,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:10Z",
             "results_absentee": {
               "reedj": 0,
@@ -637,7 +654,8 @@
             "leader_margin_value": 1.03724,
             "leader_margin_display": "R+1.0",
             "leader_margin_name_display": "Waters +1.0",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "watersa"
           },
           {
             "name": "Hopkinton",
@@ -652,11 +670,11 @@
               "reedj": 2522,
               "watersa": 2109
             },
-            "eevp": 98,
-            "tot_exp_vote": 4733,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 4822,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:11Z",
             "results_absentee": {
               "reedj": 0,
@@ -665,7 +683,8 @@
             "leader_margin_value": 8.91816,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Reed +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Jamestown",
@@ -680,11 +699,11 @@
               "reedj": 2952,
               "watersa": 1028
             },
-            "eevp": 99,
-            "tot_exp_vote": 4022,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 4065,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:51Z",
             "results_absentee": {
               "reedj": 0,
@@ -693,7 +712,8 @@
             "leader_margin_value": 48.34171,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Reed +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Johnston",
@@ -708,11 +728,11 @@
               "reedj": 8273,
               "watersa": 6247
             },
-            "eevp": 94,
-            "tot_exp_vote": 15505,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
-            "turnout_stage": 2,
+            "eevp": 95,
+            "tot_exp_vote": 15205,
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:05Z",
             "results_absentee": {
               "reedj": 0,
@@ -721,7 +741,8 @@
             "leader_margin_value": 13.95317,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Reed +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Lincoln",
@@ -736,11 +757,11 @@
               "reedj": 7514,
               "watersa": 4721
             },
-            "eevp": 96,
-            "tot_exp_vote": 12777,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 12600,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:51Z",
             "results_absentee": {
               "reedj": 0,
@@ -749,7 +770,8 @@
             "leader_margin_value": 22.82795,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Reed +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Little Compton",
@@ -764,11 +786,11 @@
               "reedj": 1594,
               "watersa": 858
             },
-            "eevp": 100,
-            "tot_exp_vote": 2448,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 2517,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:14Z",
             "results_absentee": {
               "reedj": 0,
@@ -777,7 +799,8 @@
             "leader_margin_value": 30.01631,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Reed +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Middletown",
@@ -792,11 +815,11 @@
               "reedj": 5750,
               "watersa": 2404
             },
-            "eevp": 96,
-            "tot_exp_vote": 8464,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 95,
+            "tot_exp_vote": 8564,
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:14Z",
             "results_absentee": {
               "reedj": 0,
@@ -805,7 +828,8 @@
             "leader_margin_value": 41.03507,
             "leader_margin_display": "D+41",
             "leader_margin_name_display": "Reed +41",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Narragansett",
@@ -821,10 +845,10 @@
               "watersa": 2973
             },
             "eevp": 97,
-            "tot_exp_vote": 9046,
+            "tot_exp_vote": 8968,
             "eevp_value": "97%",
             "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:15Z",
             "results_absentee": {
               "reedj": 0,
@@ -833,7 +857,8 @@
             "leader_margin_value": 31.98353,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Reed +32",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "New Shoreham",
@@ -848,11 +873,11 @@
               "reedj": 728,
               "watersa": 180
             },
-            "eevp": 84,
-            "tot_exp_vote": 1084,
-            "eevp_value": "84%",
-            "eevp_display": "84% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 948,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:16Z",
             "results_absentee": {
               "reedj": 0,
@@ -861,7 +886,8 @@
             "leader_margin_value": 60.35242,
             "leader_margin_display": "D+60",
             "leader_margin_name_display": "Reed +60",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Newport",
@@ -876,11 +902,11 @@
               "reedj": 7917,
               "watersa": 2276
             },
-            "eevp": 94,
-            "tot_exp_vote": 10817,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 10651,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:47Z",
             "results_absentee": {
               "reedj": 0,
@@ -889,7 +915,8 @@
             "leader_margin_value": 55.3419,
             "leader_margin_display": "D+55",
             "leader_margin_name_display": "Reed +55",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "North Kingstown",
@@ -904,11 +931,11 @@
               "reedj": 11162,
               "watersa": 5940
             },
-            "eevp": 100,
-            "tot_exp_vote": 17087,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 98,
+            "tot_exp_vote": 17453,
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:16Z",
             "results_absentee": {
               "reedj": 0,
@@ -917,7 +944,8 @@
             "leader_margin_value": 30.53444,
             "leader_margin_display": "D+31",
             "leader_margin_name_display": "Reed +31",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "North Providence",
@@ -932,11 +960,11 @@
               "reedj": 10569,
               "watersa": 5301
             },
-            "eevp": 91,
-            "tot_exp_vote": 17372,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
-            "turnout_stage": 2,
+            "eevp": 95,
+            "tot_exp_vote": 16785,
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:40Z",
             "results_absentee": {
               "reedj": 0,
@@ -945,7 +973,8 @@
             "leader_margin_value": 33.19471,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Reed +33",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "North Smithfield",
@@ -960,11 +989,11 @@
               "reedj": 3904,
               "watersa": 3017
             },
-            "eevp": 99,
-            "tot_exp_vote": 7001,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 7172,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:49Z",
             "results_absentee": {
               "reedj": 0,
@@ -973,7 +1002,8 @@
             "leader_margin_value": 12.81607,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Reed +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Pawtucket",
@@ -988,11 +1018,11 @@
               "reedj": 18166,
               "watersa": 5375
             },
-            "eevp": 89,
-            "tot_exp_vote": 26572,
-            "eevp_value": "89%",
-            "eevp_display": "89% reported",
-            "turnout_stage": 2,
+            "eevp": 92,
+            "tot_exp_vote": 25667,
+            "eevp_value": "92%",
+            "eevp_display": "92% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:31Z",
             "results_absentee": {
               "reedj": 0,
@@ -1001,7 +1031,8 @@
             "leader_margin_value": 54.33499,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Reed +54",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Portsmouth",
@@ -1016,11 +1047,11 @@
               "reedj": 6987,
               "watersa": 3565
             },
-            "eevp": 98,
-            "tot_exp_vote": 10817,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 10844,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:42Z",
             "results_absentee": {
               "reedj": 0,
@@ -1029,7 +1060,8 @@
             "leader_margin_value": 32.42987,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Reed +32",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Providence",
@@ -1044,11 +1076,11 @@
               "reedj": 45774,
               "watersa": 7662
             },
-            "eevp": 86,
-            "tot_exp_vote": 62316,
-            "eevp_value": "86%",
-            "eevp_display": "86% reported",
-            "turnout_stage": 2,
+            "eevp": 94,
+            "tot_exp_vote": 56853,
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:34Z",
             "results_absentee": {
               "reedj": 0,
@@ -1057,7 +1089,8 @@
             "leader_margin_value": 71.3227,
             "leader_margin_display": "D+71",
             "leader_margin_name_display": "Reed +71",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Richmond",
@@ -1072,11 +1105,11 @@
               "reedj": 2557,
               "watersa": 2091
             },
-            "eevp": 100,
-            "tot_exp_vote": 4622,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 4787,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:23Z",
             "results_absentee": {
               "reedj": 0,
@@ -1085,7 +1118,8 @@
             "leader_margin_value": 10.02582,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Reed +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Scituate",
@@ -1100,11 +1134,11 @@
               "reedj": 3248,
               "watersa": 3204
             },
-            "eevp": 96,
-            "tot_exp_vote": 6726,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 6645,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:24Z",
             "results_absentee": {
               "reedj": 0,
@@ -1113,7 +1147,8 @@
             "leader_margin_value": 0.68196,
             "leader_margin_display": "D+0.68",
             "leader_margin_name_display": "Reed +0.68",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Smithfield",
@@ -1128,11 +1163,11 @@
               "reedj": 6453,
               "watersa": 4684
             },
-            "eevp": 96,
-            "tot_exp_vote": 11623,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 11472,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:48Z",
             "results_absentee": {
               "reedj": 0,
@@ -1141,7 +1176,8 @@
             "leader_margin_value": 15.88399,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Reed +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "South Kingstown",
@@ -1156,11 +1192,11 @@
               "reedj": 11615,
               "watersa": 4530
             },
-            "eevp": 99,
-            "tot_exp_vote": 16371,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 16567,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:27Z",
             "results_absentee": {
               "reedj": 0,
@@ -1169,7 +1205,8 @@
             "leader_margin_value": 43.88356,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Reed +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Tiverton",
@@ -1184,11 +1221,11 @@
               "reedj": 5380,
               "watersa": 3396
             },
-            "eevp": 93,
-            "tot_exp_vote": 9434,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
-            "turnout_stage": 2,
+            "eevp": 95,
+            "tot_exp_vote": 9260,
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:38Z",
             "results_absentee": {
               "reedj": 0,
@@ -1197,7 +1234,8 @@
             "leader_margin_value": 22.60711,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Reed +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Warren",
@@ -1212,11 +1250,11 @@
               "reedj": 3816,
               "watersa": 1827
             },
-            "eevp": 100,
-            "tot_exp_vote": 5658,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 5888,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:31Z",
             "results_absentee": {
               "reedj": 0,
@@ -1225,7 +1263,8 @@
             "leader_margin_value": 35.24721,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Reed +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Warwick",
@@ -1241,10 +1280,10 @@
               "watersa": 16293
             },
             "eevp": 97,
-            "tot_exp_vote": 46413,
+            "tot_exp_vote": 46170,
             "eevp_value": "97%",
             "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:25Z",
             "results_absentee": {
               "reedj": 0,
@@ -1253,7 +1292,8 @@
             "leader_margin_value": 27.60758,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Reed +28",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "West Greenwich",
@@ -1268,11 +1308,11 @@
               "reedj": 1906,
               "watersa": 1958
             },
-            "eevp": 100,
-            "tot_exp_vote": 3779,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 3987,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:33Z",
             "results_absentee": {
               "reedj": 0,
@@ -1281,7 +1321,8 @@
             "leader_margin_value": 1.34576,
             "leader_margin_display": "R+1.3",
             "leader_margin_name_display": "Waters +1.3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "watersa"
           },
           {
             "name": "West Warwick",
@@ -1296,11 +1337,11 @@
               "reedj": 8253,
               "watersa": 5223
             },
-            "eevp": 100,
-            "tot_exp_vote": 13480,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "eevp": 97,
+            "tot_exp_vote": 13928,
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:22:34Z",
             "results_absentee": {
               "reedj": 0,
@@ -1309,7 +1350,8 @@
             "leader_margin_value": 22.48442,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Reed +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Westerly",
@@ -1324,11 +1366,11 @@
               "reedj": 7626,
               "watersa": 4641
             },
-            "eevp": 98,
-            "tot_exp_vote": 12484,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 96,
+            "tot_exp_vote": 12790,
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:48Z",
             "results_absentee": {
               "reedj": 0,
@@ -1337,7 +1379,8 @@
             "leader_margin_value": 24.33358,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Reed +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           },
           {
             "name": "Woonsocket",
@@ -1352,11 +1395,11 @@
               "reedj": 7870,
               "watersa": 4685
             },
-            "eevp": 88,
-            "tot_exp_vote": 14214,
-            "eevp_value": "88%",
-            "eevp_display": "88% reported",
-            "turnout_stage": 2,
+            "eevp": 91,
+            "tot_exp_vote": 13791,
+            "eevp_value": "91%",
+            "eevp_display": "91% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:13Z",
             "results_absentee": {
               "reedj": 0,
@@ -1365,7 +1408,8 @@
             "leader_margin_value": 25.36838,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Reed +25",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "reedj"
           }
         ],
         "expectations_text": "",
@@ -1392,12 +1436,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Pawtucket, Providence and 11 other places.",
-            "timestamp": 1606246933088,
+            "sentence": "Reed\u2019s largest vote margins are in Providence, Pawtucket and Warwick, among all of the townships that are nearly finished reporting.",
+            "timestamp": 1607236318098,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Pawtucket, Providence and 11 other places.",
+            "generatedText": "Reed\u2019s largest vote margins are in Providence, Pawtucket and Warwick, among all of the townships that are nearly finished reporting.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -1854,8 +1898,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -1870,12 +1914,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -1888,7 +1932,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -1916,7 +1960,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -1933,7 +1977,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -1950,7 +1994,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -1982,7 +2026,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -1999,7 +2043,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -2016,7 +2060,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -2033,6 +2077,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -2135,9 +2259,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -2505,7 +2629,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -5993,7 +6117,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -10476,9 +10600,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -10793,7 +10917,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -10833,9 +10957,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -10894,7 +11018,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -11590,9 +11714,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -12775,11 +12899,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -13116,9 +13240,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -13195,7 +13319,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -13630,7 +13754,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -13671,7 +13795,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -13794,9 +13918,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -14500,9 +14624,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -14542,8 +14666,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -14831,7 +14955,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -15362,7 +15486,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -15420,7 +15544,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -15538,9 +15662,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -16729,7 +16853,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -16769,7 +16893,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -17153,7 +17277,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -17276,7 +17400,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -18660,8 +18784,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

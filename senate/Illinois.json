@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 5940424,
+        "votes": 5968618,
         "absentee_votes": 776833,
         "absentee_counties": 14,
         "absentee_count_progress": "unknown",
@@ -43,19 +43,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 8806,
+        "precincts_reporting": 8818,
         "precincts_total": 9874,
         "reporting_display": "89% reporting",
         "reporting_value": "89%",
-        "eevp": 97,
+        "eevp": 98,
         "tot_exp_vote": 6100000,
         "eevp_source": "edison",
-        "eevp_value": "97%",
-        "eevp_display": "97% reported",
+        "eevp_value": "98%",
+        "eevp_display": "98% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-12-02T19:28:01Z",
+        "last_updated": "2020-12-04T19:19:30Z",
         "candidates": [
           {
             "candidate_id": "durbin-1262-14-s",
@@ -68,7 +68,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 3263455,
+            "votes": 3278301,
             "percent": 54.9,
             "percent_display": "54.9",
             "electoral_votes": 0,
@@ -89,9 +89,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2307801,
-            "percent": 38.8,
-            "percent_display": "38.8",
+            "votes": 2319495,
+            "percent": 38.9,
+            "percent_display": "38.9",
             "electoral_votes": 0,
             "absentee_votes": 300212,
             "absentee_percent": 38.6,
@@ -110,7 +110,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 237147,
+            "votes": 237664,
             "percent": 4,
             "percent_display": "4.0",
             "electoral_votes": 0,
@@ -131,7 +131,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 74929,
+            "votes": 75649,
             "percent": 1.3,
             "percent_display": "1.3",
             "electoral_votes": 0,
@@ -152,7 +152,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 56273,
+            "votes": 56690,
             "percent": 0.9,
             "percent_display": "0.9",
             "electoral_votes": 0,
@@ -185,8 +185,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.0873,
-        "leader_margin_votes": 955654,
+        "leader_margin_value": 16.06412,
+        "leader_margin_votes": 958806,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Durbin +16",
         "leader_party_id": "democrat",
@@ -226,11 +226,12 @@
               "blackd": 97,
               "write-ins": 10
             },
-            "last_updated": "2020-11-24T13:23:00Z",
+            "last_updated": "2020-12-04T19:30:22Z",
             "leader_margin_value": 44.55652,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Curran +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17003",
@@ -271,14 +272,15 @@
             "leader_margin_value": 2.58824,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Curran +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17005",
             "name": "Bond",
-            "votes": 5917,
+            "votes": 8054,
             "absentee_votes": 0,
-            "reporting": 18,
+            "reporting": 24,
             "precincts": 25,
             "absentee_method": "Released as a precinct at the end of tabulation",
             "eevp": 100,
@@ -293,33 +295,34 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1971,
-              "curranm": 3740,
-              "maloufd": 113,
-              "wilsonw": 49,
-              "blackd": 44,
+              "durbinr": 2714,
+              "curranm": 5061,
+              "maloufd": 154,
+              "blackd": 64,
+              "wilsonw": 61,
               "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
               "maloufd": 0,
-              "wilsonw": 0,
               "blackd": 0,
+              "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:01Z",
-            "leader_margin_value": 29.89691,
-            "leader_margin_display": "R+30",
-            "leader_margin_name_display": "Curran +30",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T17:41:13Z",
+            "leader_margin_value": 29.1408,
+            "leader_margin_display": "R+29",
+            "leader_margin_name_display": "Curran +29",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17007",
             "name": "Boone",
-            "votes": 24365,
+            "votes": 24662,
             "absentee_votes": 0,
-            "reporting": 36,
+            "reporting": 37,
             "precincts": 38,
             "absentee_method": "Other",
             "eevp": 100,
@@ -328,17 +331,17 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 4522,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 9939,
-              "curranm": 13460,
-              "maloufd": 400,
-              "wilsonw": 319,
-              "blackd": 247,
+              "durbinr": 10090,
+              "curranm": 13579,
+              "maloufd": 411,
+              "wilsonw": 328,
+              "blackd": 254,
               "write-ins": 0
             },
             "results_absentee": {
@@ -349,24 +352,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:02Z",
-            "leader_margin_value": 14.45106,
+            "last_updated": "2020-12-04T17:45:43Z",
+            "leader_margin_value": 14.14727,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Curran +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17009",
             "name": "Brown",
-            "votes": 2486,
+            "votes": 2488,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 14,
             "absentee_method": "None",
-            "eevp": 95,
+            "eevp": 96,
             "tot_exp_vote": 2604,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -375,8 +379,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 634,
-              "curranm": 1786,
+              "durbinr": 635,
+              "curranm": 1787,
               "maloufd": 33,
               "blackd": 16,
               "wilsonw": 16,
@@ -390,11 +394,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:04Z",
-            "leader_margin_value": 46.3395,
+            "last_updated": "2020-12-04T19:30:38Z",
+            "leader_margin_value": 46.30225,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Curran +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17011",
@@ -431,11 +436,12 @@
               "blackd": 40,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:06Z",
+            "last_updated": "2020-12-04T19:58:42Z",
             "leader_margin_value": 14.23444,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Curran +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17013",
@@ -472,11 +478,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:07Z",
+            "last_updated": "2020-12-04T18:11:26Z",
             "leader_margin_value": 28.48101,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Curran +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17015",
@@ -513,11 +520,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:08Z",
+            "last_updated": "2020-12-04T19:48:54Z",
             "leader_margin_value": 25.4115,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Curran +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17017",
@@ -554,11 +562,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:09Z",
+            "last_updated": "2020-12-04T19:31:02Z",
             "leader_margin_value": 26.70617,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Curran +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17019",
@@ -595,16 +604,17 @@
               "blackd": 867,
               "write-ins": 36
             },
-            "last_updated": "2020-11-24T13:23:12Z",
+            "last_updated": "2020-12-04T18:13:57Z",
             "leader_margin_value": 20.88005,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Durbin +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17021",
             "name": "Christian",
-            "votes": 15866,
+            "votes": 15972,
             "absentee_votes": 0,
             "reporting": 28,
             "precincts": 30,
@@ -621,11 +631,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4825,
-              "curranm": 10461,
+              "durbinr": 4874,
+              "curranm": 10515,
               "wilsonw": 228,
-              "maloufd": 217,
-              "blackd": 135,
+              "maloufd": 219,
+              "blackd": 136,
               "write-ins": 0
             },
             "results_absentee": {
@@ -636,16 +646,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:24Z",
-            "leader_margin_value": 35.5225,
-            "leader_margin_display": "R+36",
-            "leader_margin_name_display": "Curran +36",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T18:16:20Z",
+            "leader_margin_value": 35.31806,
+            "leader_margin_display": "R+35",
+            "leader_margin_name_display": "Curran +35",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17023",
             "name": "Clark",
-            "votes": 8233,
+            "votes": 8248,
             "absentee_votes": 0,
             "reporting": 22,
             "precincts": 23,
@@ -662,11 +673,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2079,
-              "curranm": 5928,
+              "durbinr": 2082,
+              "curranm": 5939,
               "maloufd": 107,
               "wilsonw": 68,
-              "blackd": 51,
+              "blackd": 52,
               "write-ins": 0
             },
             "results_absentee": {
@@ -677,16 +688,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:24Z",
-            "leader_margin_value": 46.75088,
+            "last_updated": "2020-12-04T18:20:15Z",
+            "leader_margin_value": 46.76285,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Curran +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17025",
             "name": "Clay",
-            "votes": 6706,
+            "votes": 6709,
             "absentee_votes": 0,
             "reporting": 21,
             "precincts": 22,
@@ -704,7 +716,7 @@
             "provisional_count_progress": null,
             "results": {
               "durbinr": 1295,
-              "curranm": 5251,
+              "curranm": 5254,
               "maloufd": 78,
               "blackd": 38,
               "wilsonw": 37,
@@ -718,16 +730,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:25Z",
-            "leader_margin_value": 58.99195,
+            "last_updated": "2020-12-04T18:20:45Z",
+            "leader_margin_value": 59.01028,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Curran +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17027",
             "name": "Clinton",
-            "votes": 18931,
+            "votes": 19001,
             "absentee_votes": 0,
             "reporting": 39,
             "precincts": 40,
@@ -744,9 +757,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5299,
-              "curranm": 13126,
-              "maloufd": 275,
+              "durbinr": 5329,
+              "curranm": 13162,
+              "maloufd": 279,
               "wilsonw": 114,
               "blackd": 106,
               "write-ins": 11
@@ -759,24 +772,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:27Z",
-            "leader_margin_value": 41.34488,
+            "last_updated": "2020-12-04T18:21:24Z",
+            "leader_margin_value": 41.22415,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Curran +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17029",
             "name": "Coles",
-            "votes": 20489,
+            "votes": 22329,
             "absentee_votes": 0,
             "reporting": 37,
             "precincts": 44,
             "absentee_method": "None",
-            "eevp": 94,
+            "eevp": 100,
             "tot_exp_vote": 21851,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -785,11 +799,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 7735,
-              "curranm": 12006,
-              "maloufd": 287,
-              "wilsonw": 238,
-              "blackd": 223,
+              "durbinr": 8138,
+              "curranm": 13379,
+              "maloufd": 308,
+              "wilsonw": 265,
+              "blackd": 239,
               "write-ins": 0
             },
             "results_absentee": {
@@ -800,11 +814,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:28Z",
-            "leader_margin_value": 20.84533,
-            "leader_margin_display": "R+21",
-            "leader_margin_name_display": "Curran +21",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T18:24:19Z",
+            "leader_margin_value": 23.47172,
+            "leader_margin_display": "R+23",
+            "leader_margin_name_display": "Curran +23",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17031",
@@ -845,12 +860,13 @@
             "leader_margin_value": 46.97681,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Durbin +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17033",
             "name": "Crawford",
-            "votes": 9299,
+            "votes": 9321,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -867,8 +883,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2380,
-              "curranm": 6666,
+              "durbinr": 2384,
+              "curranm": 6684,
               "maloufd": 122,
               "wilsonw": 77,
               "blackd": 50,
@@ -882,16 +898,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:32Z",
-            "leader_margin_value": 46.09098,
+            "last_updated": "2020-12-04T18:25:49Z",
+            "leader_margin_value": 46.13239,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Curran +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17035",
             "name": "Cumberland",
-            "votes": 5772,
+            "votes": 5779,
             "absentee_votes": 0,
             "reporting": 11,
             "precincts": 12,
@@ -908,8 +925,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1356,
-              "curranm": 4242,
+              "durbinr": 1357,
+              "curranm": 4248,
               "maloufd": 77,
               "wilsonw": 56,
               "blackd": 36,
@@ -923,11 +940,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:33Z",
-            "leader_margin_value": 50,
+            "last_updated": "2020-12-04T18:26:45Z",
+            "leader_margin_value": 50.02596,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Curran +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17037",
@@ -964,16 +982,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:34Z",
+            "last_updated": "2020-12-04T18:26:10Z",
             "leader_margin_value": 4.68372,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Durbin +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17039",
             "name": "DeWitt",
-            "votes": 7870,
+            "votes": 7900,
             "absentee_votes": 0,
             "reporting": 22,
             "precincts": 23,
@@ -990,9 +1009,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2434,
-              "curranm": 5129,
-              "maloufd": 169,
+              "durbinr": 2451,
+              "curranm": 5140,
+              "maloufd": 171,
               "wilsonw": 70,
               "blackd": 68,
               "write-ins": 0
@@ -1005,16 +1024,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:14Z",
-            "leader_margin_value": 34.24396,
+            "last_updated": "2020-12-04T18:28:44Z",
+            "leader_margin_value": 34.03797,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Curran +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17041",
             "name": "Douglas",
-            "votes": 8634,
+            "votes": 8645,
             "absentee_votes": 0,
             "reporting": 16,
             "precincts": 17,
@@ -1031,8 +1051,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2488,
-              "curranm": 5859,
+              "durbinr": 2494,
+              "curranm": 5864,
               "maloufd": 112,
               "blackd": 82,
               "wilsonw": 76,
@@ -1046,11 +1066,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:14Z",
-            "leader_margin_value": 39.04332,
+            "last_updated": "2020-12-04T18:29:42Z",
+            "leader_margin_value": 38.98207,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Curran +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17043",
@@ -1087,16 +1108,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:15Z",
+            "last_updated": "2020-12-04T18:28:04Z",
             "leader_margin_value": 14.08978,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Durbin +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17045",
             "name": "Edgar",
-            "votes": 8014,
+            "votes": 8057,
             "absentee_votes": 0,
             "reporting": 28,
             "precincts": 31,
@@ -1113,8 +1135,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2226,
-              "curranm": 5546,
+              "durbinr": 2247,
+              "curranm": 5568,
               "maloufd": 100,
               "wilsonw": 73,
               "blackd": 69,
@@ -1128,11 +1150,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:16Z",
-            "leader_margin_value": 41.4275,
+            "last_updated": "2020-12-04T18:31:24Z",
+            "leader_margin_value": 41.21882,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Curran +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17047",
@@ -1169,16 +1192,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:16Z",
+            "last_updated": "2020-12-04T18:29:18Z",
             "leader_margin_value": 64.20281,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Curran +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17049",
             "name": "Effingham",
-            "votes": 18783,
+            "votes": 18825,
             "absentee_votes": 0,
             "reporting": 35,
             "precincts": 37,
@@ -1195,8 +1219,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4108,
-              "curranm": 14250,
+              "durbinr": 4128,
+              "curranm": 14272,
               "maloufd": 213,
               "wilsonw": 116,
               "blackd": 84,
@@ -1210,16 +1234,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:17Z",
-            "leader_margin_value": 53.99563,
+            "last_updated": "2020-12-04T18:32:47Z",
+            "leader_margin_value": 53.88579,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Curran +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17051",
             "name": "Fayette",
-            "votes": 9894,
+            "votes": 9935,
             "absentee_votes": 0,
             "reporting": 26,
             "precincts": 28,
@@ -1236,11 +1261,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2100,
-              "curranm": 7563,
+              "durbinr": 2113,
+              "curranm": 7589,
               "maloufd": 117,
-              "blackd": 65,
-              "wilsonw": 44,
+              "blackd": 66,
+              "wilsonw": 45,
               "write-ins": 5
             },
             "results_absentee": {
@@ -1251,24 +1276,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:18Z",
-            "leader_margin_value": 55.21528,
+            "last_updated": "2020-12-04T18:38:32Z",
+            "leader_margin_value": 55.11827,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Curran +55",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17053",
             "name": "Ford",
-            "votes": 6724,
+            "votes": 6879,
             "absentee_votes": 0,
             "reporting": 21,
             "precincts": 22,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 96,
+            "eevp": 98,
             "tot_exp_vote": 6997,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -1277,11 +1303,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1703,
-              "curranm": 4783,
-              "wilsonw": 90,
-              "maloufd": 86,
-              "blackd": 59,
+              "durbinr": 1765,
+              "curranm": 4872,
+              "wilsonw": 91,
+              "maloufd": 87,
+              "blackd": 61,
               "write-ins": 3
             },
             "results_absentee": {
@@ -1292,24 +1318,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:18Z",
-            "leader_margin_value": 45.80607,
-            "leader_margin_display": "R+46",
-            "leader_margin_name_display": "Curran +46",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:59:55Z",
+            "leader_margin_value": 45.16645,
+            "leader_margin_display": "R+45",
+            "leader_margin_name_display": "Curran +45",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17055",
             "name": "Franklin",
-            "votes": 18176,
+            "votes": 18353,
             "absentee_votes": 0,
             "reporting": 31,
             "precincts": 35,
             "absentee_method": "None",
-            "eevp": 89,
+            "eevp": 90,
             "tot_exp_vote": 20497,
-            "eevp_value": "89%",
-            "eevp_display": "89% reported",
+            "eevp_value": "90%",
+            "eevp_display": "90% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "some",
@@ -1318,11 +1345,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5733,
-              "curranm": 12025,
-              "maloufd": 180,
-              "blackd": 123,
-              "wilsonw": 106,
+              "durbinr": 5810,
+              "curranm": 12118,
+              "maloufd": 182,
+              "blackd": 127,
+              "wilsonw": 107,
               "write-ins": 9
             },
             "results_absentee": {
@@ -1333,24 +1360,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:44Z",
-            "leader_margin_value": 34.61708,
-            "leader_margin_display": "R+35",
-            "leader_margin_name_display": "Curran +35",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T18:47:21Z",
+            "leader_margin_value": 34.3704,
+            "leader_margin_display": "R+34",
+            "leader_margin_name_display": "Curran +34",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17057",
             "name": "Fulton",
-            "votes": 16279,
+            "votes": 16482,
             "absentee_votes": 0,
             "reporting": 53,
             "precincts": 57,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 94,
+            "eevp": 95,
             "tot_exp_vote": 17278,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -1359,11 +1387,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 6973,
-              "curranm": 8738,
-              "maloufd": 251,
-              "wilsonw": 152,
-              "blackd": 150,
+              "durbinr": 7109,
+              "curranm": 8799,
+              "maloufd": 252,
+              "wilsonw": 154,
+              "blackd": 153,
               "write-ins": 15
             },
             "results_absentee": {
@@ -1374,16 +1402,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:49Z",
-            "leader_margin_value": 10.84219,
-            "leader_margin_display": "R+11",
-            "leader_margin_name_display": "Curran +11",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:49:23Z",
+            "leader_margin_value": 10.25361,
+            "leader_margin_display": "R+10",
+            "leader_margin_name_display": "Curran +10",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17059",
             "name": "Gallatin",
-            "votes": 2538,
+            "votes": 2539,
             "absentee_votes": 249,
             "reporting": 9,
             "precincts": 11,
@@ -1400,7 +1429,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 828,
+              "durbinr": 829,
               "curranm": 1642,
               "wilsonw": 29,
               "maloufd": 23,
@@ -1415,16 +1444,17 @@
               "blackd": 4,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:52Z",
-            "leader_margin_value": 32.0725,
+            "last_updated": "2020-12-04T18:38:02Z",
+            "leader_margin_value": 32.02048,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Curran +32",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17061",
             "name": "Greene",
-            "votes": 6050,
+            "votes": 6053,
             "absentee_votes": 0,
             "reporting": 21,
             "precincts": 22,
@@ -1442,7 +1472,7 @@
             "provisional_count_progress": null,
             "results": {
               "durbinr": 1702,
-              "curranm": 4166,
+              "curranm": 4169,
               "maloufd": 68,
               "blackd": 65,
               "wilsonw": 49,
@@ -1456,24 +1486,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:54Z",
-            "leader_margin_value": 40.72727,
+            "last_updated": "2020-12-04T18:49:48Z",
+            "leader_margin_value": 40.75665,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Curran +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17063",
             "name": "Grundy",
-            "votes": 25966,
+            "votes": 26312,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 98,
+            "eevp": 100,
             "tot_exp_vote": 26400,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 6,
             "absentee_count_progress": "unknown",
@@ -1482,11 +1513,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 9586,
-              "curranm": 14864,
-              "wilsonw": 878,
-              "maloufd": 374,
-              "blackd": 251,
+              "durbinr": 9766,
+              "curranm": 15005,
+              "wilsonw": 887,
+              "maloufd": 383,
+              "blackd": 258,
               "write-ins": 13
             },
             "results_absentee": {
@@ -1497,24 +1528,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:54Z",
-            "leader_margin_value": 20.32658,
+            "last_updated": "2020-12-04T20:00:32Z",
+            "leader_margin_value": 19.91107,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Curran +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17065",
             "name": "Hamilton",
-            "votes": 4151,
+            "votes": 4158,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 16,
             "absentee_method": "None",
-            "eevp": 90,
+            "eevp": 91,
             "tot_exp_vote": 4588,
-            "eevp_value": "90%",
-            "eevp_display": "90% reported",
+            "eevp_value": "91%",
+            "eevp_display": "91% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "none",
@@ -1523,8 +1555,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1108,
-              "curranm": 2928,
+              "durbinr": 1112,
+              "curranm": 2931,
               "maloufd": 56,
               "blackd": 33,
               "wilsonw": 26,
@@ -1538,24 +1570,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:55Z",
-            "leader_margin_value": 43.84486,
+            "last_updated": "2020-12-04T18:51:07Z",
+            "leader_margin_value": 43.74699,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Curran +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17067",
             "name": "Hancock",
-            "votes": 6435,
+            "votes": 9236,
             "absentee_votes": 0,
             "reporting": 21,
             "precincts": 33,
             "absentee_method": "None",
-            "eevp": 71,
+            "eevp": 100,
             "tot_exp_vote": 9121,
-            "eevp_value": "71%",
-            "eevp_display": "71% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "none",
@@ -1564,11 +1597,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1311,
-              "curranm": 4953,
-              "maloufd": 98,
-              "blackd": 38,
-              "wilsonw": 31,
+              "durbinr": 2516,
+              "curranm": 6484,
+              "maloufd": 131,
+              "blackd": 52,
+              "wilsonw": 49,
               "write-ins": 4
             },
             "results_absentee": {
@@ -1579,37 +1612,38 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:55Z",
-            "leader_margin_value": 56.59674,
-            "leader_margin_display": "R+57",
-            "leader_margin_name_display": "Curran +57",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:39:25Z",
+            "leader_margin_value": 42.96232,
+            "leader_margin_display": "R+43",
+            "leader_margin_name_display": "Curran +43",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17069",
             "name": "Hardin",
-            "votes": 0,
+            "votes": 2073,
             "absentee_votes": 0,
-            "reporting": 0,
+            "reporting": 5,
             "precincts": 6,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 0,
+            "eevp": 82,
             "tot_exp_vote": 2514,
-            "eevp_value": "0%",
-            "eevp_display": "0% reported",
+            "eevp_value": "82%",
+            "eevp_display": "82% reported",
             "eevp_source": "edison",
-            "turnout_stage": null,
+            "turnout_stage": 2,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 1520,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 0,
-              "curranm": 0,
-              "blackd": 0,
-              "maloufd": 0,
-              "wilsonw": 0,
+              "durbinr": 591,
+              "curranm": 1431,
+              "blackd": 22,
+              "maloufd": 18,
+              "wilsonw": 11,
               "write-ins": 0
             },
             "results_absentee": {
@@ -1620,16 +1654,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:56Z",
-            "leader_margin_value": null,
-            "leader_margin_display": "\u2013",
-            "leader_margin_name_display": "\u2013",
-            "leader_party_id": ""
+            "last_updated": "2020-12-04T18:53:01Z",
+            "leader_margin_value": 40.52098,
+            "leader_margin_display": "R+41",
+            "leader_margin_name_display": "Curran +41",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17071",
             "name": "Henderson",
-            "votes": 3563,
+            "votes": 3567,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 13,
@@ -1646,8 +1681,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1298,
-              "curranm": 2175,
+              "durbinr": 1299,
+              "curranm": 2178,
               "maloufd": 41,
               "wilsonw": 28,
               "blackd": 20,
@@ -1661,16 +1696,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:59Z",
-            "leader_margin_value": 24.61409,
+            "last_updated": "2020-12-04T19:49:46Z",
+            "leader_margin_value": 24.64256,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Curran +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17073",
             "name": "Henry",
-            "votes": 25216,
+            "votes": 25291,
             "absentee_votes": 0,
             "reporting": 48,
             "precincts": 52,
@@ -1687,11 +1723,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 9971,
-              "curranm": 14524,
-              "maloufd": 348,
-              "wilsonw": 211,
-              "blackd": 147,
+              "durbinr": 10004,
+              "curranm": 14555,
+              "maloufd": 353,
+              "wilsonw": 213,
+              "blackd": 151,
               "write-ins": 15
             },
             "results_absentee": {
@@ -1702,24 +1738,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:00Z",
-            "leader_margin_value": 18.056,
+            "last_updated": "2020-12-04T19:50:36Z",
+            "leader_margin_value": 17.99454,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Curran +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17075",
             "name": "Iroquois",
-            "votes": 13829,
+            "votes": 13862,
             "absentee_votes": 0,
             "reporting": 35,
             "precincts": 37,
             "absentee_method": "Other",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 14348,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -1728,10 +1765,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3062,
-              "curranm": 10231,
-              "wilsonw": 274,
-              "maloufd": 152,
+              "durbinr": 3075,
+              "curranm": 10249,
+              "wilsonw": 275,
+              "maloufd": 153,
               "blackd": 104,
               "write-ins": 6
             },
@@ -1743,24 +1780,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:02Z",
-            "leader_margin_value": 51.84034,
+            "last_updated": "2020-12-04T20:00:58Z",
+            "leader_margin_value": 51.75299,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Curran +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17077",
             "name": "Jackson",
-            "votes": 22309,
+            "votes": 22448,
             "absentee_votes": 0,
             "reporting": 46,
             "precincts": 56,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 82,
+            "eevp": 83,
             "tot_exp_vote": 27180,
-            "eevp_value": "82%",
-            "eevp_display": "82% reported",
+            "eevp_value": "83%",
+            "eevp_display": "83% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -1769,11 +1807,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 11263,
-              "curranm": 10234,
-              "blackd": 365,
-              "maloufd": 292,
-              "wilsonw": 141,
+              "durbinr": 11338,
+              "curranm": 10291,
+              "blackd": 367,
+              "maloufd": 295,
+              "wilsonw": 143,
               "write-ins": 14
             },
             "results_absentee": {
@@ -1784,16 +1822,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:02Z",
-            "leader_margin_value": 4.61249,
+            "last_updated": "2020-12-04T19:01:37Z",
+            "leader_margin_value": 4.66411,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Durbin +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17079",
             "name": "Jasper",
-            "votes": 5446,
+            "votes": 5449,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 16,
@@ -1811,7 +1850,7 @@
             "provisional_count_progress": null,
             "results": {
               "durbinr": 1180,
-              "curranm": 4154,
+              "curranm": 4157,
               "maloufd": 56,
               "blackd": 29,
               "wilsonw": 26,
@@ -1825,16 +1864,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:03Z",
-            "leader_margin_value": 54.60889,
+            "last_updated": "2020-12-04T19:02:12Z",
+            "leader_margin_value": 54.63388,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Curran +55",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17081",
             "name": "Jefferson",
-            "votes": 16963,
+            "votes": 16990,
             "absentee_votes": 0,
             "reporting": 30,
             "precincts": 33,
@@ -1851,11 +1891,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5090,
-              "curranm": 11385,
-              "maloufd": 230,
-              "blackd": 141,
-              "wilsonw": 110,
+              "durbinr": 5099,
+              "curranm": 11399,
+              "maloufd": 231,
+              "blackd": 143,
+              "wilsonw": 111,
               "write-ins": 7
             },
             "results_absentee": {
@@ -1866,16 +1906,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:04Z",
-            "leader_margin_value": 37.11018,
+            "last_updated": "2020-12-04T19:02:58Z",
+            "leader_margin_value": 37.08064,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Curran +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17083",
             "name": "Jersey",
-            "votes": 11632,
+            "votes": 11649,
             "absentee_votes": 0,
             "reporting": 24,
             "precincts": 25,
@@ -1892,9 +1933,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3473,
-              "curranm": 7839,
-              "maloufd": 169,
+              "durbinr": 3478,
+              "curranm": 7850,
+              "maloufd": 170,
               "wilsonw": 85,
               "blackd": 61,
               "write-ins": 5
@@ -1907,16 +1948,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:06Z",
-            "leader_margin_value": 37.53439,
+            "last_updated": "2020-12-04T19:03:39Z",
+            "leader_margin_value": 37.53112,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Curran +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17085",
             "name": "JoDaviess",
-            "votes": 12253,
+            "votes": 12271,
             "absentee_votes": 5932,
             "reporting": 28,
             "precincts": 29,
@@ -1933,11 +1975,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5051,
-              "curranm": 6851,
-              "maloufd": 149,
+              "durbinr": 5061,
+              "curranm": 6856,
+              "maloufd": 150,
               "blackd": 108,
-              "wilsonw": 94,
+              "wilsonw": 96,
               "write-ins": 0
             },
             "results_absentee": {
@@ -1948,16 +1990,17 @@
               "wilsonw": 34,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:11Z",
-            "leader_margin_value": 14.69028,
+            "last_updated": "2020-12-04T19:51:44Z",
+            "leader_margin_value": 14.62798,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Curran +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17087",
             "name": "Johnson",
-            "votes": 6327,
+            "votes": 6335,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 16,
@@ -1974,8 +2017,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1556,
-              "curranm": 4621,
+              "durbinr": 1559,
+              "curranm": 4626,
               "blackd": 50,
               "maloufd": 49,
               "wilsonw": 49,
@@ -1989,11 +2032,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:13Z",
-            "leader_margin_value": 48.44318,
+            "last_updated": "2020-12-04T19:05:21Z",
+            "leader_margin_value": 48.41358,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Curran +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17089",
@@ -2034,12 +2078,13 @@
             "leader_margin_value": 11.45897,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Durbin +11",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17091",
             "name": "Kankakee",
-            "votes": 49148,
+            "votes": 49454,
             "absentee_votes": 0,
             "reporting": 60,
             "precincts": 64,
@@ -2050,17 +2095,17 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "none",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 21168,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 19608,
-              "curranm": 26374,
-              "wilsonw": 1845,
-              "maloufd": 950,
-              "blackd": 357,
+              "durbinr": 19754,
+              "curranm": 26505,
+              "wilsonw": 1851,
+              "maloufd": 967,
+              "blackd": 363,
               "write-ins": 14
             },
             "results_absentee": {
@@ -2071,11 +2116,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:19Z",
-            "leader_margin_value": 13.76658,
+            "last_updated": "2020-12-04T20:13:24Z",
+            "leader_margin_value": 13.65107,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Curran +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17093",
@@ -2116,20 +2162,21 @@
             "leader_margin_value": 3.5738,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Durbin +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17095",
             "name": "Knox",
-            "votes": 22360,
+            "votes": 22846,
             "absentee_votes": 0,
             "reporting": 28,
             "precincts": 31,
             "absentee_method": "None",
-            "eevp": 89,
+            "eevp": 91,
             "tot_exp_vote": 25236,
-            "eevp_value": "89%",
-            "eevp_display": "89% reported",
+            "eevp_value": "91%",
+            "eevp_display": "91% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2138,37 +2185,40 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 10546,
-              "curranm": 11165,
-              "maloufd": 288,
-              "blackd": 197,
-              "wilsonw": 164
+              "durbinr": 10820,
+              "curranm": 11349,
+              "maloufd": 301,
+              "blackd": 204,
+              "wilsonw": 172,
+              "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
               "maloufd": 0,
               "blackd": 0,
-              "wilsonw": 0
+              "wilsonw": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:22Z",
-            "leader_margin_value": 2.76834,
-            "leader_margin_display": "R+3",
-            "leader_margin_name_display": "Curran +3",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:52:20Z",
+            "leader_margin_value": 2.3155,
+            "leader_margin_display": "R+2",
+            "leader_margin_name_display": "Curran +2",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17099",
             "name": "LaSalle",
-            "votes": 51250,
+            "votes": 52875,
             "absentee_votes": 0,
             "reporting": 111,
             "precincts": 119,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 94,
+            "eevp": 97,
             "tot_exp_vote": 54372,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2177,11 +2227,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 21910,
-              "curranm": 26827,
-              "wilsonw": 1406,
-              "maloufd": 704,
-              "blackd": 378,
+              "durbinr": 22851,
+              "curranm": 27437,
+              "wilsonw": 1442,
+              "maloufd": 720,
+              "blackd": 400,
               "write-ins": 25
             },
             "results_absentee": {
@@ -2192,37 +2242,38 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:24Z",
-            "leader_margin_value": 9.59415,
-            "leader_margin_display": "R+10",
-            "leader_margin_name_display": "Curran +10",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T20:01:35Z",
+            "leader_margin_value": 8.67329,
+            "leader_margin_display": "R+9",
+            "leader_margin_name_display": "Curran +9",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17097",
             "name": "Lake",
-            "votes": 325754,
+            "votes": 332288,
             "absentee_votes": 181754,
             "reporting": 415,
             "precincts": 415,
             "absentee_method": "None",
-            "eevp": 97,
+            "eevp": 99,
             "tot_exp_vote": 334925,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 165277,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 183384,
-              "curranm": 129351,
-              "wilsonw": 7200,
-              "maloufd": 3570,
-              "blackd": 2249,
+              "durbinr": 187630,
+              "curranm": 131344,
+              "wilsonw": 7330,
+              "maloufd": 3657,
+              "blackd": 2327,
               "write-ins": 0
             },
             "results_absentee": {
@@ -2233,24 +2284,25 @@
               "blackd": 1048,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:23Z",
-            "leader_margin_value": 16.58706,
+            "last_updated": "2020-12-04T19:12:31Z",
+            "leader_margin_value": 16.93892,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Durbin +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17101",
             "name": "Lawrence",
-            "votes": 6217,
+            "votes": 6257,
             "absentee_votes": 0,
             "reporting": 20,
             "precincts": 22,
             "absentee_method": "None",
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 6688,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "none",
@@ -2259,10 +2311,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1561,
-              "curranm": 4471,
+              "durbinr": 1571,
+              "curranm": 4500,
               "maloufd": 92,
-              "wilsonw": 48,
+              "wilsonw": 49,
               "blackd": 39,
               "write-ins": 6
             },
@@ -2274,24 +2326,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:25Z",
-            "leader_margin_value": 46.80714,
+            "last_updated": "2020-12-04T19:12:01Z",
+            "leader_margin_value": 46.81157,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Curran +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17103",
             "name": "Lee",
-            "votes": 16117,
+            "votes": 16205,
             "absentee_votes": 0,
             "reporting": 46,
             "precincts": 49,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 95,
+            "eevp": 96,
             "tot_exp_vote": 16895,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2300,11 +2353,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 6408,
-              "curranm": 9142,
-              "wilsonw": 213,
-              "maloufd": 207,
-              "blackd": 141,
+              "durbinr": 6446,
+              "curranm": 9188,
+              "wilsonw": 214,
+              "maloufd": 209,
+              "blackd": 142,
               "write-ins": 6
             },
             "results_absentee": {
@@ -2315,16 +2368,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:27Z",
-            "leader_margin_value": 16.96345,
+            "last_updated": "2020-12-04T20:01:57Z",
+            "leader_margin_value": 16.9207,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Curran +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17105",
             "name": "Livingston",
-            "votes": 16810,
+            "votes": 16933,
             "absentee_votes": 0,
             "reporting": 46,
             "precincts": 47,
@@ -2341,10 +2395,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4911,
-              "curranm": 11200,
-              "wilsonw": 305,
-              "maloufd": 262,
+              "durbinr": 4969,
+              "curranm": 11258,
+              "wilsonw": 310,
+              "maloufd": 264,
               "blackd": 132,
               "write-ins": 0
             },
@@ -2356,21 +2410,22 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:28Z",
-            "leader_margin_value": 37.41225,
+            "last_updated": "2020-12-04T20:02:32Z",
+            "leader_margin_value": 37.14049,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Curran +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17107",
             "name": "Logan",
-            "votes": 12971,
+            "votes": 13145,
             "absentee_votes": 0,
             "reporting": 27,
             "precincts": 29,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 13117,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
@@ -2382,11 +2437,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4296,
-              "curranm": 8261,
-              "maloufd": 197,
-              "wilsonw": 116,
-              "blackd": 101,
+              "durbinr": 4366,
+              "curranm": 8351,
+              "maloufd": 203,
+              "wilsonw": 122,
+              "blackd": 103,
               "write-ins": 0
             },
             "results_absentee": {
@@ -2397,16 +2452,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:31Z",
-            "leader_margin_value": 30.56819,
-            "leader_margin_display": "R+31",
-            "leader_margin_name_display": "Curran +31",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:39:57Z",
+            "leader_margin_value": 30.31571,
+            "leader_margin_display": "R+30",
+            "leader_margin_name_display": "Curran +30",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17115",
             "name": "Macon",
-            "votes": 48497,
+            "votes": 48949,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 72,
@@ -2423,11 +2479,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 19903,
-              "curranm": 26874,
-              "maloufd": 728,
-              "wilsonw": 590,
-              "blackd": 402,
+              "durbinr": 20127,
+              "curranm": 27072,
+              "maloufd": 743,
+              "wilsonw": 597,
+              "blackd": 410,
               "write-ins": 0
             },
             "results_absentee": {
@@ -2438,35 +2494,36 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:35Z",
-            "leader_margin_value": 14.37408,
+            "last_updated": "2020-12-04T19:11:57Z",
+            "leader_margin_value": 14.18824,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Curran +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17117",
             "name": "Macoupin",
-            "votes": 23536,
+            "votes": 23681,
             "absentee_votes": 0,
             "reporting": 58,
             "precincts": 61,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 24534,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "all",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 3614,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 8279,
-              "curranm": 14468,
-              "maloufd": 395,
+              "durbinr": 8334,
+              "curranm": 14555,
+              "maloufd": 398,
               "blackd": 194,
               "wilsonw": 193,
               "write-ins": 7
@@ -2479,11 +2536,12 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:36Z",
-            "leader_margin_value": 26.29589,
+            "last_updated": "2020-12-04T19:12:44Z",
+            "leader_margin_value": 26.27001,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Curran +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17119",
@@ -2524,20 +2582,21 @@
             "leader_margin_value": 9.2051,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Curran +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17121",
             "name": "Marion",
-            "votes": 16984,
+            "votes": 17261,
             "absentee_votes": 0,
             "reporting": 43,
             "precincts": 48,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 91,
+            "eevp": 92,
             "tot_exp_vote": 18728,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
+            "eevp_value": "92%",
+            "eevp_display": "92% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -2546,11 +2605,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4986,
-              "curranm": 11592,
-              "maloufd": 190,
-              "blackd": 122,
-              "wilsonw": 87,
+              "durbinr": 5122,
+              "curranm": 11718,
+              "maloufd": 198,
+              "blackd": 126,
+              "wilsonw": 90,
               "write-ins": 7
             },
             "results_absentee": {
@@ -2561,16 +2620,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:38Z",
-            "leader_margin_value": 38.89543,
-            "leader_margin_display": "R+39",
-            "leader_margin_name_display": "Curran +39",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:19:29Z",
+            "leader_margin_value": 38.21331,
+            "leader_margin_display": "R+38",
+            "leader_margin_name_display": "Curran +38",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17123",
             "name": "Marshall",
-            "votes": 6191,
+            "votes": 6192,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 14,
@@ -2587,7 +2647,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2026,
+              "durbinr": 2027,
               "curranm": 3957,
               "maloufd": 96,
               "wilsonw": 70,
@@ -2602,16 +2662,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:41Z",
-            "leader_margin_value": 31.19044,
+            "last_updated": "2020-12-04T19:41:54Z",
+            "leader_margin_value": 31.16925,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Curran +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17125",
             "name": "Mason",
-            "votes": 6655,
+            "votes": 6665,
             "absentee_votes": 2415,
             "reporting": 19,
             "precincts": 21,
@@ -2628,10 +2689,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2383,
-              "curranm": 4070,
+              "durbinr": 2387,
+              "curranm": 4075,
               "maloufd": 101,
-              "blackd": 53,
+              "blackd": 54,
               "wilsonw": 48,
               "write-ins": 0
             },
@@ -2643,24 +2704,25 @@
               "wilsonw": 16,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:43Z",
-            "leader_margin_value": 25.34936,
+            "last_updated": "2020-12-04T19:42:21Z",
+            "leader_margin_value": 25.32633,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Curran +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17127",
             "name": "Massac",
-            "votes": 6699,
+            "votes": 6713,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 17,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 6803,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 6,
             "absentee_count_progress": "all",
@@ -2669,8 +2731,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1848,
-              "curranm": 4707,
+              "durbinr": 1857,
+              "curranm": 4712,
               "maloufd": 70,
               "wilsonw": 40,
               "blackd": 31,
@@ -2684,16 +2746,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:44Z",
-            "leader_margin_value": 42.67801,
+            "last_updated": "2020-12-04T19:17:07Z",
+            "leader_margin_value": 42.52942,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Curran +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17109",
             "name": "McDonough",
-            "votes": 12112,
+            "votes": 12148,
             "absentee_votes": 0,
             "reporting": 26,
             "precincts": 31,
@@ -2710,11 +2773,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5072,
-              "curranm": 6658,
+              "durbinr": 5090,
+              "curranm": 6674,
               "maloufd": 188,
-              "blackd": 107,
-              "wilsonw": 87,
+              "blackd": 108,
+              "wilsonw": 88,
               "write-ins": 0
             },
             "results_absentee": {
@@ -2725,16 +2788,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:32Z",
-            "leader_margin_value": 13.09445,
+            "last_updated": "2020-12-04T19:40:34Z",
+            "leader_margin_value": 13.03918,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Curran +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17111",
             "name": "McHenry",
-            "votes": 162842,
+            "votes": 162846,
             "absentee_votes": 0,
             "reporting": 212,
             "precincts": 212,
@@ -2751,9 +2815,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 73801,
-              "curranm": 80439,
-              "maloufd": 3549,
+              "durbinr": 73803,
+              "curranm": 80440,
+              "maloufd": 3550,
               "wilsonw": 3543,
               "blackd": 1393,
               "write-ins": 117
@@ -2766,24 +2830,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T15:29:12Z",
-            "leader_margin_value": 4.07634,
+            "last_updated": "2020-12-04T19:08:02Z",
+            "leader_margin_value": 4.07563,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Curran +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17113",
             "name": "McLean",
-            "votes": 86138,
+            "votes": 86511,
             "absentee_votes": 0,
             "reporting": 67,
             "precincts": 70,
             "absentee_method": "None",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 89415,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2792,24 +2857,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 41356,
-              "curranm": 40854,
-              "maloufd": 2112,
-              "blackd": 969,
-              "wilsonw": 847
+              "durbinr": 41549,
+              "curranm": 41007,
+              "maloufd": 2123,
+              "blackd": 974,
+              "wilsonw": 858,
+              "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
               "maloufd": 0,
               "blackd": 0,
-              "wilsonw": 0
+              "wilsonw": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:34Z",
-            "leader_margin_value": 0.58279,
-            "leader_margin_display": "D+0.58",
-            "leader_margin_name_display": "Durbin +0.58",
-            "leader_party_id": "democrat"
+            "last_updated": "2020-12-04T19:41:34Z",
+            "leader_margin_value": 0.62651,
+            "leader_margin_display": "D+0.63",
+            "leader_margin_name_display": "Durbin +0.63",
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17129",
@@ -2850,20 +2918,21 @@
             "leader_margin_value": 36.66764,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Curran +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17131",
             "name": "Mercer",
-            "votes": 8592,
+            "votes": 8751,
             "absentee_votes": 3204,
             "reporting": 22,
             "precincts": 24,
             "absentee_method": "As a subtotal in the FIRST cumulative report, along with regular precincts",
-            "eevp": 92,
+            "eevp": 94,
             "tot_exp_vote": 9326,
-            "eevp_value": "92%",
-            "eevp_display": "92% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -2872,11 +2941,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3356,
-              "curranm": 4980,
-              "maloufd": 129,
-              "wilsonw": 70,
-              "blackd": 50,
+              "durbinr": 3420,
+              "curranm": 5068,
+              "maloufd": 133,
+              "wilsonw": 71,
+              "blackd": 52,
               "write-ins": 7
             },
             "results_absentee": {
@@ -2887,16 +2956,17 @@
               "blackd": 13,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:49Z",
-            "leader_margin_value": 18.9013,
+            "last_updated": "2020-12-04T19:52:47Z",
+            "leader_margin_value": 18.83213,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Curran +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17133",
             "name": "Monroe",
-            "votes": 20839,
+            "votes": 21019,
             "absentee_votes": 10256,
             "reporting": 36,
             "precincts": 37,
@@ -2913,11 +2983,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 6637,
-              "curranm": 13710,
-              "maloufd": 253,
+              "durbinr": 6717,
+              "curranm": 13805,
+              "maloufd": 257,
               "blackd": 141,
-              "wilsonw": 94,
+              "wilsonw": 95,
               "write-ins": 4
             },
             "results_absentee": {
@@ -2928,24 +2998,25 @@
               "wilsonw": 44,
               "write-ins": 2
             },
-            "last_updated": "2020-11-24T13:22:51Z",
-            "leader_margin_value": 33.94117,
+            "last_updated": "2020-12-04T19:15:36Z",
+            "leader_margin_value": 33.72187,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Curran +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17135",
             "name": "Montgomery",
-            "votes": 12522,
+            "votes": 13439,
             "absentee_votes": 0,
             "reporting": 33,
             "precincts": 38,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 88,
+            "eevp": 95,
             "tot_exp_vote": 14217,
-            "eevp_value": "88%",
-            "eevp_display": "88% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2954,11 +3025,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4076,
-              "curranm": 8068,
-              "maloufd": 172,
-              "wilsonw": 109,
-              "blackd": 97,
+              "durbinr": 4293,
+              "curranm": 8738,
+              "maloufd": 191,
+              "wilsonw": 112,
+              "blackd": 105,
               "write-ins": 0
             },
             "results_absentee": {
@@ -2969,24 +3040,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:51Z",
-            "leader_margin_value": 31.87989,
-            "leader_margin_display": "R+32",
-            "leader_margin_name_display": "Curran +32",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:15:01Z",
+            "leader_margin_value": 33.07538,
+            "leader_margin_display": "R+33",
+            "leader_margin_name_display": "Curran +33",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17137",
             "name": "Morgan",
-            "votes": 15052,
+            "votes": 15155,
             "absentee_votes": 0,
             "reporting": 37,
             "precincts": 40,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 16167,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2995,11 +3067,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 5493,
-              "curranm": 9173,
-              "maloufd": 187,
-              "blackd": 100,
-              "wilsonw": 99,
+              "durbinr": 5548,
+              "curranm": 9213,
+              "maloufd": 189,
+              "blackd": 104,
+              "wilsonw": 101,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3010,24 +3082,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:52Z",
-            "leader_margin_value": 24.44858,
+            "last_updated": "2020-12-04T19:43:20Z",
+            "leader_margin_value": 24.18344,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Curran +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17139",
             "name": "Moultrie",
-            "votes": 6631,
+            "votes": 6676,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 14,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 6879,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "all",
@@ -3036,11 +3109,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1799,
-              "curranm": 4627,
-              "maloufd": 95,
+              "durbinr": 1816,
+              "curranm": 4650,
+              "maloufd": 98,
               "wilsonw": 65,
-              "blackd": 45,
+              "blackd": 47,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3051,24 +3124,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:53Z",
-            "leader_margin_value": 42.64817,
-            "leader_margin_display": "R+43",
-            "leader_margin_name_display": "Curran +43",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:12:46Z",
+            "leader_margin_value": 42.45057,
+            "leader_margin_display": "R+42",
+            "leader_margin_name_display": "Curran +42",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17141",
             "name": "Ogle",
-            "votes": 25814,
+            "votes": 26066,
             "absentee_votes": 0,
             "reporting": 50,
             "precincts": 52,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 26350,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -3077,11 +3151,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 9369,
-              "curranm": 15400,
-              "maloufd": 438,
-              "wilsonw": 362,
-              "blackd": 233,
+              "durbinr": 9492,
+              "curranm": 15520,
+              "maloufd": 448,
+              "wilsonw": 367,
+              "blackd": 227,
               "write-ins": 12
             },
             "results_absentee": {
@@ -3092,16 +3166,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:53Z",
-            "leader_margin_value": 23.36329,
+            "last_updated": "2020-12-04T20:02:52Z",
+            "leader_margin_value": 23.12591,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Curran +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17143",
             "name": "Peoria",
-            "votes": 81939,
+            "votes": 83633,
             "absentee_votes": 53884,
             "reporting": 156,
             "precincts": 169,
@@ -3118,11 +3193,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 41967,
-              "curranm": 36703,
-              "maloufd": 1852,
-              "blackd": 782,
-              "wilsonw": 635,
+              "durbinr": 42891,
+              "curranm": 37345,
+              "maloufd": 1914,
+              "blackd": 816,
+              "wilsonw": 667,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3133,24 +3208,25 @@
               "wilsonw": 415,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:55Z",
-            "leader_margin_value": 6.42429,
-            "leader_margin_display": "D+6",
-            "leader_margin_name_display": "Durbin +6",
-            "leader_party_id": "democrat"
+            "last_updated": "2020-12-04T19:53:23Z",
+            "leader_margin_value": 6.63135,
+            "leader_margin_display": "D+7",
+            "leader_margin_name_display": "Durbin +7",
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17145",
             "name": "Perry",
-            "votes": 9848,
+            "votes": 9904,
             "absentee_votes": 0,
             "reporting": 24,
             "precincts": 27,
             "absentee_method": "Released as a precinct at the end of tabulation",
-            "eevp": 91,
+            "eevp": 92,
             "tot_exp_vote": 10817,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
+            "eevp_value": "92%",
+            "eevp_display": "92% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "some",
@@ -3159,8 +3235,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3216,
-              "curranm": 6413,
+              "durbinr": 3268,
+              "curranm": 6417,
               "maloufd": 87,
               "blackd": 66,
               "wilsonw": 63,
@@ -3174,16 +3250,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:56Z",
-            "leader_margin_value": 32.46344,
+            "last_updated": "2020-12-04T19:09:19Z",
+            "leader_margin_value": 31.79523,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Curran +32",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17147",
             "name": "Piatt",
-            "votes": 9705,
+            "votes": 9762,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 16,
@@ -3200,11 +3277,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3382,
-              "curranm": 5975,
-              "maloufd": 156,
-              "wilsonw": 120,
-              "blackd": 68,
+              "durbinr": 3407,
+              "curranm": 6004,
+              "maloufd": 157,
+              "wilsonw": 121,
+              "blackd": 69,
               "write-ins": 4
             },
             "results_absentee": {
@@ -3215,16 +3292,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:57Z",
-            "leader_margin_value": 26.71819,
+            "last_updated": "2020-12-04T19:08:50Z",
+            "leader_margin_value": 26.60316,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Curran +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17149",
             "name": "Pike",
-            "votes": 7694,
+            "votes": 7820,
             "absentee_votes": 0,
             "reporting": 28,
             "precincts": 31,
@@ -3241,10 +3319,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1807,
-              "curranm": 5695,
-              "maloufd": 99,
-              "wilsonw": 49,
+              "durbinr": 1837,
+              "curranm": 5785,
+              "maloufd": 102,
+              "wilsonw": 52,
               "blackd": 39,
               "write-ins": 5
             },
@@ -3256,16 +3334,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:58Z",
-            "leader_margin_value": 50.53288,
-            "leader_margin_display": "R+51",
-            "leader_margin_name_display": "Curran +51",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:44:44Z",
+            "leader_margin_value": 50.48593,
+            "leader_margin_display": "R+50",
+            "leader_margin_name_display": "Curran +50",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17151",
             "name": "Pope",
-            "votes": 2127,
+            "votes": 2129,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 6,
@@ -3282,8 +3361,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 519,
-              "curranm": 1572,
+              "durbinr": 520,
+              "curranm": 1573,
               "maloufd": 14,
               "wilsonw": 14,
               "blackd": 7,
@@ -3297,11 +3376,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:59Z",
-            "leader_margin_value": 49.50635,
-            "leader_margin_display": "R+50",
-            "leader_margin_name_display": "Curran +50",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:07:04Z",
+            "leader_margin_value": 49.45984,
+            "leader_margin_display": "R+49",
+            "leader_margin_name_display": "Curran +49",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17153",
@@ -3342,20 +3422,21 @@
             "leader_margin_value": 15.52795,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Curran +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17155",
             "name": "Putnam",
-            "votes": 3253,
+            "votes": 3297,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 97,
+            "eevp": 99,
             "tot_exp_vote": 3345,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 6,
             "absentee_count_progress": "all",
@@ -3364,11 +3445,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1432,
-              "curranm": 1692,
-              "wilsonw": 62,
+              "durbinr": 1459,
+              "curranm": 1706,
+              "wilsonw": 64,
               "maloufd": 40,
-              "blackd": 27,
+              "blackd": 28,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3379,16 +3460,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:01Z",
-            "leader_margin_value": 7.99262,
-            "leader_margin_display": "R+8",
-            "leader_margin_name_display": "Curran +8",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T20:03:17Z",
+            "leader_margin_value": 7.49166,
+            "leader_margin_display": "R+7",
+            "leader_margin_name_display": "Curran +7",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17157",
             "name": "Randolph",
-            "votes": 14665,
+            "votes": 14678,
             "absentee_votes": 0,
             "reporting": 34,
             "precincts": 37,
@@ -3405,11 +3487,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 4643,
-              "curranm": 9731,
+              "durbinr": 4645,
+              "curranm": 9741,
               "maloufd": 129,
               "blackd": 79,
-              "wilsonw": 76,
+              "wilsonw": 77,
               "write-ins": 7
             },
             "results_absentee": {
@@ -3420,16 +3502,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:01Z",
-            "leader_margin_value": 34.69485,
+            "last_updated": "2020-12-04T19:04:55Z",
+            "leader_margin_value": 34.71863,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Curran +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17159",
             "name": "Richland",
-            "votes": 9996,
+            "votes": 7913,
             "absentee_votes": 0,
             "reporting": 21,
             "precincts": 21,
@@ -3446,31 +3529,32 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1582,
-              "curranm": 8414,
-              "blackd": 0,
-              "maloufd": 0,
-              "wilsonw": 0,
+              "durbinr": 1932,
+              "curranm": 5777,
+              "maloufd": 116,
+              "wilsonw": 54,
+              "blackd": 34,
               "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
-              "blackd": 0,
               "maloufd": 0,
               "wilsonw": 0,
+              "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:03Z",
-            "leader_margin_value": 68.34734,
-            "leader_margin_display": "R+68",
-            "leader_margin_name_display": "Curran +68",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T18:57:25Z",
+            "leader_margin_value": 48.59093,
+            "leader_margin_display": "R+49",
+            "leader_margin_name_display": "Curran +49",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17161",
             "name": "Rock Island",
-            "votes": 66104,
+            "votes": 66168,
             "absentee_votes": 0,
             "reporting": 112,
             "precincts": 120,
@@ -3487,11 +3571,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 36454,
-              "curranm": 27688,
-              "maloufd": 959,
-              "blackd": 545,
-              "wilsonw": 453,
+              "durbinr": 36493,
+              "curranm": 27705,
+              "maloufd": 963,
+              "blackd": 548,
+              "wilsonw": 454,
               "write-ins": 5
             },
             "results_absentee": {
@@ -3502,24 +3586,25 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:04Z",
-            "leader_margin_value": 13.26092,
+            "last_updated": "2020-12-04T19:53:45Z",
+            "leader_margin_value": 13.28134,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Durbin +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17165",
             "name": "Saline",
-            "votes": 10786,
+            "votes": 10795,
             "absentee_votes": 0,
             "reporting": 24,
             "precincts": 28,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 86,
+            "eevp": 87,
             "tot_exp_vote": 12471,
-            "eevp_value": "86%",
-            "eevp_display": "86% reported",
+            "eevp_value": "87%",
+            "eevp_display": "87% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -3528,11 +3613,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3242,
-              "curranm": 7263,
+              "durbinr": 3246,
+              "curranm": 7267,
               "maloufd": 145,
               "wilsonw": 75,
-              "blackd": 59,
+              "blackd": 60,
               "write-ins": 2
             },
             "results_absentee": {
@@ -3543,11 +3628,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:06Z",
-            "leader_margin_value": 37.27981,
+            "last_updated": "2020-12-04T18:51:06Z",
+            "leader_margin_value": 37.24873,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Curran +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17167",
@@ -3588,12 +3674,13 @@
             "leader_margin_value": 3.45089,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Curran +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17169",
             "name": "Schuyler",
-            "votes": 3837,
+            "votes": 3846,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 17,
@@ -3610,10 +3697,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1279,
-              "curranm": 2444,
+              "durbinr": 1283,
+              "curranm": 2448,
               "maloufd": 62,
-              "wilsonw": 31,
+              "wilsonw": 32,
               "blackd": 21,
               "write-ins": 0
             },
@@ -3625,24 +3712,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:08Z",
-            "leader_margin_value": 30.36226,
+            "last_updated": "2020-12-04T19:45:40Z",
+            "leader_margin_value": 30.29121,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Curran +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17171",
             "name": "Scott",
-            "votes": 2670,
+            "votes": 2683,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 10,
             "absentee_method": "Other",
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 2867,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -3651,8 +3739,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 702,
-              "curranm": 1920,
+              "durbinr": 705,
+              "curranm": 1930,
               "maloufd": 21,
               "wilsonw": 13,
               "blackd": 12,
@@ -3666,16 +3754,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:09Z",
-            "leader_margin_value": 45.61798,
+            "last_updated": "2020-12-04T19:46:07Z",
+            "leader_margin_value": 45.65785,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Curran +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17173",
             "name": "Shelby",
-            "votes": 11901,
+            "votes": 11945,
             "absentee_votes": 0,
             "reporting": 32,
             "precincts": 33,
@@ -3686,17 +3775,17 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 6,
-            "absentee_count_progress": "all",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 2422,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 2903,
-              "curranm": 8677,
-              "maloufd": 123,
-              "blackd": 99,
-              "wilsonw": 99,
+              "durbinr": 2921,
+              "curranm": 8698,
+              "maloufd": 125,
+              "blackd": 101,
+              "wilsonw": 100,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3707,16 +3796,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:10Z",
-            "leader_margin_value": 48.51693,
-            "leader_margin_display": "R+49",
-            "leader_margin_name_display": "Curran +49",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T18:46:02Z",
+            "leader_margin_value": 48.36333,
+            "leader_margin_display": "R+48",
+            "leader_margin_name_display": "Curran +48",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17163",
             "name": "St. Clair",
-            "votes": 124112,
+            "votes": 126941,
             "absentee_votes": 0,
             "reporting": 175,
             "precincts": 190,
@@ -3733,29 +3823,32 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 65301,
-              "curranm": 54750,
-              "maloufd": 1754,
-              "wilsonw": 1173,
-              "blackd": 1134
+              "durbinr": 66801,
+              "curranm": 55898,
+              "maloufd": 1832,
+              "wilsonw": 1221,
+              "blackd": 1189,
+              "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
               "maloufd": 0,
               "wilsonw": 0,
-              "blackd": 0
+              "blackd": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:05Z",
-            "leader_margin_value": 8.50119,
+            "last_updated": "2020-12-04T18:42:39Z",
+            "leader_margin_value": 8.58903,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Durbin +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17175",
             "name": "Stark",
-            "votes": 2824,
+            "votes": 2829,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 10,
@@ -3772,8 +3865,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 842,
-              "curranm": 1890,
+              "durbinr": 843,
+              "curranm": 1894,
               "maloufd": 46,
               "blackd": 24,
               "wilsonw": 20,
@@ -3787,21 +3880,22 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:12Z",
-            "leader_margin_value": 37.11048,
+            "last_updated": "2020-12-04T20:03:32Z",
+            "leader_margin_value": 37.15094,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Curran +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17177",
             "name": "Stephenson",
-            "votes": 21202,
+            "votes": 21798,
             "absentee_votes": 0,
             "reporting": 38,
             "precincts": 40,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 21446,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
@@ -3813,11 +3907,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 8742,
-              "curranm": 11701,
-              "maloufd": 311,
-              "wilsonw": 286,
-              "blackd": 162,
+              "durbinr": 9043,
+              "curranm": 11954,
+              "maloufd": 336,
+              "wilsonw": 294,
+              "blackd": 171,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3828,16 +3922,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:14Z",
-            "leader_margin_value": 13.95623,
-            "leader_margin_display": "R+14",
-            "leader_margin_name_display": "Curran +14",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:54:19Z",
+            "leader_margin_value": 13.35444,
+            "leader_margin_display": "R+13",
+            "leader_margin_name_display": "Curran +13",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17179",
             "name": "Tazewell",
-            "votes": 67751,
+            "votes": 68437,
             "absentee_votes": 0,
             "reporting": 103,
             "precincts": 109,
@@ -3854,11 +3949,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 25053,
-              "curranm": 40112,
-              "maloufd": 1536,
-              "blackd": 595,
-              "wilsonw": 455,
+              "durbinr": 25380,
+              "curranm": 40429,
+              "maloufd": 1557,
+              "blackd": 604,
+              "wilsonw": 467,
               "write-ins": 0
             },
             "results_absentee": {
@@ -3869,16 +3964,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:14Z",
-            "leader_margin_value": 22.22698,
+            "last_updated": "2020-12-04T19:54:49Z",
+            "leader_margin_value": 21.98957,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Curran +22",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17181",
             "name": "Union",
-            "votes": 8793,
+            "votes": 8801,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 20,
@@ -3895,8 +3991,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3098,
-              "curranm": 5461,
+              "durbinr": 3102,
+              "curranm": 5465,
               "maloufd": 92,
               "blackd": 87,
               "wilsonw": 51,
@@ -3910,16 +4006,17 @@
               "wilsonw": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:16Z",
-            "leader_margin_value": 26.87365,
+            "last_updated": "2020-12-04T18:37:47Z",
+            "leader_margin_value": 26.84922,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Curran +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17183",
             "name": "Vermilion",
-            "votes": 31303,
+            "votes": 31325,
             "absentee_votes": 0,
             "reporting": 50,
             "precincts": 55,
@@ -3936,48 +4033,51 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 11364,
-              "curranm": 18740,
+              "durbinr": 11375,
+              "curranm": 18751,
               "wilsonw": 493,
               "maloufd": 388,
-              "blackd": 318
+              "blackd": 318,
+              "write-ins": 0
             },
             "results_absentee": {
               "durbinr": 0,
               "curranm": 0,
               "wilsonw": 0,
               "maloufd": 0,
-              "blackd": 0
+              "blackd": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:17Z",
-            "leader_margin_value": 23.56324,
+            "last_updated": "2020-12-04T18:37:02Z",
+            "leader_margin_value": 23.54669,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Curran +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17185",
             "name": "Wabash",
-            "votes": 5475,
+            "votes": 5489,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 16,
             "absentee_method": "None",
-            "eevp": 91,
+            "eevp": 92,
             "tot_exp_vote": 5992,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
+            "eevp_value": "92%",
+            "eevp_display": "92% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 1834,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1269,
-              "curranm": 4072,
-              "maloufd": 83,
+              "durbinr": 1276,
+              "curranm": 4078,
+              "maloufd": 84,
               "wilsonw": 29,
               "blackd": 20,
               "write-ins": 2
@@ -3990,16 +4090,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:15Z",
-            "leader_margin_value": 51.19635,
+            "last_updated": "2020-12-04T18:35:59Z",
+            "leader_margin_value": 51.04755,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Curran +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17187",
             "name": "Warren",
-            "votes": 7793,
+            "votes": 7801,
             "absentee_votes": 0,
             "reporting": 26,
             "precincts": 29,
@@ -4016,8 +4117,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 3047,
-              "curranm": 4546,
+              "durbinr": 3049,
+              "curranm": 4552,
               "maloufd": 96,
               "wilsonw": 53,
               "blackd": 47,
@@ -4031,16 +4132,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:16Z",
-            "leader_margin_value": 19.23521,
+            "last_updated": "2020-12-04T19:55:15Z",
+            "leader_margin_value": 19.26676,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Curran +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17189",
             "name": "Washington",
-            "votes": 7766,
+            "votes": 7773,
             "absentee_votes": 0,
             "reporting": 19,
             "precincts": 20,
@@ -4057,8 +4159,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1911,
-              "curranm": 5667,
+              "durbinr": 1914,
+              "curranm": 5671,
               "maloufd": 92,
               "wilsonw": 53,
               "blackd": 36,
@@ -4072,16 +4174,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:16Z",
-            "leader_margin_value": 48.36467,
+            "last_updated": "2020-12-04T18:34:48Z",
+            "leader_margin_value": 48.33398,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Curran +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17191",
             "name": "Wayne",
-            "votes": 8302,
+            "votes": 8309,
             "absentee_votes": 0,
             "reporting": 24,
             "precincts": 27,
@@ -4098,9 +4201,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 1399,
-              "curranm": 6704,
-              "maloufd": 93,
+              "durbinr": 1401,
+              "curranm": 6708,
+              "maloufd": 94,
               "wilsonw": 53,
               "blackd": 51,
               "write-ins": 2
@@ -4113,16 +4216,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:17Z",
-            "leader_margin_value": 63.90026,
+            "last_updated": "2020-12-04T18:33:58Z",
+            "leader_margin_value": 63.8705,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Curran +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17193",
             "name": "White",
-            "votes": 7271,
+            "votes": 7274,
             "absentee_votes": 0,
             "reporting": 16,
             "precincts": 18,
@@ -4140,7 +4244,7 @@
             "provisional_count_progress": null,
             "results": {
               "durbinr": 1686,
-              "curranm": 5397,
+              "curranm": 5400,
               "maloufd": 88,
               "wilsonw": 51,
               "blackd": 44,
@@ -4154,24 +4258,25 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:17Z",
-            "leader_margin_value": 51.03837,
+            "last_updated": "2020-12-04T18:33:12Z",
+            "leader_margin_value": 51.05856,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Curran +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17195",
             "name": "Whiteside",
-            "votes": 26873,
+            "votes": 26992,
             "absentee_votes": 0,
             "reporting": 57,
             "precincts": 60,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 27910,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -4180,11 +4285,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 12444,
-              "curranm": 13458,
-              "maloufd": 407,
-              "wilsonw": 305,
-              "blackd": 259,
+              "durbinr": 12502,
+              "curranm": 13502,
+              "maloufd": 414,
+              "wilsonw": 312,
+              "blackd": 262,
               "write-ins": 0
             },
             "results_absentee": {
@@ -4195,16 +4300,17 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:18Z",
-            "leader_margin_value": 3.7733,
+            "last_updated": "2020-12-04T19:57:14Z",
+            "leader_margin_value": 3.7048,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Curran +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17197",
             "name": "Will",
-            "votes": 341892,
+            "votes": 342015,
             "absentee_votes": 204083,
             "reporting": 304,
             "precincts": 304,
@@ -4221,10 +4327,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 175071,
-              "curranm": 144723,
-              "wilsonw": 14574,
-              "maloufd": 4377,
+              "durbinr": 175089,
+              "curranm": 144816,
+              "wilsonw": 14585,
+              "maloufd": 4378,
               "blackd": 2990,
               "write-ins": 157
             },
@@ -4236,16 +4342,17 @@
               "blackd": 1524,
               "write-ins": 0
             },
-            "last_updated": "2020-12-04T00:09:08Z",
-            "leader_margin_value": 8.87649,
+            "last_updated": "2020-12-04T20:04:35Z",
+            "leader_margin_value": 8.85137,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Durbin +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17199",
             "name": "Williamson",
-            "votes": 32910,
+            "votes": 33128,
             "absentee_votes": 0,
             "reporting": 60,
             "precincts": 65,
@@ -4262,11 +4369,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 11362,
-              "curranm": 20585,
-              "maloufd": 413,
-              "wilsonw": 272,
-              "blackd": 266,
+              "durbinr": 11473,
+              "curranm": 20679,
+              "maloufd": 418,
+              "wilsonw": 275,
+              "blackd": 271,
               "write-ins": 12
             },
             "results_absentee": {
@@ -4277,11 +4384,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:20Z",
-            "leader_margin_value": 28.02492,
+            "last_updated": "2020-12-04T18:31:26Z",
+            "leader_margin_value": 27.78918,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Curran +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           },
           {
             "fips": "17201",
@@ -4322,12 +4430,13 @@
             "leader_margin_value": 0.56097,
             "leader_margin_display": "D+0.56",
             "leader_margin_name_display": "Durbin +0.56",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "durbinr"
           },
           {
             "fips": "17203",
             "name": "Woodford",
-            "votes": 20740,
+            "votes": 21141,
             "absentee_votes": 0,
             "reporting": 42,
             "precincts": 45,
@@ -4344,11 +4453,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "durbinr": 6102,
-              "curranm": 13975,
-              "maloufd": 360,
-              "wilsonw": 163,
-              "blackd": 136,
+              "durbinr": 6276,
+              "curranm": 14174,
+              "maloufd": 373,
+              "wilsonw": 169,
+              "blackd": 145,
               "write-ins": 4
             },
             "results_absentee": {
@@ -4359,11 +4468,12 @@
               "blackd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:22Z",
-            "leader_margin_value": 37.96046,
-            "leader_margin_display": "R+38",
-            "leader_margin_name_display": "Curran +38",
-            "leader_party_id": "republican"
+            "last_updated": "2020-12-04T19:47:57Z",
+            "leader_margin_value": 37.35869,
+            "leader_margin_display": "R+37",
+            "leader_margin_name_display": "Curran +37",
+            "leader_party_id": "republican",
+            "leader_key": "curranm"
           }
         ],
         "edison_certified": false,
@@ -4391,21 +4501,21 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Sangamon County. We\u2019re still waiting for more votes to be counted in 82 counties.",
-            "timestamp": 1606937532112,
+            "sentence": "We just received more votes from Marion, Monroe and four other counties. We\u2019re still waiting for more votes to be counted in 82 counties.",
+            "timestamp": 1607109692254,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Sangamon County. We\u2019re still waiting for more votes to be counted in 82 counties.",
+            "generatedText": "We just received more votes from Marion, Monroe and four other counties. We\u2019re still waiting for more votes to be counted in 82 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "97% of the estimated vote total has been reported.",
-            "timestamp": 1606230308678,
+            "sentence": "98% of the estimated vote total has been reported.",
+            "timestamp": 1607107296740,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "97% of the estimated vote total has been reported.",
+            "generatedText": "98% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -7055,6 +7165,176 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-12-02T19:28:01Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5942561,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T17:41:14Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5942858,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T17:45:44Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5942860,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:03:09Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5943261,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:13:39Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5943603,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:20:04Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5945758,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:24:20Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5945864,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:30:30Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5945990,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:33:31Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5948187,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:40:21Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5955906,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:45:10Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5956249,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:49:56Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5956365,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:53:36Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5954588,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T18:58:05Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5963374,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T19:04:55Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5964369,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T19:09:20Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5967977,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T19:15:02Z"
+          },
+          {
+            "vote_shares": {
+              "durbinr": 0.549,
+              "curranm": 0.389
+            },
+            "votes": 5968618,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-04T19:19:30Z"
           }
         ]
       }
@@ -7073,8 +7353,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -7089,12 +7369,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -7107,7 +7387,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -7135,7 +7415,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -7152,7 +7432,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -7169,7 +7449,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -7201,7 +7481,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -7218,7 +7498,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -7235,7 +7515,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -7252,6 +7532,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -7354,9 +7714,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -7724,7 +8084,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -11212,7 +11572,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -15695,9 +16055,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -16012,7 +16372,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -16052,9 +16412,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -16113,7 +16473,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -16809,9 +17169,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -17994,11 +18354,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -18335,9 +18695,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -18414,7 +18774,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -18849,7 +19209,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -18890,7 +19250,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -19013,9 +19373,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -19719,9 +20079,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -19761,8 +20121,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -20050,7 +20410,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -20581,7 +20941,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -20639,7 +20999,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -20757,9 +21117,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -21948,7 +22308,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -21988,7 +22348,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -22372,7 +22732,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -22495,7 +22855,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -23879,8 +24239,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

@@ -257,6 +257,7 @@
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -29.40968,
             "votes2016": 25475,
             "margin2016": -22.2,
@@ -305,6 +306,7 @@
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -7.6825,
             "votes2016": 82053,
             "margin2016": 0.7,
@@ -353,6 +355,7 @@
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -29.98627,
             "votes2016": 41045,
             "margin2016": -18.9,
@@ -401,6 +404,7 @@
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -23.02065,
             "votes2016": 248474,
             "margin2016": -20.9,
@@ -447,6 +451,7 @@
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Biden +19",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -19.4888,
             "votes2016": 66369,
             "margin2016": -9.8,
@@ -473,11 +478,11 @@
               "de_la_fuenter": 13,
               "la_rivag": 12
             },
-            "eevp": 98,
-            "tot_exp_vote": 10929,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 10754,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:13Z",
             "results_absentee": {
               "bidenj": 0,
@@ -490,7 +495,8 @@
             "leader_margin_value": 44.85773,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Biden +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bristol",
@@ -510,11 +516,11 @@
               "carrollb": 14,
               "write-ins": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 11945,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 11597,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:50Z",
             "results_absentee": {
               "bidenj": 0,
@@ -528,7 +534,8 @@
             "leader_margin_value": 19.12564,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Biden +19",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Burrillville",
@@ -548,10 +555,10 @@
               "carrollb": 7
             },
             "eevp": 100,
-            "tot_exp_vote": 8142,
+            "tot_exp_vote": 8501,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:15Z",
             "results_absentee": {
               "bidenj": 0,
@@ -564,7 +571,8 @@
             "leader_margin_value": 17.31561,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Trump +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Central Falls",
@@ -584,11 +592,11 @@
               "carrollb": 8,
               "write-ins": 0
             },
-            "eevp": 90,
-            "tot_exp_vote": 4744,
-            "eevp_value": "90%",
-            "eevp_display": "90% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 4256,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -602,7 +610,8 @@
             "leader_margin_value": 46.05263,
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "Biden +46",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Charlestown",
@@ -622,10 +631,10 @@
               "carrollb": 4
             },
             "eevp": 100,
-            "tot_exp_vote": 4976,
+            "tot_exp_vote": 5193,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:16Z",
             "results_absentee": {
               "bidenj": 0,
@@ -638,7 +647,8 @@
             "leader_margin_value": 13.69151,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Coventry",
@@ -658,10 +668,10 @@
               "la_rivag": 22
             },
             "eevp": 100,
-            "tot_exp_vote": 19616,
+            "tot_exp_vote": 19915,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:52Z",
             "results_absentee": {
               "bidenj": 0,
@@ -674,7 +684,8 @@
             "leader_margin_value": 6.71855,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Trump +7",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Cranston",
@@ -694,11 +705,11 @@
               "carrollb": 47,
               "write-ins": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 41212,
+            "eevp": 100,
+            "tot_exp_vote": 40851,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:56Z",
             "results_absentee": {
               "bidenj": 0,
@@ -712,7 +723,8 @@
             "leader_margin_value": 14.01679,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Cumberland",
@@ -732,10 +744,10 @@
               "la_rivag": 18
             },
             "eevp": 100,
-            "tot_exp_vote": 19305,
+            "tot_exp_vote": 19576,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:37:11Z",
             "results_absentee": {
               "bidenj": 0,
@@ -748,7 +760,8 @@
             "leader_margin_value": 12.52043,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "East Greenwich",
@@ -768,10 +781,10 @@
               "la_rivag": 8
             },
             "eevp": 100,
-            "tot_exp_vote": 8612,
+            "tot_exp_vote": 8574,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -784,7 +797,8 @@
             "leader_margin_value": 23.22137,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "East Providence",
@@ -805,10 +819,10 @@
               "write-ins": 0
             },
             "eevp": 100,
-            "tot_exp_vote": 22859,
+            "tot_exp_vote": 23021,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:01Z",
             "results_absentee": {
               "bidenj": 0,
@@ -822,7 +836,8 @@
             "leader_margin_value": 29.55997,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Exeter",
@@ -842,10 +857,10 @@
               "la_rivag": 4
             },
             "eevp": 100,
-            "tot_exp_vote": 4016,
+            "tot_exp_vote": 4059,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -858,7 +873,8 @@
             "leader_margin_value": 0.86228,
             "leader_margin_display": "R+0.86",
             "leader_margin_name_display": "Trump +0.86",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Foster",
@@ -878,10 +894,10 @@
               "la_rivag": 2
             },
             "eevp": 100,
-            "tot_exp_vote": 2838,
+            "tot_exp_vote": 2856,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:21Z",
             "results_absentee": {
               "bidenj": 0,
@@ -894,7 +910,8 @@
             "leader_margin_value": 12.53501,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Glocester",
@@ -914,10 +931,10 @@
               "la_rivag": 6
             },
             "eevp": 100,
-            "tot_exp_vote": 5895,
+            "tot_exp_vote": 6075,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:22Z",
             "results_absentee": {
               "bidenj": 0,
@@ -930,7 +947,8 @@
             "leader_margin_value": 11.73663,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Trump +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Hopkinton",
@@ -950,10 +968,10 @@
               "la_rivag": 6
             },
             "eevp": 100,
-            "tot_exp_vote": 4733,
+            "tot_exp_vote": 4822,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:23Z",
             "results_absentee": {
               "bidenj": 0,
@@ -966,7 +984,8 @@
             "leader_margin_value": 2.59229,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Trump +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Jamestown",
@@ -986,10 +1005,10 @@
               "de_la_fuenter": 1
             },
             "eevp": 100,
-            "tot_exp_vote": 4022,
+            "tot_exp_vote": 4065,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1002,7 +1021,8 @@
             "leader_margin_value": 38.94219,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Johnston",
@@ -1022,11 +1042,11 @@
               "la_rivag": 15,
               "write-ins": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 15505,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 15205,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:04Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1040,7 +1060,8 @@
             "leader_margin_value": 9.10227,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Lincoln",
@@ -1059,11 +1080,11 @@
               "carrollb": 19,
               "la_rivag": 11
             },
-            "eevp": 99,
-            "tot_exp_vote": 12777,
+            "eevp": 100,
+            "tot_exp_vote": 12600,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:51Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1076,7 +1097,8 @@
             "leader_margin_value": 6.77778,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Biden +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Little Compton",
@@ -1096,10 +1118,10 @@
               "de_la_fuenter": 1
             },
             "eevp": 100,
-            "tot_exp_vote": 2448,
+            "tot_exp_vote": 2517,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1112,7 +1134,8 @@
             "leader_margin_value": 22.7652,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Middletown",
@@ -1132,10 +1155,10 @@
               "la_rivag": 9
             },
             "eevp": 100,
-            "tot_exp_vote": 8464,
+            "tot_exp_vote": 8564,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1148,7 +1171,8 @@
             "leader_margin_value": 30.87342,
             "leader_margin_display": "D+31",
             "leader_margin_name_display": "Biden +31",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Narragansett",
@@ -1167,11 +1191,11 @@
               "la_rivag": 9,
               "carrollb": 5
             },
-            "eevp": 99,
-            "tot_exp_vote": 9046,
+            "eevp": 100,
+            "tot_exp_vote": 8968,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:26Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1184,7 +1208,8 @@
             "leader_margin_value": 19.87065,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "New Shoreham",
@@ -1203,11 +1228,11 @@
               "carrollb": 0,
               "la_rivag": 0
             },
-            "eevp": 87,
-            "tot_exp_vote": 1084,
-            "eevp_value": "87%",
-            "eevp_display": "87% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 948,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:28Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1220,7 +1245,8 @@
             "leader_margin_value": 58.33333,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Biden +58",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newport",
@@ -1240,11 +1266,11 @@
               "la_rivag": 10,
               "write-ins": 0
             },
-            "eevp": 98,
-            "tot_exp_vote": 10817,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 10651,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:47Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1258,7 +1284,8 @@
             "leader_margin_value": 48.85926,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Biden +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "North Kingstown",
@@ -1278,10 +1305,10 @@
               "la_rivag": 15
             },
             "eevp": 100,
-            "tot_exp_vote": 17087,
+            "tot_exp_vote": 17453,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:29Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1294,7 +1321,8 @@
             "leader_margin_value": 22.35146,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Biden +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "North Providence",
@@ -1314,11 +1342,11 @@
               "de_la_fuenter": 19,
               "write-ins": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 17372,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 16785,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:40Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1332,7 +1360,8 @@
             "leader_margin_value": 13.75633,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "North Smithfield",
@@ -1352,10 +1381,10 @@
               "la_rivag": 9
             },
             "eevp": 100,
-            "tot_exp_vote": 7001,
+            "tot_exp_vote": 7172,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:50Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1368,7 +1397,8 @@
             "leader_margin_value": 0.59955,
             "leader_margin_display": "R+0.60",
             "leader_margin_name_display": "Trump +0.60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Pawtucket",
@@ -1388,11 +1418,11 @@
               "carrollb": 49,
               "write-ins": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 26572,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 25667,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:31Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1406,7 +1436,8 @@
             "leader_margin_value": 42.06179,
             "leader_margin_display": "D+42",
             "leader_margin_name_display": "Biden +42",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Portsmouth",
@@ -1426,10 +1457,10 @@
               "la_rivag": 13
             },
             "eevp": 100,
-            "tot_exp_vote": 10817,
+            "tot_exp_vote": 10844,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:42Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1442,7 +1473,8 @@
             "leader_margin_value": 24.47436,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Providence",
@@ -1462,11 +1494,11 @@
               "de_la_fuenter": 89,
               "write-ins": 0
             },
-            "eevp": 91,
-            "tot_exp_vote": 62316,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 56853,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:35:34Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1480,7 +1512,8 @@
             "leader_margin_value": 62.89026,
             "leader_margin_display": "D+63",
             "leader_margin_name_display": "Biden +63",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Richmond",
@@ -1500,10 +1533,10 @@
               "la_rivag": 9
             },
             "eevp": 100,
-            "tot_exp_vote": 4622,
+            "tot_exp_vote": 4787,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:33Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1516,7 +1549,8 @@
             "leader_margin_value": 0.06267,
             "leader_margin_display": "D+0.06",
             "leader_margin_name_display": "Biden +0.06",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Scituate",
@@ -1535,11 +1569,11 @@
               "carrollb": 12,
               "la_rivag": 8
             },
-            "eevp": 99,
-            "tot_exp_vote": 6726,
+            "eevp": 100,
+            "tot_exp_vote": 6645,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:33Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1552,7 +1586,8 @@
             "leader_margin_value": 16.11738,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Trump +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Smithfield",
@@ -1571,11 +1606,11 @@
               "la_rivag": 13,
               "carrollb": 11
             },
-            "eevp": 99,
-            "tot_exp_vote": 11623,
+            "eevp": 100,
+            "tot_exp_vote": 11472,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1588,7 +1623,8 @@
             "leader_margin_value": 1.5516,
             "leader_margin_display": "R+1.6",
             "leader_margin_name_display": "Trump +1.6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "South Kingstown",
@@ -1608,10 +1644,10 @@
               "la_rivag": 30
             },
             "eevp": 100,
-            "tot_exp_vote": 16371,
+            "tot_exp_vote": 16567,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:34Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1624,7 +1660,8 @@
             "leader_margin_value": 37.73164,
             "leader_margin_display": "D+38",
             "leader_margin_name_display": "Biden +38",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Tiverton",
@@ -1643,11 +1680,11 @@
               "la_rivag": 10,
               "carrollb": 9
             },
-            "eevp": 98,
-            "tot_exp_vote": 9434,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 9260,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:38Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1660,7 +1697,8 @@
             "leader_margin_value": 11.94384,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Biden +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Warren",
@@ -1680,10 +1718,10 @@
               "la_rivag": 7
             },
             "eevp": 100,
-            "tot_exp_vote": 5658,
+            "tot_exp_vote": 5888,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:36Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1696,7 +1734,8 @@
             "leader_margin_value": 21.45041,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Biden +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Warwick",
@@ -1716,11 +1755,11 @@
               "la_rivag": 53,
               "write-ins": 0
             },
-            "eevp": 99,
-            "tot_exp_vote": 46413,
+            "eevp": 100,
+            "tot_exp_vote": 46170,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:25Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1734,7 +1773,8 @@
             "leader_margin_value": 13.57375,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "West Greenwich",
@@ -1754,10 +1794,10 @@
               "la_rivag": 2
             },
             "eevp": 100,
-            "tot_exp_vote": 3779,
+            "tot_exp_vote": 3987,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:23:38Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1770,7 +1810,8 @@
             "leader_margin_value": 13.76975,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Trump +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "West Warwick",
@@ -1790,10 +1831,10 @@
               "la_rivag": 15
             },
             "eevp": 100,
-            "tot_exp_vote": 13480,
+            "tot_exp_vote": 13928,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T13:21:45Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1806,7 +1847,8 @@
             "leader_margin_value": 5.32022,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Westerly",
@@ -1826,10 +1868,10 @@
               "la_rivag": 13
             },
             "eevp": 100,
-            "tot_exp_vote": 12484,
+            "tot_exp_vote": 12790,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
-            "turnout_stage": 2,
+            "turnout_stage": 10,
             "last_updated": "2020-11-24T19:40:48Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1842,7 +1884,8 @@
             "leader_margin_value": 13.21345,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Woonsocket",
@@ -1862,11 +1905,11 @@
               "carrollb": 22,
               "write-ins": 0
             },
-            "eevp": 97,
-            "tot_exp_vote": 14214,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
-            "turnout_stage": 2,
+            "eevp": 100,
+            "tot_exp_vote": 13791,
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
+            "turnout_stage": 10,
             "last_updated": "2020-11-25T04:36:13Z",
             "results_absentee": {
               "bidenj": 0,
@@ -1880,7 +1923,8 @@
             "leader_margin_value": 7.42513,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Biden +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           }
         ],
         "votes2016": 464144,
@@ -2395,8 +2439,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -2411,12 +2455,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -2429,7 +2473,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -2457,7 +2501,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -2474,7 +2518,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -2491,7 +2535,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -2523,7 +2567,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -2540,7 +2584,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -2557,7 +2601,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -2574,6 +2618,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -2676,9 +2800,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -3046,7 +3170,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -6534,7 +6658,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -11017,9 +11141,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -11334,7 +11458,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -11374,9 +11498,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -11435,7 +11559,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -12131,9 +12255,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -13316,11 +13440,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -13657,9 +13781,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -13736,7 +13860,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -14171,7 +14295,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -14212,7 +14336,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -14335,9 +14459,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -15041,9 +15165,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -15083,8 +15207,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -15372,7 +15496,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -15903,7 +16027,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -15961,7 +16085,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -16079,9 +16203,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -17270,7 +17394,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -17310,7 +17434,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -17694,7 +17818,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -17817,7 +17941,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -19201,8 +19325,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

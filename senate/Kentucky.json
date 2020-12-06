@@ -185,7 +185,8 @@
             "leader_margin_value": 58.8033,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "McConnell +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21003",
@@ -222,7 +223,8 @@
             "leader_margin_value": 54.08021,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "McConnell +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21005",
@@ -259,7 +261,8 @@
             "leader_margin_value": 40.48357,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "McConnell +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21007",
@@ -296,7 +299,8 @@
             "leader_margin_value": 52.49586,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "McConnell +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21009",
@@ -333,7 +337,8 @@
             "leader_margin_value": 38.66247,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21011",
@@ -368,7 +373,8 @@
             "leader_margin_value": 30.48128,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "McConnell +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21013",
@@ -403,7 +409,8 @@
             "leader_margin_value": 52.14638,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "McConnell +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21015",
@@ -440,7 +447,8 @@
             "leader_margin_value": 28.79311,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "McConnell +29",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21017",
@@ -475,7 +483,8 @@
             "leader_margin_value": 24.15008,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "McConnell +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21019",
@@ -510,7 +519,8 @@
             "leader_margin_value": 22.95564,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "McConnell +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21021",
@@ -545,7 +555,8 @@
             "leader_margin_value": 20.55164,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "McConnell +21",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21023",
@@ -580,7 +591,8 @@
             "leader_margin_value": 48.5586,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21025",
@@ -617,7 +629,8 @@
             "leader_margin_value": 37.16373,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "McConnell +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21027",
@@ -654,7 +667,8 @@
             "leader_margin_value": 40.91578,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "McConnell +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21029",
@@ -691,7 +705,8 @@
             "leader_margin_value": 38.54639,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21031",
@@ -728,7 +743,8 @@
             "leader_margin_value": 52.78458,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "McConnell +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21033",
@@ -763,7 +779,8 @@
             "leader_margin_value": 43.22179,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "McConnell +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21035",
@@ -800,7 +817,8 @@
             "leader_margin_value": 25.48773,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "McConnell +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21037",
@@ -837,7 +855,8 @@
             "leader_margin_value": 11.71597,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "McConnell +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21039",
@@ -872,7 +891,8 @@
             "leader_margin_value": 55.56397,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "McConnell +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21041",
@@ -909,7 +929,8 @@
             "leader_margin_value": 30.64399,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "McConnell +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21043",
@@ -944,7 +965,8 @@
             "leader_margin_value": 38.72532,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21045",
@@ -981,7 +1003,8 @@
             "leader_margin_value": 66.38702,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "McConnell +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21047",
@@ -1018,7 +1041,8 @@
             "leader_margin_value": 18.46574,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "McConnell +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21049",
@@ -1055,7 +1079,8 @@
             "leader_margin_value": 26.52251,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "McConnell +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21051",
@@ -1090,7 +1115,8 @@
             "leader_margin_value": 69.05391,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "McConnell +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21053",
@@ -1127,7 +1153,8 @@
             "leader_margin_value": 66.09547,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "McConnell +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21055",
@@ -1162,7 +1189,8 @@
             "leader_margin_value": 54.15486,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "McConnell +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21057",
@@ -1197,7 +1225,8 @@
             "leader_margin_value": 56.02685,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "McConnell +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21059",
@@ -1234,7 +1263,8 @@
             "leader_margin_value": 19.68796,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "McConnell +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21061",
@@ -1269,7 +1299,8 @@
             "leader_margin_value": 49.40389,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21063",
@@ -1304,7 +1335,8 @@
             "leader_margin_value": 36.74983,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "McConnell +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21065",
@@ -1339,7 +1371,8 @@
             "leader_margin_value": 49.99235,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "McConnell +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21067",
@@ -1376,7 +1409,8 @@
             "leader_margin_value": 20.37542,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "McGrath +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "mcgratha"
           },
           {
             "fips": "21069",
@@ -1411,7 +1445,8 @@
             "leader_margin_value": 46.85325,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "McConnell +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21071",
@@ -1446,7 +1481,8 @@
             "leader_margin_value": 35.69762,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "McConnell +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21073",
@@ -1483,7 +1519,8 @@
             "leader_margin_value": 4.21581,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "McGrath +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "mcgratha"
           },
           {
             "fips": "21075",
@@ -1520,7 +1557,8 @@
             "leader_margin_value": 28.19767,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "McConnell +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21077",
@@ -1555,7 +1593,8 @@
             "leader_margin_value": 43.67846,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "McConnell +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21079",
@@ -1590,7 +1629,8 @@
             "leader_margin_value": 50.75348,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "McConnell +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21081",
@@ -1625,7 +1665,8 @@
             "leader_margin_value": 48.84497,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21083",
@@ -1660,7 +1701,8 @@
             "leader_margin_value": 49.49888,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21085",
@@ -1695,7 +1737,8 @@
             "leader_margin_value": 49.64053,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "McConnell +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21087",
@@ -1732,7 +1775,8 @@
             "leader_margin_value": 56.04209,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "McConnell +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21089",
@@ -1767,7 +1811,8 @@
             "leader_margin_value": 32.80216,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "McConnell +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21091",
@@ -1802,7 +1847,8 @@
             "leader_margin_value": 25.0983,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "McConnell +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21093",
@@ -1837,7 +1883,8 @@
             "leader_margin_value": 16.80729,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "McConnell +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21095",
@@ -1872,7 +1919,8 @@
             "leader_margin_value": 61.75609,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "McConnell +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21097",
@@ -1907,7 +1955,8 @@
             "leader_margin_value": 37.83356,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "McConnell +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21099",
@@ -1942,7 +1991,8 @@
             "leader_margin_value": 44.10637,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "McConnell +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21101",
@@ -1977,7 +2027,8 @@
             "leader_margin_value": 15.73273,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "McConnell +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21103",
@@ -2012,7 +2063,8 @@
             "leader_margin_value": 34.9481,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "McConnell +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21105",
@@ -2047,7 +2099,8 @@
             "leader_margin_value": 50.09124,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "McConnell +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21107",
@@ -2082,7 +2135,8 @@
             "leader_margin_value": 38.10788,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "McConnell +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21109",
@@ -2119,7 +2173,8 @@
             "leader_margin_value": 73.44929,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "McConnell +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21111",
@@ -2154,7 +2209,8 @@
             "leader_margin_value": 22.00584,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "McGrath +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "mcgratha"
           },
           {
             "fips": "21113",
@@ -2189,7 +2245,8 @@
             "leader_margin_value": 28.97136,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "McConnell +29",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21115",
@@ -2226,7 +2283,8 @@
             "leader_margin_value": 59.36024,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "McConnell +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21117",
@@ -2263,7 +2321,8 @@
             "leader_margin_value": 12.45848,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "McConnell +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21119",
@@ -2298,7 +2357,8 @@
             "leader_margin_value": 43,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "McConnell +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21121",
@@ -2333,7 +2393,8 @@
             "leader_margin_value": 59.50151,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "McConnell +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21123",
@@ -2368,7 +2429,8 @@
             "leader_margin_value": 46.49568,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "McConnell +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21125",
@@ -2403,7 +2465,8 @@
             "leader_margin_value": 60.97171,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "McConnell +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21127",
@@ -2438,7 +2501,8 @@
             "leader_margin_value": 51.56024,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "McConnell +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21129",
@@ -2473,7 +2537,8 @@
             "leader_margin_value": 55.92824,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "McConnell +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21131",
@@ -2508,7 +2573,8 @@
             "leader_margin_value": 73.01753,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "McConnell +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21133",
@@ -2543,7 +2609,8 @@
             "leader_margin_value": 46.22673,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "McConnell +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21135",
@@ -2578,7 +2645,8 @@
             "leader_margin_value": 59.91122,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "McConnell +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21137",
@@ -2613,7 +2681,8 @@
             "leader_margin_value": 48.64592,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21139",
@@ -2648,7 +2717,8 @@
             "leader_margin_value": 51.85111,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "McConnell +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21141",
@@ -2683,7 +2753,8 @@
             "leader_margin_value": 37.95342,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "McConnell +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21143",
@@ -2718,7 +2789,8 @@
             "leader_margin_value": 39.7257,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "McConnell +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21151",
@@ -2753,7 +2825,8 @@
             "leader_margin_value": 22.26059,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "McConnell +22",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21153",
@@ -2788,7 +2861,8 @@
             "leader_margin_value": 45.42941,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "McConnell +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21155",
@@ -2823,7 +2897,8 @@
             "leader_margin_value": 23.95412,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "McConnell +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21157",
@@ -2858,7 +2933,8 @@
             "leader_margin_value": 44.5959,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "McConnell +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21159",
@@ -2893,7 +2969,8 @@
             "leader_margin_value": 72.63694,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "McConnell +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21161",
@@ -2930,7 +3007,8 @@
             "leader_margin_value": 30.24341,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "McConnell +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21145",
@@ -2965,7 +3043,8 @@
             "leader_margin_value": 27.59484,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "McConnell +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21147",
@@ -3000,7 +3079,8 @@
             "leader_margin_value": 67.13615,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "McConnell +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21149",
@@ -3035,7 +3115,8 @@
             "leader_margin_value": 41.25654,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "McConnell +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21163",
@@ -3070,7 +3151,8 @@
             "leader_margin_value": 34.4401,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "McConnell +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21165",
@@ -3105,7 +3187,8 @@
             "leader_margin_value": 38.6541,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21167",
@@ -3140,7 +3223,8 @@
             "leader_margin_value": 40.23411,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "McConnell +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21169",
@@ -3175,7 +3259,8 @@
             "leader_margin_value": 48.48058,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "McConnell +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21171",
@@ -3210,7 +3295,8 @@
             "leader_margin_value": 67.44407,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "McConnell +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21173",
@@ -3245,7 +3331,8 @@
             "leader_margin_value": 34.03558,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "McConnell +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21175",
@@ -3280,7 +3367,8 @@
             "leader_margin_value": 46.03117,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "McConnell +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21177",
@@ -3315,7 +3403,8 @@
             "leader_margin_value": 35.64769,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "McConnell +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21179",
@@ -3350,7 +3439,8 @@
             "leader_margin_value": 27.04706,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "McConnell +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21181",
@@ -3387,7 +3477,8 @@
             "leader_margin_value": 31.37544,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "McConnell +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21183",
@@ -3422,7 +3513,8 @@
             "leader_margin_value": 43.81657,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "McConnell +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21185",
@@ -3457,7 +3549,8 @@
             "leader_margin_value": 19.20349,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "McConnell +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21187",
@@ -3492,7 +3585,8 @@
             "leader_margin_value": 50,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "McConnell +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21189",
@@ -3527,7 +3621,8 @@
             "leader_margin_value": 65.88486,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "McConnell +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21191",
@@ -3562,7 +3657,8 @@
             "leader_margin_value": 49.51541,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "McConnell +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21193",
@@ -3597,7 +3693,8 @@
             "leader_margin_value": 43.67227,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "McConnell +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21195",
@@ -3632,7 +3729,8 @@
             "leader_margin_value": 48.89144,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "McConnell +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21197",
@@ -3667,7 +3765,8 @@
             "leader_margin_value": 37.33843,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "McConnell +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21199",
@@ -3702,7 +3801,8 @@
             "leader_margin_value": 56.42433,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "McConnell +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21201",
@@ -3737,7 +3837,8 @@
             "leader_margin_value": 44.60053,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "McConnell +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21203",
@@ -3772,7 +3873,8 @@
             "leader_margin_value": 64.07479,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "McConnell +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21205",
@@ -3807,7 +3909,8 @@
             "leader_margin_value": 12.22864,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "McConnell +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21207",
@@ -3842,7 +3945,8 @@
             "leader_margin_value": 60.15029,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "McConnell +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21209",
@@ -3877,7 +3981,8 @@
             "leader_margin_value": 17.80302,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "McConnell +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21211",
@@ -3912,7 +4017,8 @@
             "leader_margin_value": 24.49663,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "McConnell +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21213",
@@ -3947,7 +4053,8 @@
             "leader_margin_value": 26.73871,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "McConnell +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21215",
@@ -3982,7 +4089,8 @@
             "leader_margin_value": 45.57728,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "McConnell +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21217",
@@ -4017,7 +4125,8 @@
             "leader_margin_value": 42.89373,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "McConnell +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21219",
@@ -4052,7 +4161,8 @@
             "leader_margin_value": 39.47862,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21221",
@@ -4087,7 +4197,8 @@
             "leader_margin_value": 40.25516,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "McConnell +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21223",
@@ -4122,7 +4233,8 @@
             "leader_margin_value": 39.65597,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "McConnell +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21225",
@@ -4157,7 +4269,8 @@
             "leader_margin_value": 38.88295,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "McConnell +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21227",
@@ -4192,7 +4305,8 @@
             "leader_margin_value": 11.49738,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "McConnell +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21229",
@@ -4227,7 +4341,8 @@
             "leader_margin_value": 37.7523,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "McConnell +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21231",
@@ -4262,7 +4377,8 @@
             "leader_margin_value": 51.48634,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "McConnell +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21233",
@@ -4297,7 +4413,8 @@
             "leader_margin_value": 40.64592,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "McConnell +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21235",
@@ -4332,7 +4449,8 @@
             "leader_margin_value": 57.17741,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "McConnell +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21237",
@@ -4369,7 +4487,8 @@
             "leader_margin_value": 32.46231,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "McConnell +32",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           },
           {
             "fips": "21239",
@@ -4404,10 +4523,11 @@
             "leader_margin_value": 9.88262,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "McConnell +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "mcconnellm"
           }
         ],
-        "edison_certified": true,
+        "edison_certified": false,
         "expectations_text": "",
         "expectations_text_short": "",
         "absentee_ballot_deadline": 3,
@@ -7204,8 +7324,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -7220,12 +7340,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -7238,7 +7358,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -7266,7 +7386,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -7283,7 +7403,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -7300,7 +7420,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -7332,7 +7452,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -7349,7 +7469,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -7366,7 +7486,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -7383,6 +7503,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -7485,9 +7685,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -7855,7 +8055,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -11343,7 +11543,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -15826,9 +16026,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -16143,7 +16343,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -16183,9 +16383,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -16244,7 +16444,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -16940,9 +17140,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -18125,11 +18325,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -18466,9 +18666,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -18545,7 +18745,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -18980,7 +19180,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -19021,7 +19221,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -19144,9 +19344,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -19850,9 +20050,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -19892,8 +20092,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -20181,7 +20381,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -20712,7 +20912,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -20770,7 +20970,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -20888,9 +21088,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -22079,7 +22279,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -22119,7 +22319,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -22503,7 +22703,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -22626,7 +22826,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -24010,8 +24210,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

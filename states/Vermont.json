@@ -602,6 +602,7 @@
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -39.39243,
             "votes2016": 19031,
             "margin2016": -31.1,
@@ -680,6 +681,7 @@
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -27.32382,
             "votes2016": 17381,
             "margin2016": -20.8,
@@ -758,6 +760,7 @@
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -15.2143,
             "votes2016": 14074,
             "margin2016": -6.5,
@@ -836,6 +839,7 @@
             "leader_margin_display": "D+55",
             "leader_margin_name_display": "Biden +55",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -54.53571,
             "votes2016": 83416,
             "margin2016": -43.4,
@@ -914,6 +918,7 @@
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Trump +11",
             "leader_party_id": "republican",
+            "leader_key": "trumpd",
             "margin2020": 11.19221,
             "votes2016": 2925,
             "margin2016": 16.6,
@@ -992,6 +997,7 @@
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -9.04762,
             "votes2016": 21411,
             "margin2016": -2.8,
@@ -1070,6 +1076,7 @@
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -22.57267,
             "votes2016": 4109,
             "margin2016": -14.8,
@@ -1148,6 +1155,7 @@
             "leader_margin_display": "D+41",
             "leader_margin_name_display": "Biden +41",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -40.74422,
             "votes2016": 12762,
             "margin2016": -28.8,
@@ -1226,6 +1234,7 @@
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -24.04509,
             "votes2016": 14649,
             "margin2016": -17.3,
@@ -1304,6 +1313,7 @@
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -4.50482,
             "votes2016": 12046,
             "margin2016": -0.2,
@@ -1382,6 +1392,7 @@
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Biden +10",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -10.47395,
             "votes2016": 29615,
             "margin2016": -3.9,
@@ -1460,6 +1471,7 @@
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "Biden +46",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -46.06169,
             "votes2016": 31086,
             "margin2016": -34.1,
@@ -1538,6 +1550,7 @@
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -47.3478,
             "votes2016": 22634,
             "margin2016": -39.3,
@@ -1616,6 +1629,7 @@
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
             "leader_party_id": "democrat",
+            "leader_key": "bidenj",
             "margin2020": -38.91598,
             "votes2016": 29928,
             "margin2016": -29.9,
@@ -1691,7 +1705,8 @@
             "leader_margin_value": 7.58621,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Albany",
@@ -1759,7 +1774,8 @@
             "leader_margin_value": 9.44444,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Alburgh",
@@ -1827,7 +1843,8 @@
             "leader_margin_value": 4.7266,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Andover",
@@ -1895,7 +1912,8 @@
             "leader_margin_value": 23.0137,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Arlington",
@@ -1963,7 +1981,8 @@
             "leader_margin_value": 28.14815,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Biden +28",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Athens",
@@ -2031,7 +2050,8 @@
             "leader_margin_value": 16.82243,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Biden +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bakersfield",
@@ -2099,7 +2119,8 @@
             "leader_margin_value": 17.67241,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Biden +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Baltimore",
@@ -2167,7 +2188,8 @@
             "leader_margin_value": 6.29371,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Trump +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Barnard",
@@ -2235,7 +2257,8 @@
             "leader_margin_value": 43.04933,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Biden +43",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Barnet",
@@ -2303,7 +2326,8 @@
             "leader_margin_value": 17.07763,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Biden +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Barre",
@@ -2371,7 +2395,8 @@
             "leader_margin_value": 28.42133,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Biden +28",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Barre Town",
@@ -2439,7 +2464,8 @@
             "leader_margin_value": 8.79144,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Barton",
@@ -2507,7 +2533,8 @@
             "leader_margin_value": 9.02778,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Belvidere",
@@ -2575,7 +2602,8 @@
             "leader_margin_value": 7.95455,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Trump +8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Bennington",
@@ -2643,7 +2671,8 @@
             "leader_margin_value": 26.71928,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Benson",
@@ -2711,7 +2740,8 @@
             "leader_margin_value": 8.06175,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Trump +8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Berkshire",
@@ -2779,7 +2809,8 @@
             "leader_margin_value": 16.59634,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Trump +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Berlin",
@@ -2847,7 +2878,8 @@
             "leader_margin_value": 28.68318,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bethel",
@@ -2915,7 +2947,8 @@
             "leader_margin_value": 30.25283,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bloomfield",
@@ -2983,7 +3016,8 @@
             "leader_margin_value": 13.84615,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Trump +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Bolton",
@@ -3051,7 +3085,8 @@
             "leader_margin_value": 41.00257,
             "leader_margin_display": "D+41",
             "leader_margin_name_display": "Biden +41",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bradford",
@@ -3119,7 +3154,8 @@
             "leader_margin_value": 23.02544,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Braintree",
@@ -3187,7 +3223,8 @@
             "leader_margin_value": 24.26778,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brandon",
@@ -3255,7 +3292,8 @@
             "leader_margin_value": 14.51465,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brattleboro",
@@ -3323,7 +3361,8 @@
             "leader_margin_value": 65.58607,
             "leader_margin_display": "D+66",
             "leader_margin_name_display": "Biden +66",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bridgewater",
@@ -3391,7 +3430,8 @@
             "leader_margin_value": 26.6223,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Bridport",
@@ -3459,7 +3499,8 @@
             "leader_margin_value": 9.6206,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Biden +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brighton",
@@ -3527,7 +3568,8 @@
             "leader_margin_value": 13.57027,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Trump +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Bristol",
@@ -3595,7 +3637,8 @@
             "leader_margin_value": 35.23385,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Biden +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brookfield",
@@ -3663,7 +3706,8 @@
             "leader_margin_value": 23.35681,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brookline",
@@ -3731,7 +3775,8 @@
             "leader_margin_value": 36.77812,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Biden +37",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Brownington",
@@ -3799,7 +3844,8 @@
             "leader_margin_value": 9.59184,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Trump +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Brunswick",
@@ -3867,7 +3913,8 @@
             "leader_margin_value": 12.5,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Burke",
@@ -3935,7 +3982,8 @@
             "leader_margin_value": 18.18182,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Biden +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Burlington",
@@ -4003,7 +4051,8 @@
             "leader_margin_value": 76.26699,
             "leader_margin_display": "D+76",
             "leader_margin_name_display": "Biden +76",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Cabot",
@@ -4071,7 +4120,8 @@
             "leader_margin_value": 29.3722,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Calais",
@@ -4139,7 +4189,8 @@
             "leader_margin_value": 57.92683,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Biden +58",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Cambridge",
@@ -4207,7 +4258,8 @@
             "leader_margin_value": 42.47385,
             "leader_margin_display": "D+42",
             "leader_margin_name_display": "Biden +42",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Canaan",
@@ -4275,7 +4327,8 @@
             "leader_margin_value": 0.40161,
             "leader_margin_display": "R+0.40",
             "leader_margin_name_display": "Trump +0.40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Castleton",
@@ -4343,7 +4396,8 @@
             "leader_margin_value": 0.64785,
             "leader_margin_display": "D+0.65",
             "leader_margin_name_display": "Biden +0.65",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Cavendish",
@@ -4411,7 +4465,8 @@
             "leader_margin_value": 21.33838,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Biden +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Charleston",
@@ -4479,7 +4534,8 @@
             "leader_margin_value": 4.99076,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Trump +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Charlotte",
@@ -4547,7 +4603,8 @@
             "leader_margin_value": 61.46916,
             "leader_margin_display": "D+61",
             "leader_margin_name_display": "Biden +61",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Chelsea",
@@ -4615,7 +4672,8 @@
             "leader_margin_value": 16.59751,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Biden +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Chester",
@@ -4683,7 +4741,8 @@
             "leader_margin_value": 26.5237,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Chittenden",
@@ -4751,7 +4810,8 @@
             "leader_margin_value": 15.24033,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Clarendon",
@@ -4819,7 +4879,8 @@
             "leader_margin_value": 8.57726,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Colchester",
@@ -4887,7 +4948,8 @@
             "leader_margin_value": 37.51303,
             "leader_margin_display": "D+38",
             "leader_margin_name_display": "Biden +38",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Concord",
@@ -4955,7 +5017,8 @@
             "leader_margin_value": 12.85714,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Corinth",
@@ -5023,7 +5086,8 @@
             "leader_margin_value": 13.13253,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Cornwall",
@@ -5091,7 +5155,8 @@
             "leader_margin_value": 60.94118,
             "leader_margin_display": "D+61",
             "leader_margin_name_display": "Biden +61",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Coventry",
@@ -5159,7 +5224,8 @@
             "leader_margin_value": 8.62676,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Craftsbury",
@@ -5227,7 +5293,8 @@
             "leader_margin_value": 47.54522,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Biden +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Danby",
@@ -5295,7 +5362,8 @@
             "leader_margin_value": 10.59603,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Trump +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Danville",
@@ -5363,7 +5431,8 @@
             "leader_margin_value": 20.14976,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Derby",
@@ -5431,7 +5500,8 @@
             "leader_margin_value": 4.49304,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Trump +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Dorset",
@@ -5499,7 +5569,8 @@
             "leader_margin_value": 43.87827,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Biden +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Dover",
@@ -5567,7 +5638,8 @@
             "leader_margin_value": 33.43882,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Biden +33",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Dummerston",
@@ -5635,7 +5707,8 @@
             "leader_margin_value": 55.56374,
             "leader_margin_display": "D+56",
             "leader_margin_name_display": "Biden +56",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Duxbury",
@@ -5703,7 +5776,8 @@
             "leader_margin_value": 44.31072,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Biden +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "East Haven",
@@ -5771,7 +5845,8 @@
             "leader_margin_value": 2.85714,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Biden +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "East Montpelier",
@@ -5839,7 +5914,8 @@
             "leader_margin_value": 52.38095,
             "leader_margin_display": "D+52",
             "leader_margin_name_display": "Biden +52",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Eden",
@@ -5907,7 +5983,8 @@
             "leader_margin_value": 1.57729,
             "leader_margin_display": "R+1.6",
             "leader_margin_name_display": "Trump +1.6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Elmore",
@@ -5975,7 +6052,8 @@
             "leader_margin_value": 49.17492,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Biden +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Enosburgh",
@@ -6043,7 +6121,8 @@
             "leader_margin_value": 3.92465,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Essex",
@@ -6111,7 +6190,8 @@
             "leader_margin_value": 45.90726,
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "Biden +46",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Fair Haven",
@@ -6179,7 +6259,8 @@
             "leader_margin_value": 1.75841,
             "leader_margin_display": "R+1.8",
             "leader_margin_name_display": "Trump +1.8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Fairfax",
@@ -6247,7 +6328,8 @@
             "leader_margin_value": 13.98531,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Fairfield",
@@ -6315,7 +6397,8 @@
             "leader_margin_value": 13.24561,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Fairlee",
@@ -6383,7 +6466,8 @@
             "leader_margin_value": 45.41063,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Biden +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Fayston",
@@ -6451,7 +6535,8 @@
             "leader_margin_value": 66.52935,
             "leader_margin_display": "D+67",
             "leader_margin_name_display": "Biden +67",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Ferrisburg",
@@ -6519,7 +6604,8 @@
             "leader_margin_value": 35.02732,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Biden +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Fletcher",
@@ -6587,7 +6673,8 @@
             "leader_margin_value": 24.63592,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Biden +25",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Franklin",
@@ -6655,7 +6742,8 @@
             "leader_margin_value": 11.80371,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Trump +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Georgia",
@@ -6723,7 +6811,8 @@
             "leader_margin_value": 7.61056,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Glover",
@@ -6791,7 +6880,8 @@
             "leader_margin_value": 24.32432,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Goshen",
@@ -6859,7 +6949,8 @@
             "leader_margin_value": 44.44444,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Biden +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Grafton",
@@ -6927,7 +7018,8 @@
             "leader_margin_value": 33.08642,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Biden +33",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Granby",
@@ -6995,7 +7087,8 @@
             "leader_margin_value": 6.97674,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Trump +7",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Grand Isle",
@@ -7063,7 +7156,8 @@
             "leader_margin_value": 20.79489,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Biden +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Granville",
@@ -7131,7 +7225,8 @@
             "leader_margin_value": 62.72189,
             "leader_margin_display": "D+63",
             "leader_margin_name_display": "Biden +63",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Greensboro",
@@ -7199,7 +7294,8 @@
             "leader_margin_value": 52.74949,
             "leader_margin_display": "D+53",
             "leader_margin_name_display": "Biden +53",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Groton",
@@ -7267,7 +7363,8 @@
             "leader_margin_value": 4.37158,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Trump +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Guildhall",
@@ -7335,7 +7432,8 @@
             "leader_margin_value": 6.32184,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Trump +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Guilford",
@@ -7403,7 +7501,8 @@
             "leader_margin_value": 46.5288,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Halifax",
@@ -7471,7 +7570,8 @@
             "leader_margin_value": 16.26016,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Biden +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Hancock",
@@ -7539,7 +7639,8 @@
             "leader_margin_value": 26.31579,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Hardwick",
@@ -7607,7 +7708,8 @@
             "leader_margin_value": 22.57451,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Hartford",
@@ -7675,7 +7777,8 @@
             "leader_margin_value": 46.96679,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Hartland",
@@ -7743,7 +7846,8 @@
             "leader_margin_value": 40.0364,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Highgate",
@@ -7811,7 +7915,8 @@
             "leader_margin_value": 16.16454,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Trump +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Hinesburg",
@@ -7879,7 +7984,8 @@
             "leader_margin_value": 48.80026,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Biden +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Holland",
@@ -7947,7 +8053,8 @@
             "leader_margin_value": 19.8324,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Trump +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Hubbardton",
@@ -8015,7 +8122,8 @@
             "leader_margin_value": 7.02576,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Biden +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Huntington",
@@ -8083,7 +8191,8 @@
             "leader_margin_value": 52.31317,
             "leader_margin_display": "D+52",
             "leader_margin_name_display": "Biden +52",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Hyde Park",
@@ -8151,7 +8260,8 @@
             "leader_margin_value": 33.04448,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Biden +33",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Ira",
@@ -8219,7 +8329,8 @@
             "leader_margin_value": 0,
             "leader_margin_display": "Tied",
             "leader_margin_name_display": "Tied",
-            "leader_party_id": ""
+            "leader_party_id": "",
+            "leader_key": ""
           },
           {
             "name": "Irasburg",
@@ -8287,7 +8398,8 @@
             "leader_margin_value": 21.99108,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Trump +22",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Isle La Motte",
@@ -8355,7 +8467,8 @@
             "leader_margin_value": 12.60745,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Jamaica",
@@ -8423,7 +8536,8 @@
             "leader_margin_value": 44.23408,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Biden +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Jay",
@@ -8491,7 +8605,8 @@
             "leader_margin_value": 1.70068,
             "leader_margin_display": "D+1.7",
             "leader_margin_name_display": "Biden +1.7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Jericho",
@@ -8559,7 +8674,8 @@
             "leader_margin_value": 47.84271,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Biden +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Johnson",
@@ -8627,7 +8743,8 @@
             "leader_margin_value": 29.32662,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Killington",
@@ -8695,7 +8812,8 @@
             "leader_margin_value": 36.48325,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Biden +36",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Kirby",
@@ -8763,7 +8881,8 @@
             "leader_margin_value": 18.54103,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Biden +19",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Landgrove",
@@ -8831,7 +8950,8 @@
             "leader_margin_value": 71.64179,
             "leader_margin_display": "D+72",
             "leader_margin_name_display": "Biden +72",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Leicester",
@@ -8899,7 +9019,8 @@
             "leader_margin_value": 12.17712,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Biden +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Lemington",
@@ -8967,7 +9088,8 @@
             "leader_margin_value": 4.08163,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Lincoln",
@@ -9035,7 +9157,8 @@
             "leader_margin_value": 53.38895,
             "leader_margin_display": "D+53",
             "leader_margin_name_display": "Biden +53",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Londonderry",
@@ -9103,7 +9226,8 @@
             "leader_margin_value": 35.50984,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Biden +36",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Lowell",
@@ -9171,7 +9295,8 @@
             "leader_margin_value": 14.78439,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Trump +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Ludlow",
@@ -9239,7 +9364,8 @@
             "leader_margin_value": 19.80598,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Lunenburg",
@@ -9307,7 +9433,8 @@
             "leader_margin_value": 19.43128,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Trump +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Lyndon",
@@ -9375,7 +9502,8 @@
             "leader_margin_value": 2.90984,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Biden +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Maidstone",
@@ -9443,7 +9571,8 @@
             "leader_margin_value": 4.82759,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Trump +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Manchester",
@@ -9511,7 +9640,8 @@
             "leader_margin_value": 44.99102,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Biden +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Marlboro",
@@ -9579,7 +9709,8 @@
             "leader_margin_value": 67.18266,
             "leader_margin_display": "D+67",
             "leader_margin_name_display": "Biden +67",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Marshfield",
@@ -9647,7 +9778,8 @@
             "leader_margin_value": 25.93361,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Mendon",
@@ -9715,7 +9847,8 @@
             "leader_margin_value": 16.79487,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Biden +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Middlebury",
@@ -9783,7 +9916,8 @@
             "leader_margin_value": 63.42646,
             "leader_margin_display": "D+63",
             "leader_margin_name_display": "Biden +63",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Middlesex",
@@ -9851,7 +9985,8 @@
             "leader_margin_value": 60.01609,
             "leader_margin_display": "D+60",
             "leader_margin_name_display": "Biden +60",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Middletown Springs",
@@ -9919,7 +10054,8 @@
             "leader_margin_value": 15.1184,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Milton",
@@ -9987,7 +10123,8 @@
             "leader_margin_value": 11.8677,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Biden +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Monkton",
@@ -10055,7 +10192,8 @@
             "leader_margin_value": 40.27085,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Montgomery",
@@ -10123,7 +10261,8 @@
             "leader_margin_value": 22.61905,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Montpelier",
@@ -10191,7 +10330,8 @@
             "leader_margin_value": 79.22854,
             "leader_margin_display": "D+79",
             "leader_margin_name_display": "Biden +79",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Moretown",
@@ -10259,7 +10399,8 @@
             "leader_margin_value": 59.32489,
             "leader_margin_display": "D+59",
             "leader_margin_name_display": "Biden +59",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Morgan",
@@ -10327,7 +10468,8 @@
             "leader_margin_value": 11.47132,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Trump +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Morristown",
@@ -10395,7 +10537,8 @@
             "leader_margin_value": 44.51048,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Biden +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Mount Holly",
@@ -10463,7 +10606,8 @@
             "leader_margin_value": 9.08019,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Mount Tabor",
@@ -10531,7 +10675,8 @@
             "leader_margin_value": 0.8547,
             "leader_margin_display": "R+0.85",
             "leader_margin_name_display": "Trump +0.85",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "New Haven",
@@ -10599,7 +10744,8 @@
             "leader_margin_value": 28.66894,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newark",
@@ -10667,7 +10813,8 @@
             "leader_margin_value": 2.89017,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Biden +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newbury",
@@ -10735,7 +10882,8 @@
             "leader_margin_value": 15.81549,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Biden +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newfane",
@@ -10803,7 +10951,8 @@
             "leader_margin_value": 50.92025,
             "leader_margin_display": "D+51",
             "leader_margin_name_display": "Biden +51",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newport",
@@ -10871,7 +11020,8 @@
             "leader_margin_value": 14.98371,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Newport Town",
@@ -10939,7 +11089,8 @@
             "leader_margin_value": 9.53608,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Trump +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "North Hero",
@@ -11007,7 +11158,8 @@
             "leader_margin_value": 25.53191,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Northfield",
@@ -11075,7 +11227,8 @@
             "leader_margin_value": 27.2211,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Norton",
@@ -11143,7 +11296,8 @@
             "leader_margin_value": 16.66667,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Trump +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Norwich",
@@ -11211,7 +11365,8 @@
             "leader_margin_value": 81.90661,
             "leader_margin_display": "D+82",
             "leader_margin_name_display": "Biden +82",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Orange",
@@ -11279,7 +11434,8 @@
             "leader_margin_value": 10.32787,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Trump +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Orwell",
@@ -11347,7 +11503,8 @@
             "leader_margin_value": 2.12766,
             "leader_margin_display": "D+2",
             "leader_margin_name_display": "Biden +2",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Panton",
@@ -11415,7 +11572,8 @@
             "leader_margin_value": 31.90476,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Biden +32",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Pawlet",
@@ -11483,7 +11641,8 @@
             "leader_margin_value": 14.31793,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Peacham",
@@ -11551,7 +11710,8 @@
             "leader_margin_value": 41.6185,
             "leader_margin_display": "D+42",
             "leader_margin_name_display": "Biden +42",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Peru",
@@ -11619,7 +11779,8 @@
             "leader_margin_value": 49,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Biden +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Pittsfield",
@@ -11687,7 +11848,8 @@
             "leader_margin_value": 25.90361,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Pittsford",
@@ -11755,7 +11917,8 @@
             "leader_margin_value": 6.4479,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Biden +6",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Plainfield",
@@ -11823,7 +11986,8 @@
             "leader_margin_value": 54.05405,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Biden +54",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Plymouth",
@@ -11891,7 +12055,8 @@
             "leader_margin_value": 39.62264,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Pomfret",
@@ -11959,7 +12124,8 @@
             "leader_margin_value": 53.46097,
             "leader_margin_display": "D+53",
             "leader_margin_name_display": "Biden +53",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Poultney",
@@ -12027,7 +12193,8 @@
             "leader_margin_value": 5.34856,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Pownal",
@@ -12095,7 +12262,8 @@
             "leader_margin_value": 3.43082,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Biden +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Proctor",
@@ -12163,7 +12331,8 @@
             "leader_margin_value": 14.86911,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Putney",
@@ -12231,7 +12400,8 @@
             "leader_margin_value": 65.94059,
             "leader_margin_display": "D+66",
             "leader_margin_name_display": "Biden +66",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Randolph",
@@ -12299,7 +12469,8 @@
             "leader_margin_value": 34.18407,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Biden +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Reading",
@@ -12367,7 +12538,8 @@
             "leader_margin_value": 43.14607,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Biden +43",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Readsboro",
@@ -12435,7 +12607,8 @@
             "leader_margin_value": 2.08817,
             "leader_margin_display": "R+2",
             "leader_margin_name_display": "Trump +2",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Richford",
@@ -12503,7 +12676,8 @@
             "leader_margin_value": 4.67091,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Trump +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Richmond",
@@ -12571,7 +12745,8 @@
             "leader_margin_value": 58.3135,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Biden +58",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Ripton",
@@ -12639,7 +12814,8 @@
             "leader_margin_value": 55.28455,
             "leader_margin_display": "D+55",
             "leader_margin_name_display": "Biden +55",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Rochester",
@@ -12707,7 +12883,8 @@
             "leader_margin_value": 46.85792,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Rockingham",
@@ -12775,7 +12952,8 @@
             "leader_margin_value": 39.10282,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Roxbury",
@@ -12843,7 +13021,8 @@
             "leader_margin_value": 33.94919,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Biden +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Royalton",
@@ -12911,7 +13090,8 @@
             "leader_margin_value": 29.4751,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Biden +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Rupert",
@@ -12979,7 +13159,8 @@
             "leader_margin_value": 26.31579,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Rutland",
@@ -13047,7 +13228,8 @@
             "leader_margin_value": 20.6625,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Biden +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Rutland Town",
@@ -13115,7 +13297,8 @@
             "leader_margin_value": 13.55591,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Ryegate",
@@ -13183,7 +13366,8 @@
             "leader_margin_value": 4.78395,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Salisbury",
@@ -13251,7 +13435,8 @@
             "leader_margin_value": 19.97041,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sandgate",
@@ -13319,7 +13504,8 @@
             "leader_margin_value": 20.1581,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Searsburg",
@@ -13387,7 +13573,8 @@
             "leader_margin_value": 12.5,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Shaftsbury",
@@ -13455,7 +13642,8 @@
             "leader_margin_value": 23.73034,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sharon",
@@ -13523,7 +13711,8 @@
             "leader_margin_value": 34.34004,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Biden +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sheffield",
@@ -13591,7 +13780,8 @@
             "leader_margin_value": 9.09091,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Shelburne",
@@ -13659,7 +13849,8 @@
             "leader_margin_value": 62.83447,
             "leader_margin_display": "D+63",
             "leader_margin_name_display": "Biden +63",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sheldon",
@@ -13727,7 +13918,8 @@
             "leader_margin_value": 9.55665,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Trump +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Shoreham",
@@ -13795,7 +13987,8 @@
             "leader_margin_value": 24.5283,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Biden +25",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Shrewsbury",
@@ -13863,7 +14056,8 @@
             "leader_margin_value": 18.4058,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Biden +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "South Burlington",
@@ -13931,7 +14125,8 @@
             "leader_margin_value": 61.45225,
             "leader_margin_display": "D+61",
             "leader_margin_name_display": "Biden +61",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "South Hero",
@@ -13999,7 +14194,8 @@
             "leader_margin_value": 40.25974,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Springfield",
@@ -14067,7 +14263,8 @@
             "leader_margin_value": 18.04694,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Biden +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "St. Albans",
@@ -14135,7 +14332,8 @@
             "leader_margin_value": 33.88943,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Biden +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "St. Albans Town",
@@ -14203,7 +14401,8 @@
             "leader_margin_value": 14.99736,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Biden +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "St. George",
@@ -14271,7 +14470,8 @@
             "leader_margin_value": 39.51435,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "St. Johnsbury",
@@ -14339,7 +14539,8 @@
             "leader_margin_value": 24.16346,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Stamford",
@@ -14407,7 +14608,8 @@
             "leader_margin_value": 2.41187,
             "leader_margin_display": "R+2",
             "leader_margin_name_display": "Trump +2",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Stannard",
@@ -14475,7 +14677,8 @@
             "leader_margin_value": 47.36842,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Starksboro",
@@ -14543,7 +14746,8 @@
             "leader_margin_value": 29.61877,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Stockbridge",
@@ -14611,7 +14815,8 @@
             "leader_margin_value": 45.70231,
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "Biden +46",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Stowe",
@@ -14679,7 +14884,8 @@
             "leader_margin_value": 61.86142,
             "leader_margin_display": "D+62",
             "leader_margin_name_display": "Biden +62",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Strafford",
@@ -14747,7 +14953,8 @@
             "leader_margin_value": 67.25,
             "leader_margin_display": "D+67",
             "leader_margin_name_display": "Biden +67",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Stratton",
@@ -14815,7 +15022,8 @@
             "leader_margin_value": 27.36842,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Biden +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sudbury",
@@ -14883,7 +15091,8 @@
             "leader_margin_value": 31.95876,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Biden +32",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sunderland",
@@ -14951,7 +15160,8 @@
             "leader_margin_value": 22.39264,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Biden +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Sutton",
@@ -15019,7 +15229,8 @@
             "leader_margin_value": 5.56586,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Trump +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Swanton",
@@ -15087,7 +15298,8 @@
             "leader_margin_value": 0.61958,
             "leader_margin_display": "D+0.62",
             "leader_margin_name_display": "Biden +0.62",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Thetford",
@@ -15155,7 +15367,8 @@
             "leader_margin_value": 54.39791,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Biden +54",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Tinmouth",
@@ -15223,7 +15436,8 @@
             "leader_margin_value": 2.05279,
             "leader_margin_display": "D+2",
             "leader_margin_name_display": "Biden +2",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Topsham",
@@ -15291,7 +15505,8 @@
             "leader_margin_value": 12.8483,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Townshend",
@@ -15359,7 +15574,8 @@
             "leader_margin_value": 47.07412,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Troy",
@@ -15427,7 +15643,8 @@
             "leader_margin_value": 3.01887,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Trump +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Tunbridge",
@@ -15495,7 +15712,8 @@
             "leader_margin_value": 23.17497,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Underhill",
@@ -15563,7 +15781,8 @@
             "leader_margin_value": 49.77518,
             "leader_margin_display": "D+50",
             "leader_margin_name_display": "Biden +50",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Vergennes",
@@ -15631,7 +15850,8 @@
             "leader_margin_value": 39.78349,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Biden +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Vernon",
@@ -15699,7 +15919,8 @@
             "leader_margin_value": 13,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Vershire",
@@ -15767,7 +15988,8 @@
             "leader_margin_value": 30.37383,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Victory",
@@ -15835,7 +16057,8 @@
             "leader_margin_value": 34.54545,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Trump +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Waitsfield",
@@ -15903,7 +16126,8 @@
             "leader_margin_value": 65.94551,
             "leader_margin_display": "D+66",
             "leader_margin_name_display": "Biden +66",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Walden",
@@ -15971,7 +16195,8 @@
             "leader_margin_value": 24.57338,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Biden +25",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wallingford",
@@ -16039,7 +16264,8 @@
             "leader_margin_value": 10.78582,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Biden +11",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Waltham",
@@ -16107,7 +16333,8 @@
             "leader_margin_value": 34.96933,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Biden +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wardsboro",
@@ -16175,7 +16402,8 @@
             "leader_margin_value": 33.73984,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Biden +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Warren",
@@ -16243,7 +16471,8 @@
             "leader_margin_value": 68.03797,
             "leader_margin_display": "D+68",
             "leader_margin_name_display": "Biden +68",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Washington",
@@ -16311,7 +16540,8 @@
             "leader_margin_value": 3.77668,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Waterbury",
@@ -16379,7 +16609,8 @@
             "leader_margin_value": 61.66381,
             "leader_margin_display": "D+62",
             "leader_margin_name_display": "Biden +62",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Waterford",
@@ -16447,7 +16678,8 @@
             "leader_margin_value": 4.09146,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Waterville",
@@ -16515,7 +16747,8 @@
             "leader_margin_value": 3.96476,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Weathersfield",
@@ -16583,7 +16816,8 @@
             "leader_margin_value": 16.35045,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Biden +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wells",
@@ -16651,7 +16885,8 @@
             "leader_margin_value": 13.61186,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Trump +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "West Fairlee",
@@ -16719,7 +16954,8 @@
             "leader_margin_value": 26.33053,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Biden +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "West Haven",
@@ -16787,7 +17023,8 @@
             "leader_margin_value": 5.29801,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Biden +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "West Rutland",
@@ -16855,7 +17092,8 @@
             "leader_margin_value": 8.82605,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "West Windsor",
@@ -16923,7 +17161,8 @@
             "leader_margin_value": 49.70273,
             "leader_margin_display": "D+50",
             "leader_margin_name_display": "Biden +50",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Westfield",
@@ -16991,7 +17230,8 @@
             "leader_margin_value": 12.60745,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Biden +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Westford",
@@ -17059,7 +17299,8 @@
             "leader_margin_value": 38.66667,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Westminster",
@@ -17127,7 +17368,8 @@
             "leader_margin_value": 48.85411,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Biden +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Westmore",
@@ -17195,7 +17437,8 @@
             "leader_margin_value": 10,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Biden +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Weston",
@@ -17263,7 +17506,8 @@
             "leader_margin_value": 47.80702,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Biden +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Weybridge",
@@ -17331,7 +17575,8 @@
             "leader_margin_value": 71.73203,
             "leader_margin_display": "D+72",
             "leader_margin_name_display": "Biden +72",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wheelock",
@@ -17399,7 +17644,8 @@
             "leader_margin_value": 7.9646,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Whiting",
@@ -17467,7 +17713,8 @@
             "leader_margin_value": 18.34862,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Biden +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Whitingham",
@@ -17535,7 +17782,8 @@
             "leader_margin_value": 7.35484,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Biden +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Williamstown",
@@ -17603,7 +17851,8 @@
             "leader_margin_value": 3.49087,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Trump +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Williston",
@@ -17671,7 +17920,8 @@
             "leader_margin_value": 47.46108,
             "leader_margin_display": "D+47",
             "leader_margin_name_display": "Biden +47",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wilmington",
@@ -17739,7 +17989,8 @@
             "leader_margin_value": 38.75433,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Windham",
@@ -17807,7 +18058,8 @@
             "leader_margin_value": 36.87943,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Biden +37",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Windsor",
@@ -17875,7 +18127,8 @@
             "leader_margin_value": 38.57143,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Winhall",
@@ -17943,7 +18196,8 @@
             "leader_margin_value": 43.17507,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Biden +43",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Winooski",
@@ -18011,7 +18265,8 @@
             "leader_margin_value": 65.38773,
             "leader_margin_display": "D+65",
             "leader_margin_name_display": "Biden +65",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Wolcott",
@@ -18079,7 +18334,8 @@
             "leader_margin_value": 30.66089,
             "leader_margin_display": "D+31",
             "leader_margin_name_display": "Biden +31",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Woodbury",
@@ -18147,7 +18403,8 @@
             "leader_margin_value": 29.93197,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "Biden +30",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Woodford",
@@ -18215,7 +18472,8 @@
             "leader_margin_value": 0.5102,
             "leader_margin_display": "R+0.51",
             "leader_margin_name_display": "Trump +0.51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "trumpd"
           },
           {
             "name": "Woodstock",
@@ -18283,7 +18541,8 @@
             "leader_margin_value": 58.93789,
             "leader_margin_display": "D+59",
             "leader_margin_name_display": "Biden +59",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           },
           {
             "name": "Worcester",
@@ -18351,7 +18610,8 @@
             "leader_margin_value": 54.32692,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Biden +54",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "bidenj"
           }
         ],
         "votes2016": 315067,
@@ -19356,8 +19616,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -19372,12 +19632,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -19390,7 +19650,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -19418,7 +19678,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -19435,7 +19695,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -19452,7 +19712,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -19484,7 +19744,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -19501,7 +19761,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -19518,7 +19778,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -19535,6 +19795,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -19637,9 +19977,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -20007,7 +20347,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -23495,7 +23835,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -27978,9 +28318,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -28295,7 +28635,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -28335,9 +28675,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -28396,7 +28736,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -29092,9 +29432,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -30277,11 +30617,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -30618,9 +30958,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -30697,7 +31037,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -31132,7 +31472,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -31173,7 +31513,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -31296,9 +31636,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -32002,9 +32342,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -32044,8 +32384,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -32333,7 +32673,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -32864,7 +33204,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -32922,7 +33262,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -33040,9 +33380,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -34231,7 +34571,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -34271,7 +34611,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -34655,7 +34995,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -34778,7 +35118,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -36162,8 +36502,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

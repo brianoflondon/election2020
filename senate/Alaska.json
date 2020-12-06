@@ -189,7 +189,8 @@
             "leader_margin_value": 2.69071,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Sullivan +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02910",
@@ -226,7 +227,8 @@
             "leader_margin_value": 45.00225,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Sullivan +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02911",
@@ -261,7 +263,8 @@
             "leader_margin_value": 37.86646,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Sullivan +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02912",
@@ -296,7 +299,8 @@
             "leader_margin_value": 45.41614,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Sullivan +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02913",
@@ -331,7 +335,8 @@
             "leader_margin_value": 30.63305,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Sullivan +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02914",
@@ -366,7 +371,8 @@
             "leader_margin_value": 28.18874,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Sullivan +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02915",
@@ -401,7 +407,8 @@
             "leader_margin_value": 3.054,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Sullivan +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02916",
@@ -436,7 +443,8 @@
             "leader_margin_value": 6.9534,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Gross +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02917",
@@ -471,7 +479,8 @@
             "leader_margin_value": 14.6185,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Gross +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02918",
@@ -506,7 +515,8 @@
             "leader_margin_value": 22.82651,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Gross +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02919",
@@ -541,7 +551,8 @@
             "leader_margin_value": 22.36239,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Gross +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02902",
@@ -578,7 +589,8 @@
             "leader_margin_value": 26.24226,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Sullivan +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02920",
@@ -613,7 +625,8 @@
             "leader_margin_value": 28.69647,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Gross +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02921",
@@ -648,7 +661,8 @@
             "leader_margin_value": 12.32877,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Gross +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02922",
@@ -683,7 +697,8 @@
             "leader_margin_value": 8.14503,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Sullivan +8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02923",
@@ -718,7 +733,8 @@
             "leader_margin_value": 1.24562,
             "leader_margin_display": "R+1.2",
             "leader_margin_name_display": "Sullivan +1.2",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02924",
@@ -753,7 +769,8 @@
             "leader_margin_value": 14.10502,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Sullivan +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02925",
@@ -788,7 +805,8 @@
             "leader_margin_value": 2.03818,
             "leader_margin_display": "R+2",
             "leader_margin_name_display": "Sullivan +2",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02926",
@@ -823,7 +841,8 @@
             "leader_margin_value": 14.65808,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Sullivan +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02927",
@@ -858,7 +877,8 @@
             "leader_margin_value": 0.78026,
             "leader_margin_display": "D+0.78",
             "leader_margin_name_display": "Gross +0.78",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02928",
@@ -893,7 +913,8 @@
             "leader_margin_value": 7.64895,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Sullivan +8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02929",
@@ -928,7 +949,8 @@
             "leader_margin_value": 40.48044,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Sullivan +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02903",
@@ -963,7 +985,8 @@
             "leader_margin_value": 50.56667,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Sullivan +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02930",
@@ -998,7 +1021,8 @@
             "leader_margin_value": 45.23049,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Sullivan +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02931",
@@ -1033,7 +1057,8 @@
             "leader_margin_value": 13.92364,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Sullivan +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02932",
@@ -1068,7 +1093,8 @@
             "leader_margin_value": 10.49292,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Sullivan +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02933",
@@ -1103,7 +1129,8 @@
             "leader_margin_value": 40.34749,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Gross +40",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02934",
@@ -1138,7 +1165,8 @@
             "leader_margin_value": 8.79275,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Gross +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02935",
@@ -1173,7 +1201,8 @@
             "leader_margin_value": 6.16617,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Gross +6",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02936",
@@ -1208,7 +1237,8 @@
             "leader_margin_value": 14.44602,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Sullivan +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02937",
@@ -1243,7 +1273,8 @@
             "leader_margin_value": 1.77795,
             "leader_margin_display": "R+1.8",
             "leader_margin_name_display": "Sullivan +1.8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02938",
@@ -1278,7 +1309,8 @@
             "leader_margin_value": 24.12879,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Gross +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02939",
@@ -1313,7 +1345,8 @@
             "leader_margin_value": 4.69102,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Gross +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02904",
@@ -1350,7 +1383,8 @@
             "leader_margin_value": 4.59116,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Gross +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "grossa"
           },
           {
             "fips": "02940",
@@ -1385,7 +1419,8 @@
             "leader_margin_value": 12.43716,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Sullivan +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02905",
@@ -1422,7 +1457,8 @@
             "leader_margin_value": 0.97256,
             "leader_margin_display": "R+0.97",
             "leader_margin_name_display": "Sullivan +0.97",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02906",
@@ -1459,7 +1495,8 @@
             "leader_margin_value": 27.52662,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Sullivan +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02907",
@@ -1496,7 +1533,8 @@
             "leader_margin_value": 47.95758,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Sullivan +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02908",
@@ -1533,7 +1571,8 @@
             "leader_margin_value": 53.69654,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Sullivan +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           },
           {
             "fips": "02909",
@@ -1570,7 +1609,8 @@
             "leader_margin_value": 43.98386,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Sullivan +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "sullivand"
           }
         ],
         "edison_certified": false,
@@ -1921,8 +1961,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -1937,12 +1977,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -1955,7 +1995,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -1983,7 +2023,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -2000,7 +2040,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -2017,7 +2057,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -2049,7 +2089,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -2066,7 +2106,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -2083,7 +2123,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -2100,6 +2140,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -2202,9 +2322,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -2572,7 +2692,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -6060,7 +6180,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -10543,9 +10663,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -10860,7 +10980,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -10900,9 +11020,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -10961,7 +11081,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -11657,9 +11777,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -12842,11 +12962,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -13183,9 +13303,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -13262,7 +13382,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -13697,7 +13817,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -13738,7 +13858,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -13861,9 +13981,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -14567,9 +14687,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -14609,8 +14729,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -14898,7 +15018,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -15429,7 +15549,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -15487,7 +15607,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -15605,9 +15725,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -16796,7 +16916,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -16836,7 +16956,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -17220,7 +17340,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -17343,7 +17463,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -18727,8 +18847,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

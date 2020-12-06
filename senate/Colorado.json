@@ -184,7 +184,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -208,7 +208,8 @@
             "leader_margin_value": 13.60543,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Hickenlooper +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08003",
@@ -223,7 +224,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -247,7 +248,8 @@
             "leader_margin_value": 0.85636,
             "leader_margin_display": "R+0.86",
             "leader_margin_name_display": "Gardner +0.86",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08005",
@@ -258,11 +260,11 @@
             "precincts": 390,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 350283,
+            "tot_exp_vote": 350183,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -286,7 +288,8 @@
             "leader_margin_value": 19.31605,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Hickenlooper +19",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08007",
@@ -301,7 +304,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -325,7 +328,8 @@
             "leader_margin_value": 18.11731,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Gardner +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08009",
@@ -336,11 +340,11 @@
             "precincts": 9,
             "absentee_method": "Other",
             "eevp": 99,
-            "tot_exp_vote": 2224,
+            "tot_exp_vote": 2225,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -364,7 +368,8 @@
             "leader_margin_value": 67.71403,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Gardner +68",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08011",
@@ -379,7 +384,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -403,7 +408,8 @@
             "leader_margin_value": 34.84043,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Gardner +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08013",
@@ -418,7 +424,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -442,7 +448,8 @@
             "leader_margin_value": 52.17647,
             "leader_margin_display": "D+52",
             "leader_margin_name_display": "Hickenlooper +52",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08014",
@@ -457,7 +464,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -481,7 +488,8 @@
             "leader_margin_value": 20.7637,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Hickenlooper +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08015",
@@ -496,7 +504,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -520,7 +528,8 @@
             "leader_margin_value": 4.44837,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Hickenlooper +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08017",
@@ -535,7 +544,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -559,7 +568,8 @@
             "leader_margin_value": 77.86667,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Gardner +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08019",
@@ -570,11 +580,11 @@
             "precincts": 9,
             "absentee_method": "Other",
             "eevp": 99,
-            "tot_exp_vote": 6545,
+            "tot_exp_vote": 6548,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -598,7 +608,8 @@
             "leader_margin_value": 10.17446,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Hickenlooper +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08021",
@@ -613,7 +624,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -637,7 +648,8 @@
             "leader_margin_value": 6.27782,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Gardner +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08023",
@@ -652,7 +664,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -676,7 +688,8 @@
             "leader_margin_value": 28.7494,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Hickenlooper +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08025",
@@ -691,7 +704,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -715,7 +728,8 @@
             "leader_margin_value": 44.45721,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Gardner +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08027",
@@ -726,11 +740,11 @@
             "precincts": 3,
             "absentee_method": "Other",
             "eevp": 99,
-            "tot_exp_vote": 3630,
+            "tot_exp_vote": 3634,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -754,7 +768,8 @@
             "leader_margin_value": 38.87034,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Gardner +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08029",
@@ -769,7 +784,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -793,7 +808,8 @@
             "leader_margin_value": 38.09771,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Gardner +38",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08031",
@@ -804,11 +820,11 @@
             "precincts": 356,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 393824,
+            "tot_exp_vote": 393827,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -832,7 +848,8 @@
             "leader_margin_value": 57.35077,
             "leader_margin_display": "D+57",
             "leader_margin_name_display": "Hickenlooper +57",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08033",
@@ -847,7 +864,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -871,7 +888,8 @@
             "leader_margin_value": 50.87596,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Gardner +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08035",
@@ -886,7 +904,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -910,7 +928,8 @@
             "leader_margin_value": 14.03185,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Gardner +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08037",
@@ -921,11 +940,11 @@
             "precincts": 30,
             "absentee_method": "Other",
             "eevp": 99,
-            "tot_exp_vote": 29139,
+            "tot_exp_vote": 29140,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -949,7 +968,8 @@
             "leader_margin_value": 26.26965,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Hickenlooper +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08041",
@@ -959,12 +979,12 @@
             "reporting": 291,
             "precincts": 291,
             "absentee_method": "Other",
-            "eevp": 100,
-            "tot_exp_vote": 378234,
+            "eevp": 99,
+            "tot_exp_vote": 378849,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -988,7 +1008,8 @@
             "leader_margin_value": 15.90188,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Gardner +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08039",
@@ -1003,7 +1024,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1027,7 +1048,8 @@
             "leader_margin_value": 53.1888,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Gardner +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08043",
@@ -1042,7 +1064,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1066,7 +1088,8 @@
             "leader_margin_value": 40.41563,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Gardner +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08045",
@@ -1081,7 +1104,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1105,7 +1128,8 @@
             "leader_margin_value": 0.09095,
             "leader_margin_display": "R+0.09",
             "leader_margin_name_display": "Gardner +0.09",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08047",
@@ -1116,11 +1140,11 @@
             "precincts": 6,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 4185,
+            "tot_exp_vote": 4186,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1144,7 +1168,8 @@
             "leader_margin_value": 7.56886,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Hickenlooper +8",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08049",
@@ -1155,11 +1180,11 @@
             "precincts": 12,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 9877,
+            "tot_exp_vote": 9878,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1183,7 +1208,8 @@
             "leader_margin_value": 5.02126,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Gardner +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08051",
@@ -1218,11 +1244,12 @@
               "doyled": 0,
               "evanss": 0
             },
-            "last_updated": "2020-12-02T22:30:43Z",
+            "last_updated": "2020-12-05T17:40:13Z",
             "leader_margin_value": 26.42492,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Hickenlooper +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08053",
@@ -1237,7 +1264,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1261,7 +1288,8 @@
             "leader_margin_value": 19.51613,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Gardner +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08055",
@@ -1276,7 +1304,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1300,7 +1328,8 @@
             "leader_margin_value": 1.89888,
             "leader_margin_display": "R+1.9",
             "leader_margin_name_display": "Gardner +1.9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08057",
@@ -1315,7 +1344,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1339,7 +1368,8 @@
             "leader_margin_value": 59.97693,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Gardner +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08059",
@@ -1350,11 +1380,11 @@
             "precincts": 309,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 377351,
+            "tot_exp_vote": 377357,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1378,7 +1408,8 @@
             "leader_margin_value": 13.88552,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Hickenlooper +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08061",
@@ -1393,7 +1424,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1417,7 +1448,8 @@
             "leader_margin_value": 77.52809,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Gardner +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08063",
@@ -1428,11 +1460,11 @@
             "precincts": 13,
             "absentee_method": "Other",
             "eevp": 99,
-            "tot_exp_vote": 3870,
+            "tot_exp_vote": 3871,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1456,7 +1488,8 @@
             "leader_margin_value": 65.79292,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Gardner +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08067",
@@ -1471,7 +1504,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1495,7 +1528,8 @@
             "leader_margin_value": 14.37678,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Hickenlooper +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08065",
@@ -1510,7 +1544,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1534,7 +1568,8 @@
             "leader_margin_value": 19.88363,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Hickenlooper +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08069",
@@ -1545,11 +1580,11 @@
             "precincts": 280,
             "absentee_method": "Other",
             "eevp": 96,
-            "tot_exp_vote": 224333,
+            "tot_exp_vote": 224338,
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1573,7 +1608,8 @@
             "leader_margin_value": 10.11147,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Hickenlooper +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08071",
@@ -1588,7 +1624,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1612,7 +1648,8 @@
             "leader_margin_value": 8.93375,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Gardner +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08073",
@@ -1627,7 +1664,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1651,7 +1688,8 @@
             "leader_margin_value": 64.75721,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Gardner +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08075",
@@ -1666,7 +1704,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1690,7 +1728,8 @@
             "leader_margin_value": 57.7235,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Gardner +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08077",
@@ -1701,11 +1740,11 @@
             "precincts": 57,
             "absentee_method": "Other",
             "eevp": 98,
-            "tot_exp_vote": 90613,
+            "tot_exp_vote": 90622,
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1729,7 +1768,8 @@
             "leader_margin_value": 31.11883,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Gardner +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08079",
@@ -1744,7 +1784,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1768,7 +1808,8 @@
             "leader_margin_value": 17.83355,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Gardner +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08081",
@@ -1783,7 +1824,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1807,7 +1848,8 @@
             "leader_margin_value": 64.96329,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Gardner +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08083",
@@ -1822,7 +1864,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1846,7 +1888,8 @@
             "leader_margin_value": 24.58207,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Gardner +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08085",
@@ -1861,7 +1904,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1885,7 +1928,8 @@
             "leader_margin_value": 38.85179,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Gardner +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08087",
@@ -1900,7 +1944,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1924,7 +1968,8 @@
             "leader_margin_value": 42.42134,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Gardner +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08089",
@@ -1939,7 +1984,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -1963,7 +2008,8 @@
             "leader_margin_value": 24.58631,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Gardner +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08091",
@@ -1978,7 +2024,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2002,7 +2048,8 @@
             "leader_margin_value": 16.77533,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Hickenlooper +17",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08093",
@@ -2013,11 +2060,11 @@
             "precincts": 13,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 12289,
+            "tot_exp_vote": 12290,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2041,7 +2088,8 @@
             "leader_margin_value": 18.78164,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Gardner +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08095",
@@ -2056,7 +2104,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2080,7 +2128,8 @@
             "leader_margin_value": 61.39215,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Gardner +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08097",
@@ -2095,7 +2144,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2119,7 +2168,8 @@
             "leader_margin_value": 49.12725,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Hickenlooper +49",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08099",
@@ -2134,7 +2184,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2158,7 +2208,8 @@
             "leader_margin_value": 46.01818,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Gardner +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08101",
@@ -2173,7 +2224,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2197,7 +2248,8 @@
             "leader_margin_value": 0.79245,
             "leader_margin_display": "D+0.79",
             "leader_margin_name_display": "Hickenlooper +0.79",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08103",
@@ -2212,7 +2264,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2236,7 +2288,8 @@
             "leader_margin_value": 69.3844,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Gardner +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08105",
@@ -2251,7 +2304,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2275,7 +2328,8 @@
             "leader_margin_value": 18.04427,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Gardner +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08107",
@@ -2290,7 +2344,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2314,7 +2368,8 @@
             "leader_margin_value": 23.93914,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Hickenlooper +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08109",
@@ -2329,7 +2384,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2353,7 +2408,8 @@
             "leader_margin_value": 14.26458,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Hickenlooper +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08111",
@@ -2368,7 +2424,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2392,7 +2448,8 @@
             "leader_margin_value": 22,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Hickenlooper +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08113",
@@ -2402,12 +2459,12 @@
             "reporting": 6,
             "precincts": 6,
             "absentee_method": "Other",
-            "eevp": 100,
-            "tot_exp_vote": 5146,
+            "eevp": 99,
+            "tot_exp_vote": 5147,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2431,7 +2488,8 @@
             "leader_margin_value": 50.40031,
             "leader_margin_display": "D+50",
             "leader_margin_name_display": "Hickenlooper +50",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08115",
@@ -2446,7 +2504,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2470,7 +2528,8 @@
             "leader_margin_value": 54.11196,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Gardner +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08117",
@@ -2481,11 +2540,11 @@
             "precincts": 20,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 18465,
+            "tot_exp_vote": 18479,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2509,7 +2568,8 @@
             "leader_margin_value": 34.54121,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Hickenlooper +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hickenlooperj"
           },
           {
             "fips": "08119",
@@ -2524,7 +2584,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2548,7 +2608,8 @@
             "leader_margin_value": 37.39634,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Gardner +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08121",
@@ -2563,7 +2624,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2587,7 +2648,8 @@
             "leader_margin_value": 75.80107,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Gardner +76",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08123",
@@ -2598,11 +2660,11 @@
             "precincts": 156,
             "absentee_method": "Other",
             "eevp": 100,
-            "tot_exp_vote": 166946,
+            "tot_exp_vote": 166968,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2626,7 +2688,8 @@
             "leader_margin_value": 21.46474,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Gardner +21",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           },
           {
             "fips": "08125",
@@ -2641,7 +2704,7 @@
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
-            "turnout_stage": 8,
+            "turnout_stage": 10,
             "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
@@ -2665,7 +2728,8 @@
             "leader_margin_value": 72.75467,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Gardner +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "gardnerc"
           }
         ],
         "edison_certified": false,
@@ -4245,8 +4309,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -4261,12 +4325,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -4279,7 +4343,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -4307,7 +4371,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -4324,7 +4388,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -4341,7 +4405,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -4373,7 +4437,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -4390,7 +4454,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -4407,7 +4471,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -4424,6 +4488,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -4526,9 +4670,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -4896,7 +5040,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -8384,7 +8528,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -12867,9 +13011,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -13184,7 +13328,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -13224,9 +13368,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -13285,7 +13429,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -13981,9 +14125,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -15166,11 +15310,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -15507,9 +15651,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -15586,7 +15730,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -16021,7 +16165,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -16062,7 +16206,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -16185,9 +16329,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -16891,9 +17035,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -16933,8 +17077,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -17222,7 +17366,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -17753,7 +17897,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -17811,7 +17955,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -17929,9 +18073,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -19120,7 +19264,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -19160,7 +19304,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -19544,7 +19688,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -19667,7 +19811,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -21051,8 +21195,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

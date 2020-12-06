@@ -186,7 +186,8 @@
             "leader_margin_value": 7.26014,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Tillis +7",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37003",
@@ -223,7 +224,8 @@
             "leader_margin_value": 52.14528,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Tillis +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37005",
@@ -260,7 +262,8 @@
             "leader_margin_value": 41.53488,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Tillis +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37007",
@@ -297,7 +300,8 @@
             "leader_margin_value": 6.97695,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Cunningham +7",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37009",
@@ -334,7 +338,8 @@
             "leader_margin_value": 40.54745,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Tillis +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37011",
@@ -371,7 +376,8 @@
             "leader_margin_value": 51.34642,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Tillis +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37013",
@@ -408,7 +414,8 @@
             "leader_margin_value": 23.07072,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Tillis +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37015",
@@ -445,7 +452,8 @@
             "leader_margin_value": 22.98329,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Cunningham +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37017",
@@ -482,7 +490,8 @@
             "leader_margin_value": 9.99348,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Tillis +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37019",
@@ -519,7 +528,8 @@
             "leader_margin_value": 23.30777,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Tillis +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37021",
@@ -556,7 +566,8 @@
             "leader_margin_value": 19.97976,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Cunningham +20",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37023",
@@ -593,7 +604,8 @@
             "leader_margin_value": 35.82975,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Tillis +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37025",
@@ -630,7 +642,8 @@
             "leader_margin_value": 10.63289,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Tillis +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37027",
@@ -667,7 +680,8 @@
             "leader_margin_value": 46.4693,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Tillis +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37029",
@@ -704,7 +718,8 @@
             "leader_margin_value": 47.58479,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Tillis +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37031",
@@ -741,7 +756,8 @@
             "leader_margin_value": 39.47381,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Tillis +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37033",
@@ -778,7 +794,8 @@
             "leader_margin_value": 14.43859,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Tillis +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37035",
@@ -815,7 +832,8 @@
             "leader_margin_value": 35.18092,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Tillis +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37037",
@@ -852,7 +870,8 @@
             "leader_margin_value": 9.63631,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Cunningham +10",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37039",
@@ -889,7 +908,8 @@
             "leader_margin_value": 51.94032,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Tillis +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37041",
@@ -926,7 +946,8 @@
             "leader_margin_value": 15.98387,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Tillis +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37043",
@@ -963,7 +984,8 @@
             "leader_margin_value": 47.29115,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Tillis +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37045",
@@ -1000,7 +1022,8 @@
             "leader_margin_value": 30.07267,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Tillis +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37047",
@@ -1037,7 +1060,8 @@
             "leader_margin_value": 22.84882,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Tillis +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37049",
@@ -1074,7 +1098,8 @@
             "leader_margin_value": 17.37591,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Tillis +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37051",
@@ -1111,7 +1136,8 @@
             "leader_margin_value": 16.38771,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Cunningham +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37053",
@@ -1148,7 +1174,8 @@
             "leader_margin_value": 47.15289,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Tillis +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37055",
@@ -1185,7 +1212,8 @@
             "leader_margin_value": 18.02811,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Tillis +18",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37057",
@@ -1222,7 +1250,8 @@
             "leader_margin_value": 41.9853,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Tillis +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37059",
@@ -1259,7 +1288,8 @@
             "leader_margin_value": 43.10071,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Tillis +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37061",
@@ -1296,7 +1326,8 @@
             "leader_margin_value": 19.01302,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Tillis +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37063",
@@ -1333,7 +1364,8 @@
             "leader_margin_value": 58.30547,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Cunningham +58",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37065",
@@ -1370,7 +1402,8 @@
             "leader_margin_value": 29.10972,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Cunningham +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37067",
@@ -1407,7 +1440,8 @@
             "leader_margin_value": 12.05409,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Cunningham +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37069",
@@ -1444,7 +1478,8 @@
             "leader_margin_value": 10.76123,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Tillis +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37071",
@@ -1481,7 +1516,8 @@
             "leader_margin_value": 26.09697,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Tillis +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37073",
@@ -1518,7 +1554,8 @@
             "leader_margin_value": 12.42141,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Tillis +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37075",
@@ -1555,7 +1592,8 @@
             "leader_margin_value": 51.48384,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Tillis +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37077",
@@ -1592,7 +1630,8 @@
             "leader_margin_value": 4.20613,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Tillis +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37079",
@@ -1629,7 +1668,8 @@
             "leader_margin_value": 8.61019,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Tillis +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37081",
@@ -1666,7 +1706,8 @@
             "leader_margin_value": 21.59057,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Cunningham +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37083",
@@ -1703,7 +1744,8 @@
             "leader_margin_value": 23.4273,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Cunningham +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37085",
@@ -1740,7 +1782,8 @@
             "leader_margin_value": 20.3825,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Tillis +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37087",
@@ -1777,7 +1820,8 @@
             "leader_margin_value": 23.12102,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Tillis +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37089",
@@ -1814,7 +1858,8 @@
             "leader_margin_value": 20.00354,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Tillis +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37091",
@@ -1851,7 +1896,8 @@
             "leader_margin_value": 33.77598,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Cunningham +34",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37093",
@@ -1888,7 +1934,8 @@
             "leader_margin_value": 13.22546,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Cunningham +13",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37095",
@@ -1925,7 +1972,8 @@
             "leader_margin_value": 9.72053,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Tillis +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37097",
@@ -1962,7 +2010,8 @@
             "leader_margin_value": 31.98272,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Tillis +32",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37099",
@@ -1999,7 +2048,8 @@
             "leader_margin_value": 6.50219,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Tillis +7",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37101",
@@ -2036,7 +2086,8 @@
             "leader_margin_value": 22.72962,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Tillis +23",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37103",
@@ -2073,7 +2124,8 @@
             "leader_margin_value": 16.90502,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Tillis +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37105",
@@ -2110,7 +2162,8 @@
             "leader_margin_value": 12.42599,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Tillis +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37107",
@@ -2147,7 +2200,8 @@
             "leader_margin_value": 2.18358,
             "leader_margin_display": "R+2",
             "leader_margin_name_display": "Tillis +2",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37109",
@@ -2184,7 +2238,8 @@
             "leader_margin_value": 43.82634,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Tillis +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37113",
@@ -2221,7 +2276,8 @@
             "leader_margin_value": 34.89789,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Tillis +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37115",
@@ -2258,7 +2314,8 @@
             "leader_margin_value": 18.63556,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Tillis +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37117",
@@ -2295,7 +2352,8 @@
             "leader_margin_value": 0.49099,
             "leader_margin_display": "R+0.49",
             "leader_margin_name_display": "Tillis +0.49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37111",
@@ -2332,7 +2390,8 @@
             "leader_margin_value": 43.78599,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Tillis +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37119",
@@ -2369,7 +2428,8 @@
             "leader_margin_value": 29.16122,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Cunningham +29",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37121",
@@ -2406,7 +2466,8 @@
             "leader_margin_value": 53.8582,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Tillis +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37123",
@@ -2443,7 +2504,8 @@
             "leader_margin_value": 26.47244,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Tillis +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37125",
@@ -2480,7 +2542,8 @@
             "leader_margin_value": 27.75539,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Tillis +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37127",
@@ -2517,7 +2580,8 @@
             "leader_margin_value": 1.45486,
             "leader_margin_display": "D+1.5",
             "leader_margin_name_display": "Cunningham +1.5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37129",
@@ -2554,7 +2618,8 @@
             "leader_margin_value": 0.22023,
             "leader_margin_display": "D+0.22",
             "leader_margin_name_display": "Cunningham +0.22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37131",
@@ -2591,7 +2656,8 @@
             "leader_margin_value": 22.82489,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Cunningham +23",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37133",
@@ -2628,7 +2694,8 @@
             "leader_margin_value": 27.42058,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Tillis +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37135",
@@ -2665,7 +2732,8 @@
             "leader_margin_value": 47.73972,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Cunningham +48",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37137",
@@ -2702,7 +2770,8 @@
             "leader_margin_value": 25.16818,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Tillis +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37139",
@@ -2739,7 +2808,8 @@
             "leader_margin_value": 0.35627,
             "leader_margin_display": "R+0.36",
             "leader_margin_name_display": "Tillis +0.36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37141",
@@ -2776,7 +2846,8 @@
             "leader_margin_value": 27.80888,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Tillis +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37143",
@@ -2813,7 +2884,8 @@
             "leader_margin_value": 32.7902,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Tillis +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37145",
@@ -2850,7 +2922,8 @@
             "leader_margin_value": 17.22269,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Tillis +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37147",
@@ -2887,7 +2960,8 @@
             "leader_margin_value": 8.80427,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Cunningham +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37149",
@@ -2924,7 +2998,8 @@
             "leader_margin_value": 24.143,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Tillis +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37151",
@@ -2961,7 +3036,8 @@
             "leader_margin_value": 51.5144,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Tillis +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37153",
@@ -2998,7 +3074,8 @@
             "leader_margin_value": 12.19775,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Tillis +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37155",
@@ -3035,7 +3112,8 @@
             "leader_margin_value": 13.22336,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Tillis +13",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37157",
@@ -3072,7 +3150,8 @@
             "leader_margin_value": 27.01583,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Tillis +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37159",
@@ -3109,7 +3188,8 @@
             "leader_margin_value": 32.75829,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Tillis +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37161",
@@ -3146,7 +3226,8 @@
             "leader_margin_value": 42.44577,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Tillis +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37163",
@@ -3183,7 +3264,8 @@
             "leader_margin_value": 20.10931,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Tillis +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37165",
@@ -3220,7 +3302,8 @@
             "leader_margin_value": 1.49367,
             "leader_margin_display": "R+1.5",
             "leader_margin_name_display": "Tillis +1.5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37167",
@@ -3257,7 +3340,8 @@
             "leader_margin_value": 47.20145,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Tillis +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37169",
@@ -3294,7 +3378,8 @@
             "leader_margin_value": 50.97331,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Tillis +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37171",
@@ -3331,7 +3416,8 @@
             "leader_margin_value": 44.64645,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Tillis +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37173",
@@ -3368,7 +3454,8 @@
             "leader_margin_value": 16.49692,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Tillis +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37175",
@@ -3405,7 +3492,8 @@
             "leader_margin_value": 15.10022,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Tillis +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37177",
@@ -3442,7 +3530,8 @@
             "leader_margin_value": 9.36099,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Tillis +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37179",
@@ -3479,7 +3568,8 @@
             "leader_margin_value": 26.60808,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Tillis +27",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37181",
@@ -3516,7 +3606,8 @@
             "leader_margin_value": 20.99928,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Cunningham +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37183",
@@ -3553,7 +3644,8 @@
             "leader_margin_value": 21.57589,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Cunningham +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37185",
@@ -3590,7 +3682,8 @@
             "leader_margin_value": 28.42249,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Cunningham +28",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37187",
@@ -3627,7 +3720,8 @@
             "leader_margin_value": 12.12368,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Cunningham +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37189",
@@ -3664,7 +3758,8 @@
             "leader_margin_value": 6.20177,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Cunningham +6",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37191",
@@ -3701,7 +3796,8 @@
             "leader_margin_value": 10.27592,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Tillis +10",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37193",
@@ -3738,7 +3834,8 @@
             "leader_margin_value": 49.65073,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Tillis +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37195",
@@ -3775,7 +3872,8 @@
             "leader_margin_value": 4.46166,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Cunningham +4",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "cunninghamc"
           },
           {
             "fips": "37197",
@@ -3812,7 +3910,8 @@
             "leader_margin_value": 54.44152,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Tillis +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           },
           {
             "fips": "37199",
@@ -3849,7 +3948,8 @@
             "leader_margin_value": 28.41312,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Tillis +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "tillist"
           }
         ],
         "edison_certified": false,
@@ -5179,8 +5279,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -5195,12 +5295,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -5213,7 +5313,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -5241,7 +5341,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -5258,7 +5358,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -5275,7 +5375,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -5307,7 +5407,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -5324,7 +5424,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -5341,7 +5441,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -5358,6 +5458,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -5460,9 +5640,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -5830,7 +6010,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -9318,7 +9498,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -13801,9 +13981,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -14118,7 +14298,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -14158,9 +14338,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -14219,7 +14399,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -14915,9 +15095,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -16100,11 +16280,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -16441,9 +16621,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -16520,7 +16700,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -16955,7 +17135,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -16996,7 +17176,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -17119,9 +17299,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -17825,9 +18005,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -17867,8 +18047,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -18156,7 +18336,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -18687,7 +18867,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -18745,7 +18925,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -18863,9 +19043,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -20054,7 +20234,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -20094,7 +20274,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -20478,7 +20658,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -20601,7 +20781,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -21985,8 +22165,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

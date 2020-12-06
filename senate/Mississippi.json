@@ -185,7 +185,8 @@
             "leader_margin_value": 17.67685,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Espy +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28003",
@@ -222,7 +223,8 @@
             "leader_margin_value": 50.97801,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Hyde-Smith +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28005",
@@ -259,7 +261,8 @@
             "leader_margin_value": 22.26715,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Hyde-Smith +22",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28007",
@@ -296,7 +299,8 @@
             "leader_margin_value": 12.05666,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Hyde-Smith +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28009",
@@ -333,7 +337,8 @@
             "leader_margin_value": 10.55582,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Hyde-Smith +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28011",
@@ -370,7 +375,8 @@
             "leader_margin_value": 36.45553,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Espy +36",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28013",
@@ -407,7 +413,8 @@
             "leader_margin_value": 33.41423,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Hyde-Smith +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28015",
@@ -444,7 +451,8 @@
             "leader_margin_value": 31.32972,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Hyde-Smith +31",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28017",
@@ -481,7 +489,8 @@
             "leader_margin_value": 2.70833,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Espy +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28019",
@@ -518,7 +527,8 @@
             "leader_margin_value": 35.42409,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Hyde-Smith +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28021",
@@ -555,7 +565,8 @@
             "leader_margin_value": 74.67142,
             "leader_margin_display": "D+75",
             "leader_margin_name_display": "Espy +75",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28023",
@@ -592,7 +603,8 @@
             "leader_margin_value": 25.34739,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Hyde-Smith +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28025",
@@ -629,7 +641,8 @@
             "leader_margin_value": 21.02758,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Espy +21",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28027",
@@ -666,7 +679,8 @@
             "leader_margin_value": 49.54965,
             "leader_margin_display": "D+50",
             "leader_margin_name_display": "Espy +50",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28029",
@@ -703,7 +717,8 @@
             "leader_margin_value": 5.17228,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Espy +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28031",
@@ -740,7 +755,8 @@
             "leader_margin_value": 20.96568,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Hyde-Smith +21",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28033",
@@ -777,7 +793,8 @@
             "leader_margin_value": 15.84044,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Hyde-Smith +16",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28035",
@@ -814,7 +831,8 @@
             "leader_margin_value": 3.81361,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Hyde-Smith +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28037",
@@ -851,7 +869,8 @@
             "leader_margin_value": 28.29301,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Hyde-Smith +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28039",
@@ -888,7 +907,8 @@
             "leader_margin_value": 63.78868,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Hyde-Smith +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28041",
@@ -925,7 +945,8 @@
             "leader_margin_value": 55.86797,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Hyde-Smith +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28043",
@@ -962,7 +983,8 @@
             "leader_margin_value": 4.8834,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Hyde-Smith +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28045",
@@ -999,7 +1021,8 @@
             "leader_margin_value": 42.80141,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Hyde-Smith +43",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28047",
@@ -1036,7 +1059,8 @@
             "leader_margin_value": 16.90905,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Hyde-Smith +17",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28049",
@@ -1073,7 +1097,8 @@
             "leader_margin_value": 51.76666,
             "leader_margin_display": "D+52",
             "leader_margin_name_display": "Espy +52",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28051",
@@ -1110,7 +1135,8 @@
             "leader_margin_value": 69.04762,
             "leader_margin_display": "D+69",
             "leader_margin_name_display": "Espy +69",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28053",
@@ -1147,7 +1173,8 @@
             "leader_margin_value": 50.4298,
             "leader_margin_display": "D+50",
             "leader_margin_name_display": "Espy +50",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28055",
@@ -1184,7 +1211,8 @@
             "leader_margin_value": 8.5044,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Espy +9",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28057",
@@ -1221,7 +1249,8 @@
             "leader_margin_value": 66.33213,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Hyde-Smith +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28059",
@@ -1258,7 +1287,8 @@
             "leader_margin_value": 26.27326,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Hyde-Smith +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28061",
@@ -1295,7 +1325,8 @@
             "leader_margin_value": 5.1862,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Espy +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28065",
@@ -1332,7 +1363,8 @@
             "leader_margin_value": 21.89616,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Espy +22",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28063",
@@ -1369,7 +1401,8 @@
             "leader_margin_value": 75.38304,
             "leader_margin_display": "D+75",
             "leader_margin_name_display": "Espy +75",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28067",
@@ -1406,7 +1439,8 @@
             "leader_margin_value": 35.00667,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Hyde-Smith +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28069",
@@ -1443,7 +1477,8 @@
             "leader_margin_value": 26.34363,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Espy +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28071",
@@ -1480,7 +1515,8 @@
             "leader_margin_value": 5.65376,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Hyde-Smith +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28073",
@@ -1517,7 +1553,8 @@
             "leader_margin_value": 40.15245,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Hyde-Smith +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28075",
@@ -1554,7 +1591,8 @@
             "leader_margin_value": 11.38517,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Hyde-Smith +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28077",
@@ -1591,7 +1629,8 @@
             "leader_margin_value": 29.52124,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Hyde-Smith +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28079",
@@ -1628,7 +1667,8 @@
             "leader_margin_value": 9.42556,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Hyde-Smith +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28081",
@@ -1665,7 +1705,8 @@
             "leader_margin_value": 25.38551,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Hyde-Smith +25",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28083",
@@ -1702,7 +1743,8 @@
             "leader_margin_value": 46.04383,
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "Espy +46",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28085",
@@ -1739,7 +1781,8 @@
             "leader_margin_value": 36.4188,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Hyde-Smith +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28087",
@@ -1776,7 +1819,8 @@
             "leader_margin_value": 3.05834,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Espy +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28089",
@@ -1813,7 +1857,8 @@
             "leader_margin_value": 8.28817,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Hyde-Smith +8",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28091",
@@ -1850,7 +1895,8 @@
             "leader_margin_value": 29.8909,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Hyde-Smith +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28093",
@@ -1887,7 +1933,8 @@
             "leader_margin_value": 10.73338,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Espy +11",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28095",
@@ -1924,7 +1971,8 @@
             "leader_margin_value": 23.58218,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Hyde-Smith +24",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28097",
@@ -1961,7 +2009,8 @@
             "leader_margin_value": 9.31055,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Hyde-Smith +9",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28099",
@@ -1998,7 +2047,8 @@
             "leader_margin_value": 36.03952,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Hyde-Smith +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28101",
@@ -2035,7 +2085,8 @@
             "leader_margin_value": 33.26093,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Hyde-Smith +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28103",
@@ -2072,7 +2123,8 @@
             "leader_margin_value": 55.46187,
             "leader_margin_display": "D+55",
             "leader_margin_name_display": "Espy +55",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28105",
@@ -2109,7 +2161,8 @@
             "leader_margin_value": 11.5161,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Espy +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28107",
@@ -2146,7 +2199,8 @@
             "leader_margin_value": 3.38245,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "Espy +3",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28109",
@@ -2183,7 +2237,8 @@
             "leader_margin_value": 53.9144,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Hyde-Smith +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28111",
@@ -2220,7 +2275,8 @@
             "leader_margin_value": 44.88309,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Hyde-Smith +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28113",
@@ -2257,7 +2313,8 @@
             "leader_margin_value": 5.78274,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Espy +6",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28115",
@@ -2294,7 +2351,8 @@
             "leader_margin_value": 53.35615,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Hyde-Smith +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28117",
@@ -2331,7 +2389,8 @@
             "leader_margin_value": 46.59706,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Hyde-Smith +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28119",
@@ -2368,7 +2427,8 @@
             "leader_margin_value": 43.97776,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Espy +44",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28121",
@@ -2405,7 +2465,8 @@
             "leader_margin_value": 39.99234,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Hyde-Smith +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28123",
@@ -2442,7 +2503,8 @@
             "leader_margin_value": 11.96199,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Hyde-Smith +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28125",
@@ -2479,7 +2541,8 @@
             "leader_margin_value": 38.88125,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Espy +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28127",
@@ -2516,7 +2579,8 @@
             "leader_margin_value": 26.0296,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Hyde-Smith +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28129",
@@ -2553,7 +2617,8 @@
             "leader_margin_value": 50.84848,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Hyde-Smith +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28131",
@@ -2590,7 +2655,8 @@
             "leader_margin_value": 45.2787,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Hyde-Smith +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28133",
@@ -2627,7 +2693,8 @@
             "leader_margin_value": 45.4001,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Espy +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28135",
@@ -2664,7 +2731,8 @@
             "leader_margin_value": 17.69772,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "Espy +18",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28137",
@@ -2701,7 +2769,8 @@
             "leader_margin_value": 25.91314,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Hyde-Smith +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28139",
@@ -2738,7 +2807,8 @@
             "leader_margin_value": 49.45186,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Hyde-Smith +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28141",
@@ -2775,7 +2845,8 @@
             "leader_margin_value": 61.96407,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Hyde-Smith +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28143",
@@ -2812,7 +2883,8 @@
             "leader_margin_value": 53.26057,
             "leader_margin_display": "D+53",
             "leader_margin_name_display": "Espy +53",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28145",
@@ -2849,7 +2921,8 @@
             "leader_margin_value": 54.61441,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Hyde-Smith +55",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28147",
@@ -2886,7 +2959,8 @@
             "leader_margin_value": 14.27765,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Hyde-Smith +14",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28149",
@@ -2923,7 +2997,8 @@
             "leader_margin_value": 0.85457,
             "leader_margin_display": "D+0.85",
             "leader_margin_name_display": "Espy +0.85",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28151",
@@ -2960,7 +3035,8 @@
             "leader_margin_value": 45.49659,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Espy +45",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28153",
@@ -2997,7 +3073,8 @@
             "leader_margin_value": 20.12491,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Hyde-Smith +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28155",
@@ -3034,7 +3111,8 @@
             "leader_margin_value": 53.28752,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Hyde-Smith +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28157",
@@ -3071,7 +3149,8 @@
             "leader_margin_value": 34.50221,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Espy +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           },
           {
             "fips": "28159",
@@ -3108,7 +3187,8 @@
             "leader_margin_value": 5.86013,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Hyde-Smith +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28161",
@@ -3145,7 +3225,8 @@
             "leader_margin_value": 6.29607,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Hyde-Smith +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "hyde_smithc"
           },
           {
             "fips": "28163",
@@ -3182,7 +3263,8 @@
             "leader_margin_value": 12.00422,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Espy +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "espym"
           }
         ],
         "edison_certified": false,
@@ -5792,8 +5874,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -5808,12 +5890,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -5826,7 +5908,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -5854,7 +5936,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -5871,7 +5953,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -5888,7 +5970,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -5920,7 +6002,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -5937,7 +6019,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -5954,7 +6036,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -5971,6 +6053,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -6073,9 +6235,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -6443,7 +6605,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -9931,7 +10093,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -14414,9 +14576,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -14731,7 +14893,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -14771,9 +14933,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -14832,7 +14994,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -15528,9 +15690,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -16713,11 +16875,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -17054,9 +17216,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -17133,7 +17295,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -17568,7 +17730,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -17609,7 +17771,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -17732,9 +17894,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -18438,9 +18600,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -18480,8 +18642,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -18769,7 +18931,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -19300,7 +19462,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -19358,7 +19520,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -19476,9 +19638,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -20667,7 +20829,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -20707,7 +20869,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -21091,7 +21253,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -21214,7 +21376,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -22598,8 +22760,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }

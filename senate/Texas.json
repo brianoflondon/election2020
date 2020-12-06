@@ -207,7 +207,8 @@
             "leader_margin_value": 58.46791,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48003",
@@ -244,7 +245,8 @@
             "leader_margin_value": 70.94828,
             "leader_margin_display": "R+71",
             "leader_margin_name_display": "Cornyn +71",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48005",
@@ -283,7 +285,8 @@
             "leader_margin_value": 47.12286,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48007",
@@ -320,7 +323,8 @@
             "leader_margin_value": 53.10753,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Cornyn +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48009",
@@ -357,7 +361,8 @@
             "leader_margin_value": 78.55631,
             "leader_margin_display": "R+79",
             "leader_margin_name_display": "Cornyn +79",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48011",
@@ -394,7 +399,8 @@
             "leader_margin_value": 86.88969,
             "leader_margin_display": "R+87",
             "leader_margin_name_display": "Cornyn +87",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48013",
@@ -431,7 +437,8 @@
             "leader_margin_value": 35.30792,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Cornyn +35",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48015",
@@ -468,7 +475,8 @@
             "leader_margin_value": 60.10499,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Cornyn +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48017",
@@ -505,7 +513,8 @@
             "leader_margin_value": 55.81778,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48019",
@@ -542,7 +551,8 @@
             "leader_margin_value": 61.147,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48021",
@@ -579,7 +589,8 @@
             "leader_margin_value": 14.78468,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Cornyn +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48023",
@@ -616,7 +627,8 @@
             "leader_margin_value": 76.57926,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48025",
@@ -653,7 +665,8 @@
             "leader_margin_value": 28.85572,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Cornyn +29",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48027",
@@ -690,7 +703,8 @@
             "leader_margin_value": 11.45198,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Cornyn +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48029",
@@ -727,7 +741,8 @@
             "leader_margin_value": 12.11698,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Hegar +12",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48031",
@@ -764,7 +779,8 @@
             "leader_margin_value": 49.14957,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Cornyn +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48033",
@@ -801,7 +817,8 @@
             "leader_margin_value": 90.51095,
             "leader_margin_display": "R+91",
             "leader_margin_name_display": "Cornyn +91",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48035",
@@ -838,7 +855,8 @@
             "leader_margin_value": 65.02545,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48037",
@@ -875,7 +893,8 @@
             "leader_margin_value": 43.50531,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cornyn +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48039",
@@ -912,7 +931,8 @@
             "leader_margin_value": 20.83045,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Cornyn +21",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48041",
@@ -949,7 +969,8 @@
             "leader_margin_value": 20.49698,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Cornyn +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48043",
@@ -986,7 +1007,8 @@
             "leader_margin_value": 5.99832,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Cornyn +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48045",
@@ -1023,7 +1045,8 @@
             "leader_margin_value": 76.36364,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Cornyn +76",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48047",
@@ -1060,7 +1083,8 @@
             "leader_margin_value": 24.02377,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Hegar +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48049",
@@ -1097,7 +1121,8 @@
             "leader_margin_value": 73.1006,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48051",
@@ -1134,7 +1159,8 @@
             "leader_margin_value": 57.56862,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48053",
@@ -1171,7 +1197,8 @@
             "leader_margin_value": 54.45803,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Cornyn +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48055",
@@ -1208,7 +1235,8 @@
             "leader_margin_value": 10.72774,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Cornyn +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48057",
@@ -1245,7 +1273,8 @@
             "leader_margin_value": 44.40284,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cornyn +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48059",
@@ -1282,7 +1311,8 @@
             "leader_margin_value": 77.57107,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Cornyn +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48061",
@@ -1319,7 +1349,8 @@
             "leader_margin_value": 13.51016,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Hegar +14",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48063",
@@ -1356,7 +1387,8 @@
             "leader_margin_value": 44.44886,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cornyn +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48065",
@@ -1393,7 +1425,8 @@
             "leader_margin_value": 79.42122,
             "leader_margin_display": "R+79",
             "leader_margin_name_display": "Cornyn +79",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48067",
@@ -1430,7 +1463,8 @@
             "leader_margin_value": 58.81416,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48069",
@@ -1467,7 +1501,8 @@
             "leader_margin_value": 55.85497,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48071",
@@ -1506,7 +1541,8 @@
             "leader_margin_value": 62.04198,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48073",
@@ -1543,7 +1579,8 @@
             "leader_margin_value": 56.31887,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48075",
@@ -1580,7 +1617,8 @@
             "leader_margin_value": 73.17397,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48077",
@@ -1619,7 +1657,8 @@
             "leader_margin_value": 75.92202,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Cornyn +76",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48079",
@@ -1656,7 +1695,8 @@
             "leader_margin_value": 59.5092,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Cornyn +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48081",
@@ -1693,7 +1733,8 @@
             "leader_margin_value": 79.01938,
             "leader_margin_display": "R+79",
             "leader_margin_name_display": "Cornyn +79",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48083",
@@ -1730,7 +1771,8 @@
             "leader_margin_value": 77.73678,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Cornyn +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48085",
@@ -1769,7 +1811,8 @@
             "leader_margin_value": 11.64557,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Cornyn +12",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48087",
@@ -1808,7 +1851,8 @@
             "leader_margin_value": 74.41275,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48089",
@@ -1845,7 +1889,8 @@
             "leader_margin_value": 50.61691,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Cornyn +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48091",
@@ -1882,7 +1927,8 @@
             "leader_margin_value": 46.44152,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Cornyn +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48093",
@@ -1919,7 +1965,8 @@
             "leader_margin_value": 70.31979,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48095",
@@ -1956,7 +2003,8 @@
             "leader_margin_value": 67.0409,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Cornyn +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48097",
@@ -1993,7 +2041,8 @@
             "leader_margin_value": 66.30821,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Cornyn +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48099",
@@ -2030,7 +2079,8 @@
             "leader_margin_value": 35.50413,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Cornyn +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48101",
@@ -2067,7 +2117,8 @@
             "leader_margin_value": 64.63415,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48103",
@@ -2104,7 +2155,8 @@
             "leader_margin_value": 66.53144,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Cornyn +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48105",
@@ -2141,7 +2193,8 @@
             "leader_margin_value": 55.72672,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48107",
@@ -2178,7 +2231,8 @@
             "leader_margin_value": 46.25199,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Cornyn +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48109",
@@ -2217,7 +2271,8 @@
             "leader_margin_value": 2.31362,
             "leader_margin_display": "D+2",
             "leader_margin_name_display": "Hegar +2",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48111",
@@ -2254,7 +2309,8 @@
             "leader_margin_value": 73.29154,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48113",
@@ -2293,7 +2349,8 @@
             "leader_margin_value": 25.06688,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Hegar +25",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48115",
@@ -2332,7 +2389,8 @@
             "leader_margin_value": 57.37435,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48123",
@@ -2371,7 +2429,8 @@
             "leader_margin_value": 63.58565,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Cornyn +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48117",
@@ -2408,7 +2467,8 @@
             "leader_margin_value": 46.81227,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48119",
@@ -2445,7 +2505,8 @@
             "leader_margin_value": 68.7056,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48121",
@@ -2484,7 +2545,8 @@
             "leader_margin_value": 14.53035,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Cornyn +15",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48125",
@@ -2521,7 +2583,8 @@
             "leader_margin_value": 70.45929,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48127",
@@ -2560,7 +2623,8 @@
             "leader_margin_value": 24.45213,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Hegar +24",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48129",
@@ -2597,7 +2661,8 @@
             "leader_margin_value": 76.12308,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Cornyn +76",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48131",
@@ -2634,7 +2699,8 @@
             "leader_margin_value": 15.18443,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Hegar +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48133",
@@ -2671,7 +2737,8 @@
             "leader_margin_value": 75.49153,
             "leader_margin_display": "R+75",
             "leader_margin_name_display": "Cornyn +75",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48135",
@@ -2708,7 +2775,8 @@
             "leader_margin_value": 48.26265,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Cornyn +48",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48137",
@@ -2747,7 +2815,8 @@
             "leader_margin_value": 69.13706,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48141",
@@ -2786,7 +2855,8 @@
             "leader_margin_value": 32.73424,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Hegar +33",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48139",
@@ -2823,7 +2893,8 @@
             "leader_margin_value": 36.80732,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Cornyn +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48143",
@@ -2860,7 +2931,8 @@
             "leader_margin_value": 64.98085,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48145",
@@ -2897,7 +2969,8 @@
             "leader_margin_value": 39.24491,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Cornyn +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48147",
@@ -2934,7 +3007,8 @@
             "leader_margin_value": 62.90344,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Cornyn +63",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48149",
@@ -2971,7 +3045,8 @@
             "leader_margin_value": 57.6959,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48151",
@@ -3008,7 +3083,8 @@
             "leader_margin_value": 59.14634,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48153",
@@ -3045,7 +3121,8 @@
             "leader_margin_value": 58.1407,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48155",
@@ -3082,7 +3159,8 @@
             "leader_margin_value": 57.22543,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48157",
@@ -3119,7 +3197,8 @@
             "leader_margin_value": 5.18288,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "Hegar +5",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48159",
@@ -3156,7 +3235,8 @@
             "leader_margin_value": 68.0089,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Cornyn +68",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48161",
@@ -3193,7 +3273,8 @@
             "leader_margin_value": 61.7623,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48163",
@@ -3230,7 +3311,8 @@
             "leader_margin_value": 4.18614,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Cornyn +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48165",
@@ -3267,7 +3349,8 @@
             "leader_margin_value": 79.34028,
             "leader_margin_display": "R+79",
             "leader_margin_name_display": "Cornyn +79",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48167",
@@ -3306,7 +3389,8 @@
             "leader_margin_value": 25.57193,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Cornyn +26",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48169",
@@ -3343,7 +3427,8 @@
             "leader_margin_value": 71.05751,
             "leader_margin_display": "R+71",
             "leader_margin_name_display": "Cornyn +71",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48171",
@@ -3380,7 +3465,8 @@
             "leader_margin_value": 60.5083,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48173",
@@ -3417,7 +3503,8 @@
             "leader_margin_value": 87.9257,
             "leader_margin_display": "R+88",
             "leader_margin_name_display": "Cornyn +88",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48175",
@@ -3456,7 +3543,8 @@
             "leader_margin_value": 55.39882,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Cornyn +55",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48177",
@@ -3493,7 +3581,8 @@
             "leader_margin_value": 50.92961,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Cornyn +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48179",
@@ -3530,7 +3619,8 @@
             "leader_margin_value": 77.1462,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48181",
@@ -3567,7 +3657,8 @@
             "leader_margin_value": 50.52566,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Cornyn +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48183",
@@ -3604,7 +3695,8 @@
             "leader_margin_value": 38.83916,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Cornyn +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48185",
@@ -3641,7 +3733,8 @@
             "leader_margin_value": 54.25662,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Cornyn +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48187",
@@ -3678,7 +3771,8 @@
             "leader_margin_value": 28.07425,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Cornyn +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48189",
@@ -3715,7 +3809,8 @@
             "leader_margin_value": 51.66382,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cornyn +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48191",
@@ -3752,7 +3847,8 @@
             "leader_margin_value": 71.14035,
             "leader_margin_display": "R+71",
             "leader_margin_name_display": "Cornyn +71",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48193",
@@ -3789,7 +3885,8 @@
             "leader_margin_value": 69.6913,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48195",
@@ -3826,7 +3923,8 @@
             "leader_margin_value": 83.13609,
             "leader_margin_display": "R+83",
             "leader_margin_name_display": "Cornyn +83",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48197",
@@ -3863,7 +3961,8 @@
             "leader_margin_value": 69.51768,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48199",
@@ -3900,7 +3999,8 @@
             "leader_margin_value": 73.50278,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48201",
@@ -3939,7 +4039,8 @@
             "leader_margin_value": 8.41919,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Hegar +8",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48203",
@@ -3976,7 +4077,8 @@
             "leader_margin_value": 46.34835,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Cornyn +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48205",
@@ -4013,7 +4115,8 @@
             "leader_margin_value": 81.22587,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48207",
@@ -4050,7 +4153,8 @@
             "leader_margin_value": 66.92625,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Cornyn +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48209",
@@ -4087,7 +4191,8 @@
             "leader_margin_value": 5.5811,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Hegar +6",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48211",
@@ -4126,7 +4231,8 @@
             "leader_margin_value": 74.89663,
             "leader_margin_display": "R+75",
             "leader_margin_name_display": "Cornyn +75",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48213",
@@ -4163,7 +4269,8 @@
             "leader_margin_value": 61.07494,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48215",
@@ -4202,7 +4309,8 @@
             "leader_margin_value": 15.59943,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Hegar +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48217",
@@ -4239,7 +4347,8 @@
             "leader_margin_value": 61.75895,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48219",
@@ -4276,7 +4385,8 @@
             "leader_margin_value": 63.43143,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Cornyn +63",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48221",
@@ -4315,7 +4425,8 @@
             "leader_margin_value": 65.32318,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48223",
@@ -4352,7 +4463,8 @@
             "leader_margin_value": 61.76264,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48225",
@@ -4391,7 +4503,8 @@
             "leader_margin_value": 51.53242,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cornyn +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48227",
@@ -4428,7 +4541,8 @@
             "leader_margin_value": 58.65088,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48229",
@@ -4467,7 +4581,8 @@
             "leader_margin_value": 19.94796,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Cornyn +20",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48231",
@@ -4504,7 +4619,8 @@
             "leader_margin_value": 54.04646,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Cornyn +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48233",
@@ -4541,7 +4657,8 @@
             "leader_margin_value": 76.82127,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48235",
@@ -4578,7 +4695,8 @@
             "leader_margin_value": 73.75,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48237",
@@ -4615,7 +4733,8 @@
             "leader_margin_value": 81.1841,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48239",
@@ -4652,7 +4771,8 @@
             "leader_margin_value": 65.8618,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Cornyn +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48241",
@@ -4689,7 +4809,8 @@
             "leader_margin_value": 61.49496,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48243",
@@ -4726,7 +4847,8 @@
             "leader_margin_value": 22.08398,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Cornyn +22",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48245",
@@ -4763,7 +4885,8 @@
             "leader_margin_value": 3.0305,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Cornyn +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48247",
@@ -4800,7 +4923,8 @@
             "leader_margin_value": 26.24729,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Hegar +26",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48249",
@@ -4837,7 +4961,8 @@
             "leader_margin_value": 7.02866,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Cornyn +7",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48251",
@@ -4874,7 +4999,8 @@
             "leader_margin_value": 54.47434,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Cornyn +54",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48253",
@@ -4911,7 +5037,8 @@
             "leader_margin_value": 69.15874,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48255",
@@ -4948,7 +5075,8 @@
             "leader_margin_value": 52.17135,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cornyn +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48257",
@@ -4985,7 +5113,8 @@
             "leader_margin_value": 35.66913,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Cornyn +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48259",
@@ -5022,7 +5151,8 @@
             "leader_margin_value": 57.77887,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48261",
@@ -5059,7 +5189,8 @@
             "leader_margin_value": 29.5858,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Cornyn +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48263",
@@ -5096,7 +5227,8 @@
             "leader_margin_value": 74.83146,
             "leader_margin_display": "R+75",
             "leader_margin_name_display": "Cornyn +75",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48265",
@@ -5133,7 +5265,8 @@
             "leader_margin_value": 54.73822,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Cornyn +55",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48267",
@@ -5170,7 +5303,8 @@
             "leader_margin_value": 75.81003,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Cornyn +76",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48269",
@@ -5207,7 +5341,8 @@
             "leader_margin_value": 93.50649,
             "leader_margin_display": "R+94",
             "leader_margin_name_display": "Cornyn +94",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48271",
@@ -5246,7 +5381,8 @@
             "leader_margin_value": 44.76127,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Cornyn +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48273",
@@ -5285,7 +5421,8 @@
             "leader_margin_value": 2.87936,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Cornyn +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48275",
@@ -5322,7 +5459,8 @@
             "leader_margin_value": 61.81818,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48283",
@@ -5361,7 +5499,8 @@
             "leader_margin_value": 3.58807,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "Cornyn +4",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48285",
@@ -5400,7 +5539,8 @@
             "leader_margin_value": 72.65843,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48277",
@@ -5437,7 +5577,8 @@
             "leader_margin_value": 57.59066,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Cornyn +58",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48279",
@@ -5474,7 +5615,8 @@
             "leader_margin_value": 61.05769,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48281",
@@ -5511,7 +5653,8 @@
             "leader_margin_value": 59.28364,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48287",
@@ -5548,7 +5691,8 @@
             "leader_margin_value": 56.2998,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48289",
@@ -5585,7 +5729,8 @@
             "leader_margin_value": 74.40642,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48291",
@@ -5624,7 +5769,8 @@
             "leader_margin_value": 58.88173,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48293",
@@ -5661,7 +5807,8 @@
             "leader_margin_value": 50.6747,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Cornyn +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48295",
@@ -5698,7 +5845,8 @@
             "leader_margin_value": 80.36254,
             "leader_margin_display": "R+80",
             "leader_margin_name_display": "Cornyn +80",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48297",
@@ -5735,7 +5883,8 @@
             "leader_margin_value": 66.8942,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Cornyn +67",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48299",
@@ -5772,7 +5921,8 @@
             "leader_margin_value": 61.25754,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48301",
@@ -5809,7 +5959,8 @@
             "leader_margin_value": 80.30303,
             "leader_margin_display": "R+80",
             "leader_margin_name_display": "Cornyn +80",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48303",
@@ -5846,7 +5997,8 @@
             "leader_margin_value": 36.10102,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Cornyn +36",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48305",
@@ -5885,7 +6037,8 @@
             "leader_margin_value": 62.12992,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48313",
@@ -5922,7 +6075,8 @@
             "leader_margin_value": 59.12311,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48315",
@@ -5959,7 +6113,8 @@
             "leader_margin_value": 44.22026,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cornyn +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48317",
@@ -5996,7 +6151,8 @@
             "leader_margin_value": 73.29545,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48319",
@@ -6033,7 +6189,8 @@
             "leader_margin_value": 56.28672,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48321",
@@ -6070,7 +6227,8 @@
             "leader_margin_value": 45.21584,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Cornyn +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48323",
@@ -6109,7 +6267,8 @@
             "leader_margin_value": 15.74417,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Hegar +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48307",
@@ -6146,7 +6305,8 @@
             "leader_margin_value": 70.39882,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48309",
@@ -6183,7 +6343,8 @@
             "leader_margin_value": 27.66889,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Cornyn +28",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48311",
@@ -6220,7 +6381,8 @@
             "leader_margin_value": 82.2,
             "leader_margin_display": "R+82",
             "leader_margin_name_display": "Cornyn +82",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48325",
@@ -6257,7 +6419,8 @@
             "leader_margin_value": 42.26475,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Cornyn +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48327",
@@ -6294,7 +6457,8 @@
             "leader_margin_value": 60.8,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48329",
@@ -6331,7 +6495,8 @@
             "leader_margin_value": 58.63177,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48331",
@@ -6368,7 +6533,8 @@
             "leader_margin_value": 52.04724,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cornyn +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48333",
@@ -6405,7 +6571,8 @@
             "leader_margin_value": 78.16647,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Cornyn +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48335",
@@ -6442,7 +6609,8 @@
             "leader_margin_value": 69.68504,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48337",
@@ -6481,7 +6649,8 @@
             "leader_margin_value": 76.55194,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48339",
@@ -6518,7 +6687,8 @@
             "leader_margin_value": 46.97099,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48341",
@@ -6555,7 +6725,8 @@
             "leader_margin_value": 60.85919,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48343",
@@ -6592,7 +6763,8 @@
             "leader_margin_value": 38.58368,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Cornyn +39",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48345",
@@ -6629,7 +6801,8 @@
             "leader_margin_value": 85.73668,
             "leader_margin_display": "R+86",
             "leader_margin_name_display": "Cornyn +86",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48347",
@@ -6666,7 +6839,8 @@
             "leader_margin_value": 33.52582,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Cornyn +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48349",
@@ -6703,7 +6877,8 @@
             "leader_margin_value": 46.80526,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48351",
@@ -6742,7 +6917,8 @@
             "leader_margin_value": 60.12627,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Cornyn +60",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48353",
@@ -6779,7 +6955,8 @@
             "leader_margin_value": 57.28082,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48355",
@@ -6816,7 +6993,8 @@
             "leader_margin_value": 5.88832,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Cornyn +6",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48357",
@@ -6855,7 +7033,8 @@
             "leader_margin_value": 80.64412,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48359",
@@ -6892,7 +7071,8 @@
             "leader_margin_value": 83.73494,
             "leader_margin_display": "R+84",
             "leader_margin_name_display": "Cornyn +84",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48361",
@@ -6929,7 +7109,8 @@
             "leader_margin_value": 62.9775,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Cornyn +63",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48363",
@@ -6966,7 +7147,8 @@
             "leader_margin_value": 64.65769,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48365",
@@ -7003,7 +7185,8 @@
             "leader_margin_value": 63.10293,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Cornyn +63",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48367",
@@ -7042,7 +7225,8 @@
             "leader_margin_value": 65.92426,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Cornyn +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48369",
@@ -7079,7 +7263,8 @@
             "leader_margin_value": 63.87514,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Cornyn +64",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48371",
@@ -7116,7 +7301,8 @@
             "leader_margin_value": 37.32487,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Cornyn +37",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48373",
@@ -7153,7 +7339,8 @@
             "leader_margin_value": 53.11291,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Cornyn +53",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48375",
@@ -7190,7 +7377,8 @@
             "leader_margin_value": 41.15909,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Cornyn +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48377",
@@ -7229,7 +7417,8 @@
             "leader_margin_value": 34.57676,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Hegar +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48379",
@@ -7266,7 +7455,8 @@
             "leader_margin_value": 71.7092,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Cornyn +72",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48381",
@@ -7303,7 +7493,8 @@
             "leader_margin_value": 61.4124,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48383",
@@ -7340,7 +7531,8 @@
             "leader_margin_value": 69.13003,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48385",
@@ -7377,7 +7569,8 @@
             "leader_margin_value": 69.10779,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48387",
@@ -7414,7 +7607,8 @@
             "leader_margin_value": 56.89114,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48389",
@@ -7451,7 +7645,8 @@
             "leader_margin_value": 18.80093,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "Cornyn +19",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48391",
@@ -7490,7 +7685,8 @@
             "leader_margin_value": 33.07062,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Cornyn +33",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48393",
@@ -7527,7 +7723,8 @@
             "leader_margin_value": 93.76147,
             "leader_margin_display": "R+94",
             "leader_margin_name_display": "Cornyn +94",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48395",
@@ -7564,7 +7761,8 @@
             "leader_margin_value": 41.88783,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Cornyn +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48397",
@@ -7603,7 +7801,8 @@
             "leader_margin_value": 40.24678,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Cornyn +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48399",
@@ -7640,7 +7839,8 @@
             "leader_margin_value": 74.09889,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48401",
@@ -7677,7 +7877,8 @@
             "leader_margin_value": 56.2497,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Cornyn +56",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48403",
@@ -7714,7 +7915,8 @@
             "leader_margin_value": 73.41306,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48405",
@@ -7751,7 +7953,8 @@
             "leader_margin_value": 50.81248,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Cornyn +51",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48407",
@@ -7788,7 +7991,8 @@
             "leader_margin_value": 60.98843,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48409",
@@ -7825,7 +8029,8 @@
             "leader_margin_value": 30.33655,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Cornyn +30",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48411",
@@ -7862,7 +8067,8 @@
             "leader_margin_value": 77.92,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Cornyn +78",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48413",
@@ -7899,7 +8105,8 @@
             "leader_margin_value": 65.01767,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48415",
@@ -7936,7 +8143,8 @@
             "leader_margin_value": 70.13458,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Cornyn +70",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48417",
@@ -7975,7 +8183,8 @@
             "leader_margin_value": 84.62974,
             "leader_margin_display": "R+85",
             "leader_margin_name_display": "Cornyn +85",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48419",
@@ -8012,7 +8221,8 @@
             "leader_margin_value": 58.50681,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48421",
@@ -8051,7 +8261,8 @@
             "leader_margin_value": 81.1359,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48423",
@@ -8088,7 +8299,8 @@
             "leader_margin_value": 41.23601,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Cornyn +41",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48425",
@@ -8125,7 +8337,8 @@
             "leader_margin_value": 68.92276,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48427",
@@ -8162,7 +8375,8 @@
             "leader_margin_value": 15.70169,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Hegar +16",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48429",
@@ -8199,7 +8413,8 @@
             "leader_margin_value": 78.66131,
             "leader_margin_display": "R+79",
             "leader_margin_name_display": "Cornyn +79",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48431",
@@ -8236,7 +8451,8 @@
             "leader_margin_value": 83.73591,
             "leader_margin_display": "R+84",
             "leader_margin_name_display": "Cornyn +84",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48433",
@@ -8273,7 +8489,8 @@
             "leader_margin_value": 64.98599,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48435",
@@ -8312,7 +8529,8 @@
             "leader_margin_value": 58.75817,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48437",
@@ -8349,7 +8567,8 @@
             "leader_margin_value": 57.42019,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48439",
@@ -8388,7 +8607,8 @@
             "leader_margin_value": 4.91586,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Cornyn +5",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48441",
@@ -8425,7 +8645,8 @@
             "leader_margin_value": 49.21713,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Cornyn +49",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48443",
@@ -8464,7 +8685,8 @@
             "leader_margin_value": 46.22222,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Cornyn +46",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48445",
@@ -8501,7 +8723,8 @@
             "leader_margin_value": 57.2361,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Cornyn +57",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48447",
@@ -8538,7 +8761,8 @@
             "leader_margin_value": 81.46453,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48449",
@@ -8575,7 +8799,8 @@
             "leader_margin_value": 45.08481,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Cornyn +45",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48451",
@@ -8614,7 +8839,8 @@
             "leader_margin_value": 46.92906,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48453",
@@ -8653,7 +8879,8 @@
             "leader_margin_value": 38.72811,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Hegar +39",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48455",
@@ -8690,7 +8917,8 @@
             "leader_margin_value": 61.46506,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48457",
@@ -8727,7 +8955,8 @@
             "leader_margin_value": 68.42382,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Cornyn +68",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48459",
@@ -8764,7 +8993,8 @@
             "leader_margin_value": 67.91785,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Cornyn +68",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48461",
@@ -8801,7 +9031,8 @@
             "leader_margin_value": 73.87725,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48463",
@@ -8838,7 +9069,8 @@
             "leader_margin_value": 21.2996,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Cornyn +21",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48465",
@@ -8875,7 +9107,8 @@
             "leader_margin_value": 11.18689,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Cornyn +11",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48467",
@@ -8912,7 +9145,8 @@
             "leader_margin_value": 72.30823,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Cornyn +72",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48469",
@@ -8951,7 +9185,8 @@
             "leader_margin_value": 39.52901,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Cornyn +40",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48471",
@@ -8988,7 +9223,8 @@
             "leader_margin_value": 34.35849,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Cornyn +34",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48473",
@@ -9025,7 +9261,8 @@
             "leader_margin_value": 28.9162,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Cornyn +29",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48475",
@@ -9062,7 +9299,8 @@
             "leader_margin_value": 61.24365,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Cornyn +61",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48477",
@@ -9099,7 +9337,8 @@
             "leader_margin_value": 51.91851,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cornyn +52",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48479",
@@ -9138,7 +9377,8 @@
             "leader_margin_value": 26.61275,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Hegar +27",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48481",
@@ -9175,7 +9415,8 @@
             "leader_margin_value": 44.03995,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cornyn +44",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48483",
@@ -9212,7 +9453,8 @@
             "leader_margin_value": 83.91057,
             "leader_margin_display": "R+84",
             "leader_margin_name_display": "Cornyn +84",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48485",
@@ -9249,7 +9491,8 @@
             "leader_margin_value": 42.46152,
             "leader_margin_display": "R+42",
             "leader_margin_name_display": "Cornyn +42",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48487",
@@ -9286,7 +9529,8 @@
             "leader_margin_value": 58.81421,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Cornyn +59",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48489",
@@ -9323,7 +9567,8 @@
             "leader_margin_value": 14.84213,
             "leader_margin_display": "D+15",
             "leader_margin_name_display": "Hegar +15",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48491",
@@ -9360,7 +9605,8 @@
             "leader_margin_value": 3.03324,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Cornyn +3",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48493",
@@ -9397,7 +9643,8 @@
             "leader_margin_value": 50.14374,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Cornyn +50",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48495",
@@ -9434,7 +9681,8 @@
             "leader_margin_value": 65.71156,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Cornyn +66",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48497",
@@ -9471,7 +9719,8 @@
             "leader_margin_value": 68.7084,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48499",
@@ -9510,7 +9759,8 @@
             "leader_margin_value": 68.71551,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48501",
@@ -9547,7 +9797,8 @@
             "leader_margin_value": 67.94921,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Cornyn +68",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48503",
@@ -9584,7 +9835,8 @@
             "leader_margin_value": 74.316,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
-            "leader_party_id": "republican"
+            "leader_party_id": "republican",
+            "leader_key": "cornynj"
           },
           {
             "fips": "48505",
@@ -9621,7 +9873,8 @@
             "leader_margin_value": 10.86763,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Hegar +11",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           },
           {
             "fips": "48507",
@@ -9658,7 +9911,8 @@
             "leader_margin_value": 35.07762,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Hegar +35",
-            "leader_party_id": "democrat"
+            "leader_party_id": "democrat",
+            "leader_key": "hegarm"
           }
         ],
         "edison_certified": false,
@@ -12968,8 +13222,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76975291,
-            "percent": "50.7",
+            "votes": 77128529,
+            "percent": "50.8",
             "change": -9,
             "flip_count": 3,
             "leader_count": 0,
@@ -12984,12 +13238,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 209,
-            "votes": 72667793,
+            "count": 211,
+            "votes": 72730661,
             "percent": "47.9",
             "change": 10,
             "flip_count": 13,
-            "leader_count": 4,
+            "leader_count": 2,
             "change_full": "Gained 10 seats",
             "change_abbr": "+10",
             "flip_text_full": "Flipped 13 seats",
@@ -13002,7 +13256,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2094910,
+            "votes": 2106174,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -13030,7 +13284,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81237902,
+            "votes": 81284158,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -13047,7 +13301,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74188990,
+            "votes": 74221816,
             "percent": "46.9",
             "change": 0,
             "flip_count": 0,
@@ -13064,7 +13318,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2874524,
+            "votes": 2885437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -13096,7 +13350,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42092353,
+            "votes": 42130061,
             "percent": "47.3",
             "change": 1,
             "flip_count": 2,
@@ -13113,7 +13367,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44066965,
+            "votes": 44096426,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -13130,7 +13384,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907886,
+            "votes": 2914380,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -13147,6 +13401,86 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NY-G-H-1-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-1-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Lee Zeldin, Republican, wins re-election in New York\u2019s First Congressional District.",
+        "winner": {
+          "candidate_id": "zeldin-59740-33-h",
+          "candidate_key": "zeldinl",
+          "first_name": "Lee",
+          "last_name": "Zeldin",
+          "order": 2,
+          "name_display": "Lee Zeldin",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 205715,
+          "percent": 54.8,
+          "percent_display": "54.8",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/zeldin-59740-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Zeldin",
+        "candidate_name_display": "Lee Zeldin",
+        "candidate_id": "zeldin-59740-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-1.html"
+      },
+      {
+        "id": "NY-G-H-2-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NY-G-H-2-2020-11-03",
+        "datetime": 1607100700811,
+        "is_today": false,
+        "text": "Andrew Garbarino, Republican, wins New York\u2019s Second Congressional District.",
+        "winner": {
+          "candidate_id": "garbarino-20073516-33-h",
+          "candidate_key": "garbarinoa",
+          "first_name": "Andrew",
+          "last_name": "Garbarino",
+          "order": 2,
+          "name_display": "Andrew Garbarino",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 177379,
+          "percent": 52.9,
+          "percent_display": "52.9",
+          "electoral_votes": 0,
+          "absentee_votes": 0,
+          "absentee_percent": 0,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garbarino-20073516-33-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garbarino",
+        "candidate_name_display": "Andrew Garbarino",
+        "candidate_id": "garbarino-20073516-33-h",
+        "race_call_party_winner": "republican",
+        "state_name": "New York",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-york-house-district-2.html"
+      },
       {
         "id": "NY-G-H-11-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -13249,9 +13583,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 176934,
-          "percent": 53.9,
-          "percent_display": "53.9",
+          "votes": 182567,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 0,
           "absentee_votes": 20111,
           "absentee_percent": 33.9,
@@ -13619,7 +13953,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474507,
+          "votes": 2473707,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -17107,7 +17441,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3460045,
+          "votes": 3460574,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -21590,9 +21924,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416328,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -21907,7 +22241,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 185733,
+          "votes": 185505,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -21947,9 +22281,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 159014,
-          "percent": 55.9,
-          "percent_display": "55.9",
+          "votes": 197353,
+          "percent": 59.3,
+          "percent_display": "59.3",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -22008,7 +22342,7 @@
           "percent": 51.3,
           "percent_display": "51.3",
           "electoral_votes": 0,
-          "absentee_votes": 99030,
+          "absentee_votes": 99025,
           "absentee_percent": 39.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hinson-20073165-16-h.png",
           "has_image": false,
@@ -22704,9 +23038,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431277,
-          "percent": 52.8,
-          "percent_display": "52.8",
+          "votes": 435072,
+          "percent": 53,
+          "percent_display": "53.0",
           "electoral_votes": 3,
           "absentee_votes": 40796,
           "absentee_percent": 67.9,
@@ -23889,11 +24223,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 897467,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 897672,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 6,
-          "absentee_votes": 410353,
+          "absentee_votes": 410030,
           "absentee_percent": 41.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
@@ -24230,9 +24564,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 184485,
-          "percent": 59.6,
-          "percent_display": "59.6",
+          "votes": 188649,
+          "percent": 58.8,
+          "percent_display": "58.8",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -24309,7 +24643,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 180684,
+          "votes": 180689,
           "percent": 54.5,
           "percent_display": "54.5",
           "electoral_votes": 0,
@@ -24744,7 +25078,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2369437,
+          "votes": 2369612,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -24785,7 +25119,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1340291,
+          "votes": 1340383,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 7,
@@ -24908,9 +25242,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 711507,
-          "percent": 53.5,
-          "percent_display": "53.5",
+          "votes": 727962,
+          "percent": 53.2,
+          "percent_display": "53.2",
           "electoral_votes": 0,
           "absentee_votes": 97258,
           "absentee_percent": 43.8,
@@ -25614,9 +25948,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 752903,
-          "percent": 56.4,
-          "percent_display": "56.4",
+          "votes": 771406,
+          "percent": 56.1,
+          "percent_display": "56.1",
           "electoral_votes": 6,
           "absentee_votes": 101034,
           "absentee_percent": 51.9,
@@ -25656,8 +25990,8 @@
           "runoff": false,
           "winner": true,
           "votes": 169533,
-          "percent": 88.9,
-          "percent_display": "88.9",
+          "percent": 88.7,
+          "percent_display": "88.7",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -25945,7 +26279,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1804196,
+          "votes": 1804352,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -26476,7 +26810,7 @@
           "percent_display": "64.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 64.7,
+          "absentee_percent": 65.3,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -26534,7 +26868,7 @@
           "percent_display": "58.5",
           "electoral_votes": 4,
           "absentee_votes": 54387,
-          "absentee_percent": 41.4,
+          "absentee_percent": 41.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -26652,9 +26986,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 5230985,
-          "percent": 60.8,
-          "percent_display": "60.8",
+          "votes": 5244006,
+          "percent": 60.9,
+          "percent_display": "60.9",
           "electoral_votes": 29,
           "absentee_votes": 258248,
           "absentee_percent": 69.1,
@@ -27843,7 +28177,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289169,
+          "votes": 2289214,
           "percent": 66.1,
           "percent_display": "66.1",
           "electoral_votes": 0,
@@ -27883,7 +28217,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3263455,
+          "votes": 3278301,
           "percent": 54.9,
           "percent_display": "54.9",
           "electoral_votes": 0,
@@ -28267,7 +28601,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3461775,
+          "votes": 3471680,
           "percent": 57.5,
           "percent_display": "57.5",
           "electoral_votes": 20,
@@ -28390,7 +28724,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1441170,
+          "votes": 1441168,
           "percent": 62,
           "percent_display": "62.0",
           "electoral_votes": 9,
@@ -29774,8 +30108,8 @@
     ]
   },
   "meta": {
-    "version": 24252,
+    "version": 137,
     "track": "2020-11-03",
-    "timestamp": "2020-12-04T14:21:45.331Z"
+    "timestamp": "2020-12-06T07:21:59.839Z"
   }
 }
