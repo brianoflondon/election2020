@@ -67,6 +67,27 @@
     },
     {
       "Date": "Dec 09 2020",
+      "Text": "Motion to intervene filed by Donald J. Trump, President of the United States.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "No. 22O155 Original Motion to Intervene.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155327055_No.%2022O155%20Original%20Motion%20to%20Intervene.pdf"
+        },
+        {
+          "Description": "Other",
+          "File": "CERTIFICATE OF COMPLIANCE 22O155 - Trump.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155402805_CERTIFICATE%20OF%20COMPLIANCE%2022O155%20-%20Trump.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Proof of Service.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155417212_Proof%20of%20Service.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 09 2020",
       "Text": "Amicus brief of State of Missouri submitted.",
       "Links": [
         {
@@ -83,27 +104,6 @@
           "Description": "Proof of Service",
           "File": "2020.12.09 Certificate of Service.pdf",
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163215/20201209144914203_2020.12.09%20Certificate%20of%20Service.pdf"
-        }
-      ]
-    },
-    {
-      "Date": "Dec 09 2020",
-      "Text": "Motion to Intervene of Donald J. Trump, President of the United States submitted.",
-      "Links": [
-        {
-          "Description": "Main Document",
-          "File": "No. 22O155 Original Motion to Intervene.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155327055_No.%2022O155%20Original%20Motion%20to%20Intervene.pdf"
-        },
-        {
-          "Description": "Other",
-          "File": "CERTIFICATE OF COMPLIANCE 22O155 - Trump.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155402805_CERTIFICATE%20OF%20COMPLIANCE%2022O155%20-%20Trump.pdf"
-        },
-        {
-          "Description": "Proof of Service",
-          "File": "Proof of Service.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163234/20201209155417212_Proof%20of%20Service.pdf"
         }
       ]
     },
