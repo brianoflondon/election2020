@@ -134,7 +134,7 @@
               "reedj": 0,
               "watersa": 0
             },
-            "last_updated": "2020-11-24T13:21:56Z",
+            "last_updated": "2020-12-11T16:14:56Z",
             "leader_margin_value": 39.87335,
             "leader_margin_display": "D+40",
             "leader_margin_name_display": "Reed +40",
@@ -168,7 +168,7 @@
               "reedj": 0,
               "watersa": 0
             },
-            "last_updated": "2020-11-25T04:36:25Z",
+            "last_updated": "2020-12-11T16:20:08Z",
             "leader_margin_value": 21.67731,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "Reed +22",
@@ -202,7 +202,7 @@
               "reedj": 0,
               "watersa": 0
             },
-            "last_updated": "2020-11-24T19:40:51Z",
+            "last_updated": "2020-12-11T16:16:45Z",
             "leader_margin_value": 38.6628,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Reed +39",
@@ -236,7 +236,7 @@
               "reedj": 0,
               "watersa": 0
             },
-            "last_updated": "2020-11-25T04:36:01Z",
+            "last_updated": "2020-12-11T16:16:11Z",
             "leader_margin_value": 36.59786,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Reed +37",
@@ -270,7 +270,7 @@
               "reedj": 0,
               "watersa": 0
             },
-            "last_updated": "2020-11-24T13:22:09Z",
+            "last_updated": "2020-12-11T16:16:16Z",
             "leader_margin_value": 28.61796,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "Reed +29",
@@ -298,7 +298,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:21:56Z",
+            "last_updated": "2020-12-11T16:14:56Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -327,7 +327,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:35:50Z",
+            "last_updated": "2020-12-11T16:15:03Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -356,7 +356,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:01Z",
+            "last_updated": "2020-12-11T16:15:13Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -385,7 +385,7 @@
             "eevp_value": "86%",
             "eevp_display": "86% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:35:25Z",
+            "last_updated": "2020-12-11T16:15:21Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -414,7 +414,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:02Z",
+            "last_updated": "2020-12-11T16:15:29Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -443,7 +443,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T19:40:52Z",
+            "last_updated": "2020-12-11T16:15:36Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -472,7 +472,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:35:56Z",
+            "last_updated": "2020-12-11T16:15:42Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -501,7 +501,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:37:11Z",
+            "last_updated": "2020-12-11T16:15:51Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -530,7 +530,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:06Z",
+            "last_updated": "2020-12-11T16:16:04Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -559,7 +559,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:01Z",
+            "last_updated": "2020-12-11T16:16:11Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -588,7 +588,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:09Z",
+            "last_updated": "2020-12-11T16:16:16Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -617,7 +617,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:10Z",
+            "last_updated": "2020-12-11T16:16:22Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -646,7 +646,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:10Z",
+            "last_updated": "2020-12-11T16:16:29Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -675,7 +675,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:11Z",
+            "last_updated": "2020-12-11T16:16:38Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -704,7 +704,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T19:40:51Z",
+            "last_updated": "2020-12-11T16:16:45Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -733,7 +733,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:05Z",
+            "last_updated": "2020-12-11T16:16:52Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -762,7 +762,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:51Z",
+            "last_updated": "2020-12-11T16:16:58Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -791,7 +791,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:14Z",
+            "last_updated": "2020-12-11T16:17:07Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -820,7 +820,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:14Z",
+            "last_updated": "2020-12-11T16:17:52Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -849,7 +849,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:15Z",
+            "last_updated": "2020-12-11T16:17:59Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -878,7 +878,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:16Z",
+            "last_updated": "2020-12-11T16:18:16Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -907,7 +907,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:47Z",
+            "last_updated": "2020-12-11T16:18:07Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -936,7 +936,7 @@
             "eevp_value": "98%",
             "eevp_display": "98% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:16Z",
+            "last_updated": "2020-12-11T16:18:39Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -965,7 +965,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:35:40Z",
+            "last_updated": "2020-12-11T16:18:46Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -994,7 +994,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T19:40:49Z",
+            "last_updated": "2020-12-11T16:18:57Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1023,7 +1023,7 @@
             "eevp_value": "92%",
             "eevp_display": "92% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:31Z",
+            "last_updated": "2020-12-11T16:19:05Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1052,7 +1052,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:42Z",
+            "last_updated": "2020-12-11T16:19:12Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1081,7 +1081,7 @@
             "eevp_value": "94%",
             "eevp_display": "94% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:35:34Z",
+            "last_updated": "2020-12-11T16:19:18Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1110,7 +1110,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:23Z",
+            "last_updated": "2020-12-11T16:19:24Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1139,7 +1139,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:24Z",
+            "last_updated": "2020-12-11T16:19:32Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1168,7 +1168,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T19:40:48Z",
+            "last_updated": "2020-12-11T16:19:39Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1197,7 +1197,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:27Z",
+            "last_updated": "2020-12-11T16:19:46Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1226,7 +1226,7 @@
             "eevp_value": "95%",
             "eevp_display": "95% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:38Z",
+            "last_updated": "2020-12-11T16:19:52Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1255,7 +1255,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:31Z",
+            "last_updated": "2020-12-11T16:19:59Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1284,7 +1284,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:25Z",
+            "last_updated": "2020-12-11T16:20:08Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1313,7 +1313,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:33Z",
+            "last_updated": "2020-12-11T16:21:46Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1342,7 +1342,7 @@
             "eevp_value": "97%",
             "eevp_display": "97% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T13:22:34Z",
+            "last_updated": "2020-12-11T16:20:29Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1371,7 +1371,7 @@
             "eevp_value": "96%",
             "eevp_display": "96% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-24T19:40:48Z",
+            "last_updated": "2020-12-11T16:20:15Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1400,7 +1400,7 @@
             "eevp_value": "91%",
             "eevp_display": "91% reported",
             "turnout_stage": 10,
-            "last_updated": "2020-11-25T04:36:13Z",
+            "last_updated": "2020-12-11T16:20:36Z",
             "results_absentee": {
               "reedj": 0,
               "watersa": 0
@@ -1898,7 +1898,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 77523073,
+            "votes": 77532373,
             "percent": "50.8",
             "change": -9,
             "flip_count": 3,
@@ -1915,7 +1915,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 211,
-            "votes": 72831654,
+            "votes": 72835328,
             "percent": "47.7",
             "change": 10,
             "flip_count": 13,
@@ -1932,7 +1932,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2195067,
+            "votes": 2195146,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -1960,7 +1960,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81283670,
+            "votes": 81282896,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -1977,7 +1977,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74222393,
+            "votes": 74222484,
             "percent": "46.8",
             "change": 0,
             "flip_count": 0,
@@ -1994,7 +1994,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2929910,
+            "votes": 2929193,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -2026,8 +2026,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42176693,
-            "percent": "47.3",
+            "votes": 42206320,
+            "percent": "47.2",
             "change": 1,
             "flip_count": 2,
             "leader_count": 0,
@@ -2043,8 +2043,8 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44118211,
-            "percent": "49.5",
+            "votes": 44133429,
+            "percent": "49.4",
             "change": -1,
             "flip_count": 1,
             "leader_count": 0,
@@ -2060,8 +2060,8 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2916364,
-            "percent": "3.3",
+            "votes": 2992861,
+            "percent": "3.4",
             "change": 0,
             "flip_count": 0,
             "leader_count": 0,
@@ -2914,9 +2914,9 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 191065,
-          "percent": 54,
-          "percent_display": "54.0",
+          "votes": 191112,
+          "percent": 53.9,
+          "percent_display": "53.9",
           "electoral_votes": 0,
           "absentee_votes": 80665,
           "absentee_percent": 44.5,
@@ -10617,9 +10617,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416649,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -10684,9 +10684,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 195854,
-          "percent": 52.5,
-          "percent_display": "52.5",
+          "votes": 195849,
+          "percent": 52.6,
+          "percent_display": "52.6",
           "electoral_votes": 0,
           "absentee_votes": 18523,
           "absentee_percent": 70.1,
@@ -11732,11 +11732,11 @@
           "runoff": false,
           "winner": true,
           "votes": 435072,
-          "percent": 53,
-          "percent_display": "53.0",
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 3,
           "absentee_votes": 40796,
-          "absentee_percent": 67.9,
+          "absentee_percent": 68.2,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -14102,7 +14102,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1720568,
+          "votes": 1720202,
           "percent": 57.1,
           "percent_display": "57.1",
           "electoral_votes": 0,
@@ -14199,9 +14199,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1718645,
-          "percent": 56.7,
-          "percent_display": "56.7",
+          "votes": 1718736,
+          "percent": 56.8,
+          "percent_display": "56.8",
           "electoral_votes": 10,
           "absentee_votes": 140954,
           "absentee_percent": 35.4,
@@ -14414,7 +14414,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1385344,
+          "votes": 1392076,
           "percent": 60.1,
           "percent_display": "60.1",
           "electoral_votes": 0,
@@ -15499,11 +15499,11 @@
           "runoff": false,
           "winner": true,
           "votes": 583507,
-          "percent": 64.6,
-          "percent_display": "64.6",
+          "percent": 59.6,
+          "percent_display": "59.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 65.3,
+          "absentee_percent": 66,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -15557,8 +15557,8 @@
           "runoff": false,
           "winner": true,
           "votes": 556846,
-          "percent": 58.5,
-          "percent_display": "58.5",
+          "percent": 58.2,
+          "percent_display": "58.2",
           "electoral_votes": 4,
           "absentee_votes": 54387,
           "absentee_percent": 41.5,
@@ -16870,9 +16870,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2339103,
-          "percent": 66.1,
-          "percent_display": "66.1",
+          "votes": 2357809,
+          "percent": 66.2,
+          "percent_display": "66.2",
           "electoral_votes": 0,
           "absentee_votes": 74745,
           "absentee_percent": 66.8,
@@ -17340,7 +17340,7 @@
           "percent_display": "59.2",
           "electoral_votes": 7,
           "absentee_votes": 45874,
-          "absentee_percent": 75,
+          "absentee_percent": 75.1,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -18801,8 +18801,8 @@
     ]
   },
   "meta": {
-    "version": 24728,
+    "version": 24858,
     "track": "2020-11-03",
-    "timestamp": "2020-12-09T03:41:35.480Z"
+    "timestamp": "2020-12-11T20:46:30.955Z"
   }
 }

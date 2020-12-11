@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 952271,
+        "votes": 956379,
         "electoral_votes": 5,
         "electoral_vote_details": [
           {
@@ -68,7 +68,7 @@
             "winning_candidate_id": "trumpd"
           }
         ],
-        "absentee_votes": 131051,
+        "absentee_votes": 130950,
         "absentee_counties": 10,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
@@ -92,7 +92,7 @@
         "county_data_source": "edison",
         "congressional_districts": [
           {
-            "votes": 320059,
+            "votes": 321689,
             "name": "District 1",
             "reporting": 463,
             "precincts": 463,
@@ -100,11 +100,11 @@
               "jorgensenj": 7495,
               "trumpd": 180290,
               "bidenj": 132261,
-              "write_ins": 13
+              "write_ins": 1643
             }
           },
           {
-            "votes": 337754,
+            "votes": 339666,
             "name": "District 2",
             "reporting": 270,
             "precincts": 270,
@@ -112,11 +112,11 @@
               "jorgensenj": 6909,
               "trumpd": 154377,
               "bidenj": 176468,
-              "write_ins": 0
+              "write_ins": 1912
             }
           },
           {
-            "votes": 293938,
+            "votes": 294816,
             "name": "District 3",
             "reporting": 703,
             "precincts": 703,
@@ -124,13 +124,13 @@
               "jorgensenj": 5879,
               "trumpd": 222179,
               "bidenj": 65854,
-              "write_ins": 26
+              "write_ins": 904
             }
           }
         ],
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-12-06T04:26:28Z",
+        "last_updated": "2020-12-10T20:50:02Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -144,8 +144,8 @@
             "runoff": false,
             "winner": true,
             "votes": 556846,
-            "percent": 58.5,
-            "percent_display": "58.5",
+            "percent": 58.2,
+            "percent_display": "58.2",
             "electoral_votes": 4,
             "absentee_votes": 54387,
             "absentee_percent": 41.5,
@@ -166,11 +166,11 @@
             "runoff": false,
             "winner": false,
             "votes": 374583,
-            "percent": 39.3,
-            "percent_display": "39.3",
+            "percent": 39.2,
+            "percent_display": "39.2",
             "electoral_votes": 1,
             "absentee_votes": 73954,
-            "absentee_percent": 56.4,
+            "absentee_percent": 56.5,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
             "has_image": true,
             "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -208,19 +208,19 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 559,
-            "percent": 0.1,
-            "percent_display": "0.1",
+            "votes": 4667,
+            "percent": 0.5,
+            "percent_display": "0.5",
             "electoral_votes": 0,
-            "absentee_votes": 108,
-            "absentee_percent": 0.1,
+            "absentee_votes": 7,
+            "absentee_percent": 0,
             "img_url": null,
             "has_image": false,
             "link": ""
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 19.13982,
+        "leader_margin_value": 19.05761,
         "leader_margin_votes": 182263,
         "leader_margin_display": "R+19",
         "leader_margin_name_display": "Trump +19",
@@ -229,7 +229,7 @@
           {
             "fips": "31001",
             "name": "Adams",
-            "votes": 14602,
+            "votes": 14653,
             "absentee_votes": 6766,
             "reporting": 29,
             "precincts": 29,
@@ -249,7 +249,7 @@
               "trumpd": 10085,
               "bidenj": 4213,
               "jorgensenj": 304,
-              "write-ins": 0
+              "write-ins": 51
             },
             "results_absentee": {
               "trumpd": 3669,
@@ -257,13 +257,13 @@
               "jorgensenj": 152,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:17:48Z",
-            "leader_margin_value": 40.21367,
+            "last_updated": "2020-12-11T15:21:50Z",
+            "leader_margin_value": 40.07371,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Trump +40",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 40.21367,
+            "margin2020": 40.07371,
             "votes2016": 13513,
             "margin2016": 44.3,
             "votes2012": 12670,
@@ -300,7 +300,7 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:10Z",
+            "last_updated": "2020-12-11T15:21:59Z",
             "leader_margin_value": 73.70918,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Trump +74",
@@ -315,7 +315,7 @@
           {
             "fips": "31005",
             "name": "Arthur",
-            "votes": 284,
+            "votes": 285,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
@@ -334,20 +334,22 @@
             "results": {
               "trumpd": 260,
               "bidenj": 21,
-              "jorgensenj": 3
+              "jorgensenj": 3,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:10Z",
-            "leader_margin_value": 84.15493,
+            "last_updated": "2020-12-11T15:22:30Z",
+            "leader_margin_value": 83.85965,
             "leader_margin_display": "R+84",
             "leader_margin_name_display": "Trump +84",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 84.15493,
+            "margin2020": 83.85965,
             "votes2016": 273,
             "margin2016": 83.2,
             "votes2012": 262,
@@ -356,7 +358,7 @@
           {
             "fips": "31007",
             "name": "Banner",
-            "votes": 410,
+            "votes": 411,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
@@ -375,20 +377,22 @@
             "results": {
               "trumpd": 362,
               "bidenj": 43,
-              "jorgensenj": 5
+              "jorgensenj": 5,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:11Z",
-            "leader_margin_value": 77.80488,
+            "last_updated": "2020-12-11T15:22:39Z",
+            "leader_margin_value": 77.61557,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Trump +78",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 77.80488,
+            "margin2020": 77.61557,
             "votes2016": 402,
             "margin2016": 84.1,
             "votes2012": 411,
@@ -408,7 +412,7 @@
             "eevp_display": "100% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 230,
             "provisional_outstanding": null,
@@ -416,14 +420,16 @@
             "results": {
               "trumpd": 280,
               "bidenj": 35,
-              "jorgensenj": 2
+              "jorgensenj": 2,
+              "write-ins": 0
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:36:25Z",
+            "last_updated": "2020-12-11T15:22:49Z",
             "leader_margin_value": 77.28707,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Trump +77",
@@ -438,7 +444,7 @@
           {
             "fips": "31011",
             "name": "Boone",
-            "votes": 3217,
+            "votes": 3226,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -458,7 +464,7 @@
               "trumpd": 2653,
               "bidenj": 499,
               "jorgensenj": 65,
-              "write-ins": 0
+              "write-ins": 9
             },
             "results_absentee": {
               "trumpd": 0,
@@ -466,13 +472,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:00Z",
-            "leader_margin_value": 66.95679,
+            "last_updated": "2020-12-11T15:23:00Z",
+            "leader_margin_value": 66.76999,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Trump +67",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 66.95679,
+            "margin2020": 66.76999,
             "votes2016": 2905,
             "margin2016": 64.9,
             "votes2012": 2806,
@@ -481,7 +487,7 @@
           {
             "fips": "31013",
             "name": "Box Butte",
-            "votes": 5181,
+            "votes": 5200,
             "absentee_votes": 0,
             "reporting": 10,
             "precincts": 10,
@@ -501,7 +507,7 @@
               "trumpd": 4002,
               "bidenj": 1051,
               "jorgensenj": 128,
-              "write-ins": 0
+              "write-ins": 19
             },
             "results_absentee": {
               "trumpd": 0,
@@ -509,13 +515,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:53Z",
-            "leader_margin_value": 56.95812,
+            "last_updated": "2020-12-11T15:23:13Z",
+            "leader_margin_value": 56.75,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Trump +57",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 56.95812,
+            "margin2020": 56.75,
             "votes2016": 4924,
             "margin2016": 53.9,
             "votes2012": 4705,
@@ -524,7 +530,7 @@
           {
             "fips": "31015",
             "name": "Boyd",
-            "votes": 1153,
+            "votes": 1155,
             "absentee_votes": 0,
             "reporting": 4,
             "precincts": 4,
@@ -544,7 +550,7 @@
               "trumpd": 1010,
               "bidenj": 135,
               "jorgensenj": 8,
-              "write-ins": 0
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
@@ -552,13 +558,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:26:28Z",
-            "leader_margin_value": 75.88899,
+            "last_updated": "2020-12-11T15:23:24Z",
+            "leader_margin_value": 75.75758,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Trump +76",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 75.88899,
+            "margin2020": 75.75758,
             "votes2016": 1156,
             "margin2016": 74,
             "votes2012": 1071,
@@ -567,7 +573,7 @@
           {
             "fips": "31017",
             "name": "Brown",
-            "votes": 1679,
+            "votes": 1684,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -587,7 +593,7 @@
               "trumpd": 1470,
               "bidenj": 191,
               "jorgensenj": 18,
-              "write-ins": 0
+              "write-ins": 5
             },
             "results_absentee": {
               "trumpd": 0,
@@ -595,13 +601,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:45Z",
-            "leader_margin_value": 76.1763,
+            "last_updated": "2020-12-11T15:23:34Z",
+            "leader_margin_value": 75.95012,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Trump +76",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 76.1763,
+            "margin2020": 75.95012,
             "votes2016": 1597,
             "margin2016": 77.1,
             "votes2012": 1555,
@@ -610,7 +616,7 @@
           {
             "fips": "31019",
             "name": "Buffalo",
-            "votes": 23589,
+            "votes": 23711,
             "absentee_votes": 9661,
             "reporting": 29,
             "precincts": 29,
@@ -629,20 +635,22 @@
             "results": {
               "trumpd": 16640,
               "bidenj": 6350,
-              "jorgensenj": 599
+              "jorgensenj": 599,
+              "write-ins": 122
             },
             "results_absentee": {
               "trumpd": 5464,
               "bidenj": 3990,
-              "jorgensenj": 207
+              "jorgensenj": 207,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:25:22Z",
-            "leader_margin_value": 43.62203,
-            "leader_margin_display": "R+44",
-            "leader_margin_name_display": "Trump +44",
+            "last_updated": "2020-12-11T15:23:45Z",
+            "leader_margin_value": 43.39758,
+            "leader_margin_display": "R+43",
+            "leader_margin_name_display": "Trump +43",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 43.62203,
+            "margin2020": 43.39758,
             "votes2016": 21129,
             "margin2016": 46.4,
             "votes2012": 19453,
@@ -651,7 +659,7 @@
           {
             "fips": "31021",
             "name": "Burt",
-            "votes": 3731,
+            "votes": 3739,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -670,20 +678,22 @@
             "results": {
               "trumpd": 2580,
               "bidenj": 1063,
-              "jorgensenj": 88
+              "jorgensenj": 88,
+              "write-ins": 8
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:53Z",
-            "leader_margin_value": 40.65934,
+            "last_updated": "2020-12-11T15:23:59Z",
+            "leader_margin_value": 40.57235,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Trump +41",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 40.65934,
+            "margin2020": 40.57235,
             "votes2016": 3558,
             "margin2016": 40.4,
             "votes2012": 3375,
@@ -692,7 +702,7 @@
           {
             "fips": "31023",
             "name": "Butler",
-            "votes": 4498,
+            "votes": 4518,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -711,20 +721,22 @@
             "results": {
               "trumpd": 3542,
               "bidenj": 873,
-              "jorgensenj": 83
+              "jorgensenj": 83,
+              "write-ins": 20
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:53Z",
-            "leader_margin_value": 59.33748,
+            "last_updated": "2020-12-11T15:24:06Z",
+            "leader_margin_value": 59.07481,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Trump +59",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 59.33748,
+            "margin2020": 59.07481,
             "votes2016": 3981,
             "margin2016": 60,
             "votes2012": 3859,
@@ -733,7 +745,7 @@
           {
             "fips": "31025",
             "name": "Cass",
-            "votes": 15284,
+            "votes": 15326,
             "absentee_votes": 5865,
             "reporting": 30,
             "precincts": 30,
@@ -752,20 +764,22 @@
             "results": {
               "trumpd": 10121,
               "bidenj": 4737,
-              "jorgensenj": 426
+              "jorgensenj": 426,
+              "write-ins": 42
             },
             "results_absentee": {
               "trumpd": 3012,
               "bidenj": 2703,
-              "jorgensenj": 150
+              "jorgensenj": 150,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:54Z",
-            "leader_margin_value": 35.22638,
+            "last_updated": "2020-12-11T15:24:18Z",
+            "leader_margin_value": 35.12984,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Trump +35",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 35.22638,
+            "margin2020": 35.12984,
             "votes2016": 12933,
             "margin2016": 38.4,
             "votes2012": 12180,
@@ -774,7 +788,7 @@
           {
             "fips": "31027",
             "name": "Cedar",
-            "votes": 4996,
+            "votes": 5015,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 13,
@@ -794,7 +808,7 @@
               "trumpd": 4174,
               "bidenj": 725,
               "jorgensenj": 97,
-              "write-ins": 0
+              "write-ins": 19
             },
             "results_absentee": {
               "trumpd": 0,
@@ -802,13 +816,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:32Z",
-            "leader_margin_value": 69.03523,
+            "last_updated": "2020-12-11T15:24:25Z",
+            "leader_margin_value": 68.77368,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Trump +69",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 69.03523,
+            "margin2020": 68.77368,
             "votes2016": 4420,
             "margin2016": 67,
             "votes2012": 4334,
@@ -817,7 +831,7 @@
           {
             "fips": "31029",
             "name": "Chase",
-            "votes": 1993,
+            "votes": 2000,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
@@ -837,7 +851,7 @@
               "trumpd": 1740,
               "bidenj": 226,
               "jorgensenj": 27,
-              "write-ins": 0
+              "write-ins": 7
             },
             "results_absentee": {
               "trumpd": 0,
@@ -845,13 +859,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:45Z",
-            "leader_margin_value": 75.96588,
+            "last_updated": "2020-12-11T15:24:33Z",
+            "leader_margin_value": 75.7,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Trump +76",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 75.96588,
+            "margin2020": 75.7,
             "votes2016": 1898,
             "margin2016": 77.8,
             "votes2012": 1867,
@@ -860,7 +874,7 @@
           {
             "fips": "31031",
             "name": "Cherry",
-            "votes": 3265,
+            "votes": 3269,
             "absentee_votes": 0,
             "reporting": 20,
             "precincts": 20,
@@ -880,7 +894,7 @@
               "trumpd": 2844,
               "bidenj": 373,
               "jorgensenj": 48,
-              "write-ins": 0
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
@@ -888,13 +902,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:14Z",
-            "leader_margin_value": 75.68147,
+            "last_updated": "2020-12-11T15:24:41Z",
+            "leader_margin_value": 75.58887,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Trump +76",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 75.68147,
+            "margin2020": 75.58887,
             "votes2016": 3118,
             "margin2016": 74,
             "votes2012": 3064,
@@ -903,7 +917,7 @@
           {
             "fips": "31033",
             "name": "Cheyenne",
-            "votes": 4765,
+            "votes": 4776,
             "absentee_votes": 0,
             "reporting": 10,
             "precincts": 10,
@@ -923,7 +937,7 @@
               "trumpd": 3813,
               "bidenj": 855,
               "jorgensenj": 97,
-              "write-ins": 0
+              "write-ins": 11
             },
             "results_absentee": {
               "trumpd": 0,
@@ -931,13 +945,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:19:01Z",
-            "leader_margin_value": 62.07765,
+            "last_updated": "2020-12-11T15:24:50Z",
+            "leader_margin_value": 61.93467,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Trump +62",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 62.07765,
+            "margin2020": 61.93467,
             "votes2016": 4711,
             "margin2016": 62.7,
             "votes2012": 4649,
@@ -946,7 +960,7 @@
           {
             "fips": "31035",
             "name": "Clay",
-            "votes": 3558,
+            "votes": 3570,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -965,20 +979,22 @@
             "results": {
               "trumpd": 2848,
               "bidenj": 632,
-              "jorgensenj": 78
+              "jorgensenj": 78,
+              "write-ins": 12
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:01Z",
-            "leader_margin_value": 62.28218,
+            "last_updated": "2020-12-11T15:24:58Z",
+            "leader_margin_value": 62.07283,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Trump +62",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 62.28218,
+            "margin2020": 62.07283,
             "votes2016": 3065,
             "margin2016": 63.5,
             "votes2012": 2947,
@@ -1015,7 +1031,7 @@
               "jorgensenj": 28,
               "write-ins": 7
             },
-            "last_updated": "2020-11-25T03:26:06Z",
+            "last_updated": "2020-12-11T15:25:06Z",
             "leader_margin_value": 43.23671,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Trump +43",
@@ -1030,7 +1046,7 @@
           {
             "fips": "31039",
             "name": "Cuming",
-            "votes": 4451,
+            "votes": 4459,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
@@ -1050,7 +1066,7 @@
               "trumpd": 3507,
               "bidenj": 870,
               "jorgensenj": 74,
-              "write-ins": 0
+              "write-ins": 8
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1058,13 +1074,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:22Z",
-            "leader_margin_value": 59.24511,
+            "last_updated": "2020-12-11T15:25:13Z",
+            "leader_margin_value": 59.13882,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Trump +59",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 59.24511,
+            "margin2020": 59.13882,
             "votes2016": 4074,
             "margin2016": 59,
             "votes2012": 3976,
@@ -1073,7 +1089,7 @@
           {
             "fips": "31041",
             "name": "Custer",
-            "votes": 5993,
+            "votes": 6010,
             "absentee_votes": 0,
             "reporting": 30,
             "precincts": 30,
@@ -1093,7 +1109,7 @@
               "trumpd": 5090,
               "bidenj": 786,
               "jorgensenj": 117,
-              "write-ins": 0
+              "write-ins": 17
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1101,13 +1117,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:17:32Z",
-            "leader_margin_value": 71.81712,
+            "last_updated": "2020-12-11T15:25:23Z",
+            "leader_margin_value": 71.61398,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Trump +72",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 71.81712,
+            "margin2020": 71.61398,
             "votes2016": 5652,
             "margin2016": 71.7,
             "votes2012": 5498,
@@ -1116,7 +1132,7 @@
           {
             "fips": "31043",
             "name": "Dakota",
-            "votes": 6794,
+            "votes": 6817,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 14,
@@ -1136,7 +1152,7 @@
               "trumpd": 3926,
               "bidenj": 2744,
               "jorgensenj": 124,
-              "write-ins": 0
+              "write-ins": 23
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1144,13 +1160,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:17Z",
-            "leader_margin_value": 17.3977,
+            "last_updated": "2020-12-11T15:25:34Z",
+            "leader_margin_value": 17.33901,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Trump +17",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 17.3977,
+            "margin2020": 17.33901,
             "votes2016": 6279,
             "margin2016": 20.7,
             "votes2012": 6136,
@@ -1159,7 +1175,7 @@
           {
             "fips": "31045",
             "name": "Dawes",
-            "votes": 4121,
+            "votes": 4151,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -1179,7 +1195,7 @@
               "trumpd": 2931,
               "bidenj": 1082,
               "jorgensenj": 108,
-              "write-ins": 0
+              "write-ins": 30
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1187,13 +1203,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:06Z",
-            "leader_margin_value": 44.86775,
+            "last_updated": "2020-12-11T15:25:42Z",
+            "leader_margin_value": 44.54348,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Trump +45",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 44.86775,
+            "margin2020": 44.54348,
             "votes2016": 3676,
             "margin2016": 49.8,
             "votes2012": 3728,
@@ -1202,7 +1218,7 @@
           {
             "fips": "31047",
             "name": "Dawson",
-            "votes": 9178,
+            "votes": 9191,
             "absentee_votes": 3382,
             "reporting": 21,
             "precincts": 21,
@@ -1222,7 +1238,7 @@
               "trumpd": 6524,
               "bidenj": 2497,
               "jorgensenj": 157,
-              "write-ins": 0
+              "write-ins": 13
             },
             "results_absentee": {
               "trumpd": 1982,
@@ -1230,13 +1246,13 @@
               "jorgensenj": 72,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:05Z",
-            "leader_margin_value": 43.87666,
+            "last_updated": "2020-12-11T15:26:21Z",
+            "leader_margin_value": 43.8146,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Trump +44",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 43.87666,
+            "margin2020": 43.8146,
             "votes2016": 8635,
             "margin2016": 44.6,
             "votes2012": 7859,
@@ -1245,7 +1261,7 @@
           {
             "fips": "31049",
             "name": "Deuel",
-            "votes": 1032,
+            "votes": 1034,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -1256,7 +1272,7 @@
             "eevp_display": "100% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 274,
             "provisional_outstanding": null,
@@ -1265,7 +1281,7 @@
               "trumpd": 871,
               "bidenj": 141,
               "jorgensenj": 20,
-              "write-ins": 0
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1273,13 +1289,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-08T18:47:56Z",
-            "leader_margin_value": 70.73643,
+            "last_updated": "2020-12-11T15:26:33Z",
+            "leader_margin_value": 70.59961,
             "leader_margin_display": "R+71",
             "leader_margin_name_display": "Trump +71",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 70.73643,
+            "margin2020": 70.59961,
             "votes2016": 984,
             "margin2016": 70,
             "votes2012": 1017,
@@ -1288,7 +1304,7 @@
           {
             "fips": "31051",
             "name": "Dixon",
-            "votes": 3083,
+            "votes": 3094,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 13,
@@ -1308,7 +1324,7 @@
               "trumpd": 2335,
               "bidenj": 651,
               "jorgensenj": 97,
-              "write-ins": 0
+              "write-ins": 11
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1316,13 +1332,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:45Z",
-            "leader_margin_value": 54.62212,
-            "leader_margin_display": "R+55",
-            "leader_margin_name_display": "Trump +55",
+            "last_updated": "2020-12-11T15:26:42Z",
+            "leader_margin_value": 54.42793,
+            "leader_margin_display": "R+54",
+            "leader_margin_name_display": "Trump +54",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 54.62212,
+            "margin2020": 54.42793,
             "votes2016": 2782,
             "margin2016": 53.4,
             "votes2012": 2686,
@@ -1331,7 +1347,7 @@
           {
             "fips": "31053",
             "name": "Dodge",
-            "votes": 16876,
+            "votes": 16938,
             "absentee_votes": 0,
             "reporting": 34,
             "precincts": 34,
@@ -1351,7 +1367,7 @@
               "trumpd": 10984,
               "bidenj": 5544,
               "jorgensenj": 348,
-              "write-ins": 0
+              "write-ins": 62
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1359,13 +1375,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:17:26Z",
-            "leader_margin_value": 32.23513,
+            "last_updated": "2020-12-11T15:26:56Z",
+            "leader_margin_value": 32.11713,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Trump +32",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 32.23513,
+            "margin2020": 32.11713,
             "votes2016": 15529,
             "margin2016": 34.7,
             "votes2012": 14950,
@@ -1374,7 +1390,7 @@
           {
             "fips": "31055",
             "name": "Douglas",
-            "votes": 274951,
+            "votes": 276540,
             "absentee_votes": 0,
             "reporting": 237,
             "precincts": 237,
@@ -1394,7 +1410,7 @@
               "trumpd": 119159,
               "bidenj": 150350,
               "jorgensenj": 5442,
-              "write-ins": 0
+              "write-ins": 1589
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1402,13 +1418,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:23:02Z",
-            "leader_margin_value": 11.3442,
+            "last_updated": "2020-12-11T15:27:14Z",
+            "leader_margin_value": 11.27902,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Biden +11",
             "leader_party_id": "democrat",
             "leader_key": "bidenj",
-            "margin2020": -11.3442,
+            "margin2020": -11.27902,
             "votes2016": 240433,
             "margin2016": -2.4,
             "votes2012": 223927,
@@ -1417,7 +1433,7 @@
           {
             "fips": "31057",
             "name": "Dundy",
-            "votes": 999,
+            "votes": 1003,
             "absentee_votes": 0,
             "reporting": 4,
             "precincts": 4,
@@ -1436,20 +1452,22 @@
             "results": {
               "trumpd": 883,
               "bidenj": 105,
-              "jorgensenj": 11
+              "jorgensenj": 11,
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:13Z",
-            "leader_margin_value": 77.87788,
+            "last_updated": "2020-12-11T15:27:23Z",
+            "leader_margin_value": 77.5673,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Trump +78",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 77.87788,
+            "margin2020": 77.5673,
             "votes2016": 953,
             "margin2016": 77,
             "votes2012": 985,
@@ -1458,7 +1476,7 @@
           {
             "fips": "31059",
             "name": "Fillmore",
-            "votes": 3134,
+            "votes": 3148,
             "absentee_votes": 0,
             "reporting": 10,
             "precincts": 10,
@@ -1478,7 +1496,7 @@
               "trumpd": 2359,
               "bidenj": 693,
               "jorgensenj": 82,
-              "write-ins": 0
+              "write-ins": 14
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1486,13 +1504,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:51Z",
-            "leader_margin_value": 53.1589,
+            "last_updated": "2020-12-11T15:27:33Z",
+            "leader_margin_value": 52.92249,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Trump +53",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 53.1589,
+            "margin2020": 52.92249,
             "votes2016": 2941,
             "margin2016": 51.6,
             "votes2012": 2879,
@@ -1501,7 +1519,7 @@
           {
             "fips": "31061",
             "name": "Franklin",
-            "votes": 1724,
+            "votes": 1728,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 5,
@@ -1521,7 +1539,7 @@
               "trumpd": 1437,
               "bidenj": 276,
               "jorgensenj": 11,
-              "write-ins": 0
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1529,13 +1547,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:26:09Z",
-            "leader_margin_value": 67.34339,
+            "last_updated": "2020-12-11T15:27:50Z",
+            "leader_margin_value": 67.1875,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Trump +67",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 67.34339,
+            "margin2020": 67.1875,
             "votes2016": 1673,
             "margin2016": 65.6,
             "votes2012": 1536,
@@ -1544,7 +1562,7 @@
           {
             "fips": "31063",
             "name": "Frontier",
-            "votes": 1440,
+            "votes": 1446,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 5,
@@ -1563,20 +1581,22 @@
             "results": {
               "trumpd": 1229,
               "bidenj": 189,
-              "jorgensenj": 22
+              "jorgensenj": 22,
+              "write-ins": 6
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:15Z",
-            "leader_margin_value": 72.22222,
+            "last_updated": "2020-12-11T15:27:58Z",
+            "leader_margin_value": 71.92254,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Trump +72",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 72.22222,
+            "margin2020": 71.92254,
             "votes2016": 1328,
             "margin2016": 71.5,
             "votes2012": 1305,
@@ -1585,7 +1605,7 @@
           {
             "fips": "31065",
             "name": "Furnas",
-            "votes": 2601,
+            "votes": 2602,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
@@ -1604,20 +1624,22 @@
             "results": {
               "trumpd": 2163,
               "bidenj": 399,
-              "jorgensenj": 39
+              "jorgensenj": 39,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:16Z",
-            "leader_margin_value": 67.82007,
+            "last_updated": "2020-12-11T15:28:11Z",
+            "leader_margin_value": 67.794,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Trump +68",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 67.82007,
+            "margin2020": 67.794,
             "votes2016": 2340,
             "margin2016": 69.1,
             "votes2012": 2240,
@@ -1626,7 +1648,7 @@
           {
             "fips": "31067",
             "name": "Gage",
-            "votes": 11068,
+            "votes": 11119,
             "absentee_votes": 0,
             "reporting": 11,
             "precincts": 11,
@@ -1646,7 +1668,7 @@
               "trumpd": 7445,
               "bidenj": 3385,
               "jorgensenj": 238,
-              "write-ins": 0
+              "write-ins": 51
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1654,13 +1676,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:38Z",
-            "leader_margin_value": 36.68233,
+            "last_updated": "2020-12-11T15:28:25Z",
+            "leader_margin_value": 36.51408,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Trump +37",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 36.68233,
+            "margin2020": 36.51408,
             "votes2016": 10048,
             "margin2016": 34.3,
             "votes2012": 9661,
@@ -1669,7 +1691,7 @@
           {
             "fips": "31069",
             "name": "Garden",
-            "votes": 1195,
+            "votes": 1200,
             "absentee_votes": 0,
             "reporting": 1,
             "precincts": 1,
@@ -1688,20 +1710,22 @@
             "results": {
               "trumpd": 1016,
               "bidenj": 161,
-              "jorgensenj": 18
+              "jorgensenj": 18,
+              "write-ins": 5
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:18Z",
-            "leader_margin_value": 71.54812,
-            "leader_margin_display": "R+72",
-            "leader_margin_name_display": "Trump +72",
+            "last_updated": "2020-12-11T15:28:33Z",
+            "leader_margin_value": 71.25,
+            "leader_margin_display": "R+71",
+            "leader_margin_name_display": "Trump +71",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 71.54812,
+            "margin2020": 71.25,
             "votes2016": 1075,
             "margin2016": 66.6,
             "votes2012": 1091,
@@ -1710,7 +1734,7 @@
           {
             "fips": "31071",
             "name": "Garfield",
-            "votes": 1075,
+            "votes": 1076,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -1721,7 +1745,7 @@
             "eevp_display": "100% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 302,
             "provisional_outstanding": null,
@@ -1729,20 +1753,22 @@
             "results": {
               "trumpd": 933,
               "bidenj": 133,
-              "jorgensenj": 9
+              "jorgensenj": 9,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:38:42Z",
-            "leader_margin_value": 74.4186,
+            "last_updated": "2020-12-11T15:28:44Z",
+            "leader_margin_value": 74.34944,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Trump +74",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 74.4186,
+            "margin2020": 74.34944,
             "votes2016": 980,
             "margin2016": 71.4,
             "votes2012": 940,
@@ -1751,7 +1777,7 @@
           {
             "fips": "31073",
             "name": "Gosper",
-            "votes": 1118,
+            "votes": 1121,
             "absentee_votes": 0,
             "reporting": 4,
             "precincts": 4,
@@ -1770,20 +1796,22 @@
             "results": {
               "trumpd": 893,
               "bidenj": 215,
-              "jorgensenj": 10
+              "jorgensenj": 10,
+              "write-ins": 3
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:21Z",
-            "leader_margin_value": 60.64401,
-            "leader_margin_display": "R+61",
-            "leader_margin_name_display": "Trump +61",
+            "last_updated": "2020-12-11T15:28:52Z",
+            "leader_margin_value": 60.48171,
+            "leader_margin_display": "R+60",
+            "leader_margin_name_display": "Trump +60",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 60.64401,
+            "margin2020": 60.48171,
             "votes2016": 1010,
             "margin2016": 62.2,
             "votes2012": 978,
@@ -1818,7 +1846,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:22:22Z",
+            "last_updated": "2020-12-11T15:31:00Z",
             "leader_margin_value": 88.30846,
             "leader_margin_display": "R+88",
             "leader_margin_name_display": "Trump +88",
@@ -1833,7 +1861,7 @@
           {
             "fips": "31077",
             "name": "Greeley",
-            "votes": 1258,
+            "votes": 1259,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 5,
@@ -1853,7 +1881,7 @@
               "trumpd": 1016,
               "bidenj": 229,
               "jorgensenj": 13,
-              "write-ins": 0
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1861,13 +1889,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:26:19Z",
-            "leader_margin_value": 62.55962,
+            "last_updated": "2020-12-11T15:31:07Z",
+            "leader_margin_value": 62.50993,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Trump +63",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 62.55962,
+            "margin2020": 62.50993,
             "votes2016": 1175,
             "margin2016": 59.7,
             "votes2012": 1185,
@@ -1876,7 +1904,7 @@
           {
             "fips": "31079",
             "name": "Hall",
-            "votes": 24374,
+            "votes": 24450,
             "absentee_votes": 0,
             "reporting": 27,
             "precincts": 27,
@@ -1896,7 +1924,7 @@
               "trumpd": 16189,
               "bidenj": 7681,
               "jorgensenj": 504,
-              "write-ins": 0
+              "write-ins": 76
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1904,13 +1932,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:22:27Z",
-            "leader_margin_value": 34.90605,
+            "last_updated": "2020-12-11T15:31:18Z",
+            "leader_margin_value": 34.79755,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Trump +35",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 34.90605,
+            "margin2020": 34.79755,
             "votes2016": 22060,
             "margin2016": 36.8,
             "votes2012": 20229,
@@ -1919,7 +1947,7 @@
           {
             "fips": "31081",
             "name": "Hamilton",
-            "votes": 5533,
+            "votes": 5566,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -1939,7 +1967,7 @@
               "trumpd": 4309,
               "bidenj": 1118,
               "jorgensenj": 106,
-              "write-ins": 0
+              "write-ins": 33
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1947,13 +1975,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:13Z",
-            "leader_margin_value": 57.67215,
-            "leader_margin_display": "R+58",
-            "leader_margin_name_display": "Trump +58",
+            "last_updated": "2020-12-11T15:31:27Z",
+            "leader_margin_value": 57.33022,
+            "leader_margin_display": "R+57",
+            "leader_margin_name_display": "Trump +57",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 57.67215,
+            "margin2020": 57.33022,
             "votes2016": 5004,
             "margin2016": 58.1,
             "votes2012": 4871,
@@ -1962,7 +1990,7 @@
           {
             "fips": "31083",
             "name": "Harlan",
-            "votes": 1928,
+            "votes": 1934,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -1982,7 +2010,7 @@
               "trumpd": 1615,
               "bidenj": 282,
               "jorgensenj": 31,
-              "write-ins": 0
+              "write-ins": 6
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1990,13 +2018,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:19:12Z",
-            "leader_margin_value": 69.139,
+            "last_updated": "2020-12-11T15:31:46Z",
+            "leader_margin_value": 68.92451,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Trump +69",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 69.139,
+            "margin2020": 68.92451,
             "votes2016": 1832,
             "margin2016": 67.8,
             "votes2012": 1778,
@@ -2005,7 +2033,7 @@
           {
             "fips": "31085",
             "name": "Hayes",
-            "votes": 534,
+            "votes": 536,
             "absentee_votes": 0,
             "reporting": 4,
             "precincts": 4,
@@ -2024,20 +2052,22 @@
             "results": {
               "trumpd": 494,
               "bidenj": 34,
-              "jorgensenj": 6
+              "jorgensenj": 6,
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:26Z",
-            "leader_margin_value": 86.14232,
+            "last_updated": "2020-12-11T15:31:54Z",
+            "leader_margin_value": 85.8209,
             "leader_margin_display": "R+86",
             "leader_margin_name_display": "Trump +86",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 86.14232,
+            "margin2020": 85.8209,
             "votes2016": 514,
             "margin2016": 86,
             "votes2012": 539,
@@ -2046,7 +2076,7 @@
           {
             "fips": "31087",
             "name": "Hitchcock",
-            "votes": 1469,
+            "votes": 1470,
             "absentee_votes": 0,
             "reporting": 5,
             "precincts": 5,
@@ -2066,7 +2096,7 @@
               "trumpd": 1264,
               "bidenj": 175,
               "jorgensenj": 30,
-              "write-ins": 0
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2074,13 +2104,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:20:01Z",
-            "leader_margin_value": 74.13206,
+            "last_updated": "2020-12-11T15:32:07Z",
+            "leader_margin_value": 74.08163,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Trump +74",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 74.13206,
+            "margin2020": 74.08163,
             "votes2016": 1468,
             "margin2016": 73,
             "votes2012": 1495,
@@ -2089,7 +2119,7 @@
           {
             "fips": "31089",
             "name": "Holt",
-            "votes": 5537,
+            "votes": 5550,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 14,
@@ -2109,7 +2139,7 @@
               "trumpd": 4769,
               "bidenj": 686,
               "jorgensenj": 82,
-              "write-ins": 0
+              "write-ins": 13
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2117,13 +2147,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:25Z",
-            "leader_margin_value": 73.74029,
+            "last_updated": "2020-12-11T15:32:21Z",
+            "leader_margin_value": 73.56757,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Trump +74",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 73.74029,
+            "margin2020": 73.56757,
             "votes2016": 5118,
             "margin2016": 74.7,
             "votes2012": 4939,
@@ -2158,7 +2188,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:21:54Z",
+            "last_updated": "2020-12-11T15:32:31Z",
             "leader_margin_value": 71.71946,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Trump +72",
@@ -2173,7 +2203,7 @@
           {
             "fips": "31093",
             "name": "Howard",
-            "votes": 3501,
+            "votes": 3511,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -2192,20 +2222,22 @@
             "results": {
               "trumpd": 2786,
               "bidenj": 648,
-              "jorgensenj": 67
+              "jorgensenj": 67,
+              "write-ins": 10
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:55Z",
-            "leader_margin_value": 61.06827,
+            "last_updated": "2020-12-11T15:32:41Z",
+            "leader_margin_value": 60.89433,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Trump +61",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 61.06827,
+            "margin2020": 60.89433,
             "votes2016": 2994,
             "margin2016": 58.1,
             "votes2012": 2870,
@@ -2214,7 +2246,7 @@
           {
             "fips": "31095",
             "name": "Jefferson",
-            "votes": 3716,
+            "votes": 3730,
             "absentee_votes": 0,
             "reporting": 11,
             "precincts": 11,
@@ -2234,7 +2266,7 @@
               "trumpd": 2616,
               "bidenj": 1016,
               "jorgensenj": 84,
-              "write-ins": 0
+              "write-ins": 14
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2242,13 +2274,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:41Z",
-            "leader_margin_value": 43.05705,
+            "last_updated": "2020-12-11T15:32:49Z",
+            "leader_margin_value": 42.89544,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Trump +43",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 43.05705,
+            "margin2020": 42.89544,
             "votes2016": 3494,
             "margin2016": 44.7,
             "votes2012": 3446,
@@ -2257,7 +2289,7 @@
           {
             "fips": "31097",
             "name": "Johnson",
-            "votes": 2229,
+            "votes": 2233,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
@@ -2277,7 +2309,7 @@
               "trumpd": 1518,
               "bidenj": 647,
               "jorgensenj": 64,
-              "write-ins": 0
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2285,13 +2317,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:55Z",
-            "leader_margin_value": 39.07582,
+            "last_updated": "2020-12-11T15:32:58Z",
+            "leader_margin_value": 39.00582,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Trump +39",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 39.07582,
+            "margin2020": 39.00582,
             "votes2016": 2089,
             "margin2016": 37.9,
             "votes2012": 2063,
@@ -2300,7 +2332,7 @@
           {
             "fips": "31099",
             "name": "Kearney",
-            "votes": 3604,
+            "votes": 3617,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -2320,7 +2352,7 @@
               "trumpd": 2822,
               "bidenj": 701,
               "jorgensenj": 81,
-              "write-ins": 0
+              "write-ins": 13
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2328,13 +2360,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:19Z",
-            "leader_margin_value": 58.85128,
+            "last_updated": "2020-12-11T15:33:07Z",
+            "leader_margin_value": 58.63976,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Trump +59",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 58.85128,
+            "margin2020": 58.63976,
             "votes2016": 3296,
             "margin2016": 60.1,
             "votes2012": 3180,
@@ -2343,7 +2375,7 @@
           {
             "fips": "31101",
             "name": "Keith",
-            "votes": 4364,
+            "votes": 4369,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
@@ -2363,7 +2395,7 @@
               "trumpd": 3544,
               "bidenj": 763,
               "jorgensenj": 57,
-              "write-ins": 0
+              "write-ins": 5
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2371,13 +2403,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:30Z",
-            "leader_margin_value": 63.72594,
+            "last_updated": "2020-12-11T15:33:16Z",
+            "leader_margin_value": 63.65301,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Trump +64",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 63.72594,
+            "margin2020": 63.65301,
             "votes2016": 4034,
             "margin2016": 66,
             "votes2012": 4058,
@@ -2386,7 +2418,7 @@
           {
             "fips": "31103",
             "name": "Keya Paha",
-            "votes": 529,
+            "votes": 530,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -2405,20 +2437,22 @@
             "results": {
               "trumpd": 476,
               "bidenj": 49,
-              "jorgensenj": 4
+              "jorgensenj": 4,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:01Z",
-            "leader_margin_value": 80.71834,
+            "last_updated": "2020-12-11T15:33:25Z",
+            "leader_margin_value": 80.56604,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Trump +81",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 80.71834,
+            "margin2020": 80.56604,
             "votes2016": 519,
             "margin2016": 80.9,
             "votes2012": 484,
@@ -2427,7 +2461,7 @@
           {
             "fips": "31105",
             "name": "Kimball",
-            "votes": 1874,
+            "votes": 1877,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
@@ -2446,20 +2480,22 @@
             "results": {
               "trumpd": 1563,
               "bidenj": 268,
-              "jorgensenj": 43
+              "jorgensenj": 43,
+              "write-ins": 3
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:02Z",
-            "leader_margin_value": 69.10352,
+            "last_updated": "2020-12-11T15:33:35Z",
+            "leader_margin_value": 68.99307,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Trump +69",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 69.10352,
+            "margin2020": 68.99307,
             "votes2016": 1677,
             "margin2016": 65.6,
             "votes2012": 1687,
@@ -2468,7 +2504,7 @@
           {
             "fips": "31107",
             "name": "Knox",
-            "votes": 4697,
+            "votes": 4708,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
@@ -2487,20 +2523,22 @@
             "results": {
               "trumpd": 3721,
               "bidenj": 905,
-              "jorgensenj": 71
+              "jorgensenj": 71,
+              "write-ins": 11
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:03Z",
-            "leader_margin_value": 59.95316,
+            "last_updated": "2020-12-11T15:33:44Z",
+            "leader_margin_value": 59.81308,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Trump +60",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 59.95316,
+            "margin2020": 59.81308,
             "votes2016": 4115,
             "margin2016": 60,
             "votes2012": 4036,
@@ -2509,7 +2547,7 @@
           {
             "fips": "31109",
             "name": "Lancaster",
-            "votes": 156091,
+            "votes": 157215,
             "absentee_votes": 84001,
             "reporting": 199,
             "precincts": 199,
@@ -2529,7 +2567,7 @@
               "trumpd": 70092,
               "bidenj": 82293,
               "jorgensenj": 3706,
-              "write-ins": 0
+              "write-ins": 1124
             },
             "results_absentee": {
               "trumpd": 27050,
@@ -2537,13 +2575,13 @@
               "jorgensenj": 1610,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:22:18Z",
-            "leader_margin_value": 7.81659,
+            "last_updated": "2020-12-11T15:33:56Z",
+            "leader_margin_value": 7.76071,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
             "leader_party_id": "democrat",
             "leader_key": "bidenj",
-            "margin2020": -7.81659,
+            "margin2020": -7.76071,
             "votes2016": 136223,
             "margin2016": -0.2,
             "votes2012": 127355,
@@ -2552,7 +2590,7 @@
           {
             "fips": "31111",
             "name": "Lincoln",
-            "votes": 17107,
+            "votes": 17163,
             "absentee_votes": 8050,
             "reporting": 25,
             "precincts": 25,
@@ -2572,7 +2610,7 @@
               "trumpd": 13071,
               "bidenj": 3692,
               "jorgensenj": 344,
-              "write-ins": 0
+              "write-ins": 56
             },
             "results_absentee": {
               "trumpd": 5310,
@@ -2580,13 +2618,13 @@
               "jorgensenj": 150,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:17:55Z",
-            "leader_margin_value": 54.82551,
+            "last_updated": "2020-12-11T15:34:06Z",
+            "leader_margin_value": 54.64662,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Trump +55",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 54.82551,
+            "margin2020": 54.64662,
             "votes2016": 16131,
             "margin2016": 57.3,
             "votes2012": 15655,
@@ -2621,7 +2659,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:22:12Z",
+            "last_updated": "2020-12-11T15:34:19Z",
             "leader_margin_value": 82,
             "leader_margin_display": "R+82",
             "leader_margin_name_display": "Trump +82",
@@ -2662,7 +2700,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:22:14Z",
+            "last_updated": "2020-12-11T15:34:26Z",
             "leader_margin_value": 64.97797,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Trump +65",
@@ -2677,7 +2715,7 @@
           {
             "fips": "31119",
             "name": "Madison",
-            "votes": 15765,
+            "votes": 15819,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 23,
@@ -2697,7 +2735,7 @@
               "trumpd": 11940,
               "bidenj": 3478,
               "jorgensenj": 347,
-              "write-ins": 0
+              "write-ins": 54
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2705,13 +2743,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:22:33Z",
-            "leader_margin_value": 53.67586,
-            "leader_margin_display": "R+54",
-            "leader_margin_name_display": "Trump +54",
+            "last_updated": "2020-12-11T15:34:49Z",
+            "leader_margin_value": 53.49264,
+            "leader_margin_display": "R+53",
+            "leader_margin_name_display": "Trump +53",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 53.67586,
+            "margin2020": 53.49264,
             "votes2016": 14343,
             "margin2016": 55.2,
             "votes2012": 13885,
@@ -2746,7 +2784,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-25T03:28:25Z",
+            "last_updated": "2020-12-11T15:34:38Z",
             "leader_margin_value": 85.43046,
             "leader_margin_display": "R+85",
             "leader_margin_name_display": "Trump +85",
@@ -2789,7 +2827,7 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:23:44Z",
+            "last_updated": "2020-12-11T15:35:45Z",
             "leader_margin_value": 62.49416,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Trump +62",
@@ -2832,7 +2870,7 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:16Z",
+            "last_updated": "2020-12-11T15:35:53Z",
             "leader_margin_value": 67.51368,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Trump +68",
@@ -2847,7 +2885,7 @@
           {
             "fips": "31125",
             "name": "Nance",
-            "votes": 1828,
+            "votes": 1832,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 7,
@@ -2867,7 +2905,7 @@
               "trumpd": 1437,
               "bidenj": 359,
               "jorgensenj": 32,
-              "write-ins": 0
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2875,13 +2913,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:30Z",
-            "leader_margin_value": 58.97155,
+            "last_updated": "2020-12-11T15:35:17Z",
+            "leader_margin_value": 58.84279,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Trump +59",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 58.97155,
+            "margin2020": 58.84279,
             "votes2016": 1621,
             "margin2016": 60.5,
             "votes2012": 1621,
@@ -2890,7 +2928,7 @@
           {
             "fips": "31127",
             "name": "Nemaha",
-            "votes": 3423,
+            "votes": 3432,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -2910,7 +2948,7 @@
               "trumpd": 2428,
               "bidenj": 921,
               "jorgensenj": 74,
-              "write-ins": 0
+              "write-ins": 9
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2918,13 +2956,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:09Z",
-            "leader_margin_value": 44.02571,
+            "last_updated": "2020-12-11T15:35:07Z",
+            "leader_margin_value": 43.91026,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Trump +44",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 44.02571,
+            "margin2020": 43.91026,
             "votes2016": 3161,
             "margin2016": 42.1,
             "votes2012": 3214,
@@ -2933,7 +2971,7 @@
           {
             "fips": "31129",
             "name": "Nuckolls",
-            "votes": 2303,
+            "votes": 2305,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -2953,7 +2991,7 @@
               "trumpd": 1857,
               "bidenj": 409,
               "jorgensenj": 37,
-              "write-ins": 0
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
@@ -2961,13 +2999,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:19:22Z",
-            "leader_margin_value": 62.87451,
+            "last_updated": "2020-12-11T15:36:01Z",
+            "leader_margin_value": 62.81996,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Trump +63",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 62.87451,
+            "margin2020": 62.81996,
             "votes2016": 2205,
             "margin2016": 62.3,
             "votes2012": 2191,
@@ -2976,7 +3014,7 @@
           {
             "fips": "31131",
             "name": "Otoe",
-            "votes": 8315,
+            "votes": 8355,
             "absentee_votes": 3828,
             "reporting": 14,
             "precincts": 14,
@@ -2995,20 +3033,22 @@
             "results": {
               "trumpd": 5649,
               "bidenj": 2490,
-              "jorgensenj": 176
+              "jorgensenj": 176,
+              "write-ins": 40
             },
             "results_absentee": {
               "trumpd": 2105,
               "bidenj": 1638,
-              "jorgensenj": 85
+              "jorgensenj": 85,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:29:12Z",
-            "leader_margin_value": 37.99158,
+            "last_updated": "2020-12-11T15:36:11Z",
+            "leader_margin_value": 37.80969,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Trump +38",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 37.99158,
+            "margin2020": 37.80969,
             "votes2016": 7457,
             "margin2016": 38,
             "votes2012": 6982,
@@ -3043,7 +3083,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-12-06T04:26:02Z",
+            "last_updated": "2020-12-11T15:35:29Z",
             "leader_margin_value": 52.41428,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Trump +52",
@@ -3058,7 +3098,7 @@
           {
             "fips": "31135",
             "name": "Perkins",
-            "votes": 1544,
+            "votes": 1545,
             "absentee_votes": 850,
             "reporting": 4,
             "precincts": 4,
@@ -3077,20 +3117,22 @@
             "results": {
               "trumpd": 1321,
               "bidenj": 199,
-              "jorgensenj": 24
+              "jorgensenj": 24,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 660,
               "bidenj": 178,
-              "jorgensenj": 12
+              "jorgensenj": 12,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:29:33Z",
-            "leader_margin_value": 72.66839,
+            "last_updated": "2020-12-11T15:36:31Z",
+            "leader_margin_value": 72.62136,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Trump +73",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 72.66839,
+            "margin2020": 72.62136,
             "votes2016": 1455,
             "margin2016": 72.6,
             "votes2012": 1394,
@@ -3099,7 +3141,7 @@
           {
             "fips": "31137",
             "name": "Phelps",
-            "votes": 5009,
+            "votes": 5021,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 14,
@@ -3119,7 +3161,7 @@
               "trumpd": 4157,
               "bidenj": 752,
               "jorgensenj": 100,
-              "write-ins": 0
+              "write-ins": 12
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3127,13 +3169,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:25Z",
-            "leader_margin_value": 67.97764,
+            "last_updated": "2020-12-11T15:36:46Z",
+            "leader_margin_value": 67.81518,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Trump +68",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 67.97764,
+            "margin2020": 67.81518,
             "votes2016": 4695,
             "margin2016": 69.8,
             "votes2012": 4380,
@@ -3142,7 +3184,7 @@
           {
             "fips": "31139",
             "name": "Pierce",
-            "votes": 4006,
+            "votes": 4012,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
@@ -3161,20 +3203,22 @@
             "results": {
               "trumpd": 3462,
               "bidenj": 480,
-              "jorgensenj": 64
+              "jorgensenj": 64,
+              "write-ins": 6
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:27Z",
-            "leader_margin_value": 74.43834,
+            "last_updated": "2020-12-11T15:36:55Z",
+            "leader_margin_value": 74.32702,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Trump +74",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 74.43834,
+            "margin2020": 74.32702,
             "votes2016": 3630,
             "margin2016": 73.6,
             "votes2012": 3431,
@@ -3183,7 +3227,7 @@
           {
             "fips": "31141",
             "name": "Platte",
-            "votes": 15673,
+            "votes": 15721,
             "absentee_votes": 0,
             "reporting": 32,
             "precincts": 32,
@@ -3203,7 +3247,7 @@
               "trumpd": 12186,
               "bidenj": 3260,
               "jorgensenj": 227,
-              "write-ins": 0
+              "write-ins": 48
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3211,13 +3255,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:20:23Z",
-            "leader_margin_value": 56.95145,
+            "last_updated": "2020-12-11T15:37:08Z",
+            "leader_margin_value": 56.77756,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Trump +57",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 56.95145,
+            "margin2020": 56.77756,
             "votes2016": 14433,
             "margin2016": 57.6,
             "votes2012": 13473,
@@ -3226,7 +3270,7 @@
           {
             "fips": "31143",
             "name": "Polk",
-            "votes": 2879,
+            "votes": 2887,
             "absentee_votes": 0,
             "reporting": 6,
             "precincts": 6,
@@ -3245,20 +3289,22 @@
             "results": {
               "trumpd": 2291,
               "bidenj": 530,
-              "jorgensenj": 58
+              "jorgensenj": 58,
+              "write-ins": 8
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:31Z",
-            "leader_margin_value": 61.16707,
+            "last_updated": "2020-12-11T15:37:16Z",
+            "leader_margin_value": 60.99758,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Trump +61",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 61.16707,
+            "margin2020": 60.99758,
             "votes2016": 2582,
             "margin2016": 62.5,
             "votes2012": 2457,
@@ -3267,7 +3313,7 @@
           {
             "fips": "31145",
             "name": "Red Willow",
-            "votes": 5452,
+            "votes": 5470,
             "absentee_votes": 0,
             "reporting": 14,
             "precincts": 14,
@@ -3287,7 +3333,7 @@
               "trumpd": 4525,
               "bidenj": 811,
               "jorgensenj": 116,
-              "write-ins": 0
+              "write-ins": 18
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3295,13 +3341,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:18:31Z",
-            "leader_margin_value": 68.12179,
+            "last_updated": "2020-12-11T15:37:25Z",
+            "leader_margin_value": 67.89762,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Trump +68",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 68.12179,
+            "margin2020": 67.89762,
             "votes2016": 5175,
             "margin2016": 69.8,
             "votes2012": 4936,
@@ -3310,7 +3356,7 @@
           {
             "fips": "31147",
             "name": "Richardson",
-            "votes": 4126,
+            "votes": 4134,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -3330,7 +3376,7 @@
               "trumpd": 3073,
               "bidenj": 996,
               "jorgensenj": 57,
-              "write-ins": 0
+              "write-ins": 8
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3338,13 +3384,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:01Z",
-            "leader_margin_value": 50.33931,
+            "last_updated": "2020-12-11T15:37:39Z",
+            "leader_margin_value": 50.2419,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Trump +50",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 50.33931,
+            "margin2020": 50.2419,
             "votes2016": 3805,
             "margin2016": 51.3,
             "votes2012": 3739,
@@ -3353,7 +3399,7 @@
           {
             "fips": "31149",
             "name": "Rock",
-            "votes": 841,
+            "votes": 842,
             "absentee_votes": 0,
             "reporting": 2,
             "precincts": 2,
@@ -3372,20 +3418,22 @@
             "results": {
               "trumpd": 744,
               "bidenj": 84,
-              "jorgensenj": 13
+              "jorgensenj": 13,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:34Z",
-            "leader_margin_value": 78.478,
+            "last_updated": "2020-12-11T15:37:48Z",
+            "leader_margin_value": 78.3848,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Trump +78",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 78.478,
+            "margin2020": 78.3848,
             "votes2016": 798,
             "margin2016": 77.3,
             "votes2012": 789,
@@ -3394,7 +3442,7 @@
           {
             "fips": "31151",
             "name": "Saline",
-            "votes": 5770,
+            "votes": 5780,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 13,
@@ -3414,7 +3462,7 @@
               "trumpd": 3631,
               "bidenj": 1986,
               "jorgensenj": 153,
-              "write-ins": 0
+              "write-ins": 10
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3422,13 +3470,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:23:52Z",
-            "leader_margin_value": 28.50953,
-            "leader_margin_display": "R+29",
-            "leader_margin_name_display": "Trump +29",
+            "last_updated": "2020-12-11T15:37:57Z",
+            "leader_margin_value": 28.46021,
+            "leader_margin_display": "R+28",
+            "leader_margin_name_display": "Trump +28",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 28.50953,
+            "margin2020": 28.46021,
             "votes2016": 5136,
             "margin2016": 24.7,
             "votes2012": 4958,
@@ -3465,7 +3513,7 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-08T18:46:05Z",
+            "last_updated": "2020-12-11T15:38:12Z",
             "leader_margin_value": 11.19936,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Trump +11",
@@ -3480,7 +3528,7 @@
           {
             "fips": "31155",
             "name": "Saunders",
-            "votes": 12735,
+            "votes": 12786,
             "absentee_votes": 0,
             "reporting": 19,
             "precincts": 19,
@@ -3499,20 +3547,22 @@
             "results": {
               "trumpd": 9108,
               "bidenj": 3331,
-              "jorgensenj": 296
+              "jorgensenj": 296,
+              "write-ins": 51
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:36Z",
-            "leader_margin_value": 45.36317,
+            "last_updated": "2020-12-11T15:38:23Z",
+            "leader_margin_value": 45.18223,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Trump +45",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 45.36317,
+            "margin2020": 45.18223,
             "votes2016": 10860,
             "margin2016": 46.3,
             "votes2012": 10312,
@@ -3521,7 +3571,7 @@
           {
             "fips": "31157",
             "name": "Scotts Bluff",
-            "votes": 15469,
+            "votes": 15524,
             "absentee_votes": 7041,
             "reporting": 30,
             "precincts": 30,
@@ -3541,7 +3591,7 @@
               "trumpd": 10952,
               "bidenj": 4196,
               "jorgensenj": 321,
-              "write-ins": 0
+              "write-ins": 55
             },
             "results_absentee": {
               "trumpd": 4245,
@@ -3549,13 +3599,13 @@
               "jorgensenj": 136,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:17:41Z",
-            "leader_margin_value": 43.67445,
+            "last_updated": "2020-12-11T15:38:33Z",
+            "leader_margin_value": 43.51971,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Trump +44",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 43.67445,
+            "margin2020": 43.51971,
             "votes2016": 14317,
             "margin2016": 48,
             "votes2012": 14287,
@@ -3564,7 +3614,7 @@
           {
             "fips": "31159",
             "name": "Seward",
-            "votes": 9142,
+            "votes": 9199,
             "absentee_votes": 0,
             "reporting": 16,
             "precincts": 16,
@@ -3583,20 +3633,22 @@
             "results": {
               "trumpd": 6490,
               "bidenj": 2438,
-              "jorgensenj": 214
+              "jorgensenj": 214,
+              "write-ins": 57
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:39Z",
-            "leader_margin_value": 44.32291,
+            "last_updated": "2020-12-11T15:38:41Z",
+            "leader_margin_value": 44.04827,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Trump +44",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 44.32291,
+            "margin2020": 44.04827,
             "votes2016": 7922,
             "margin2016": 45.2,
             "votes2012": 7573,
@@ -3605,7 +3657,7 @@
           {
             "fips": "31161",
             "name": "Sheridan",
-            "votes": 2672,
+            "votes": 2684,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -3625,7 +3677,7 @@
               "trumpd": 2292,
               "bidenj": 340,
               "jorgensenj": 40,
-              "write-ins": 0
+              "write-ins": 12
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3633,13 +3685,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:19:29Z",
-            "leader_margin_value": 73.05389,
+            "last_updated": "2020-12-11T15:38:50Z",
+            "leader_margin_value": 72.72727,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Trump +73",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 73.05389,
+            "margin2020": 72.72727,
             "votes2016": 2608,
             "margin2016": 73.8,
             "votes2012": 2472,
@@ -3648,7 +3700,7 @@
           {
             "fips": "31163",
             "name": "Sherman",
-            "votes": 1698,
+            "votes": 1700,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 7,
@@ -3668,7 +3720,7 @@
               "trumpd": 1322,
               "bidenj": 343,
               "jorgensenj": 33,
-              "write-ins": 0
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3676,13 +3728,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:25:37Z",
-            "leader_margin_value": 57.65607,
+            "last_updated": "2020-12-11T15:39:02Z",
+            "leader_margin_value": 57.58824,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Trump +58",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 57.65607,
+            "margin2020": 57.58824,
             "votes2016": 1573,
             "margin2016": 51.5,
             "votes2012": 1530,
@@ -3691,7 +3743,7 @@
           {
             "fips": "31165",
             "name": "Sioux",
-            "votes": 729,
+            "votes": 731,
             "absentee_votes": 0,
             "reporting": 3,
             "precincts": 3,
@@ -3710,20 +3762,22 @@
             "results": {
               "trumpd": 642,
               "bidenj": 72,
-              "jorgensenj": 15
+              "jorgensenj": 15,
+              "write-ins": 2
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:43Z",
-            "leader_margin_value": 78.1893,
+            "last_updated": "2020-12-11T15:39:09Z",
+            "leader_margin_value": 77.97538,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Trump +78",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 78.1893,
+            "margin2020": 77.97538,
             "votes2016": 736,
             "margin2016": 72.7,
             "votes2012": 739,
@@ -3760,7 +3814,7 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:22:44Z",
+            "last_updated": "2020-12-11T15:39:17Z",
             "leader_margin_value": 64.10742,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Trump +64",
@@ -3775,7 +3829,7 @@
           {
             "fips": "31169",
             "name": "Thayer",
-            "votes": 2980,
+            "votes": 2989,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
@@ -3794,20 +3848,22 @@
             "results": {
               "trumpd": 2308,
               "bidenj": 624,
-              "jorgensenj": 48
+              "jorgensenj": 48,
+              "write-ins": 9
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:43Z",
-            "leader_margin_value": 56.51007,
-            "leader_margin_display": "R+57",
-            "leader_margin_name_display": "Trump +57",
+            "last_updated": "2020-12-11T15:39:26Z",
+            "leader_margin_value": 56.33991,
+            "leader_margin_display": "R+56",
+            "leader_margin_name_display": "Trump +56",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 56.51007,
+            "margin2020": 56.33991,
             "votes2016": 2690,
             "margin2016": 57.7,
             "votes2012": 2659,
@@ -3842,7 +3898,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:22:44Z",
+            "last_updated": "2020-12-11T15:39:34Z",
             "leader_margin_value": 77.75176,
             "leader_margin_display": "R+78",
             "leader_margin_name_display": "Trump +78",
@@ -3857,7 +3913,7 @@
           {
             "fips": "31173",
             "name": "Thurston",
-            "votes": 2325,
+            "votes": 2379,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
@@ -3876,22 +3932,22 @@
             "results": {
               "trumpd": 1180,
               "bidenj": 1122,
-              "jorgensenj": 23,
-              "write-ins": 0
+              "write-ins": 54,
+              "jorgensenj": 23
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0,
-              "write-ins": 0
+              "write-ins": 0,
+              "jorgensenj": 0
             },
-            "last_updated": "2020-12-06T04:25:15Z",
-            "leader_margin_value": 2.49462,
+            "last_updated": "2020-12-11T15:39:46Z",
+            "leader_margin_value": 2.438,
             "leader_margin_display": "R+2",
             "leader_margin_name_display": "Trump +2",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 2.49462,
+            "margin2020": 2.438,
             "votes2016": 2088,
             "margin2016": 5.9,
             "votes2012": 2215,
@@ -3900,7 +3956,7 @@
           {
             "fips": "31175",
             "name": "Valley",
-            "votes": 2340,
+            "votes": 2344,
             "absentee_votes": 0,
             "reporting": 8,
             "precincts": 8,
@@ -3919,20 +3975,22 @@
             "results": {
               "trumpd": 1901,
               "bidenj": 412,
-              "jorgensenj": 27
+              "jorgensenj": 27,
+              "write-ins": 4
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-25T03:31:17Z",
-            "leader_margin_value": 63.63248,
+            "last_updated": "2020-12-11T15:39:53Z",
+            "leader_margin_value": 63.52389,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Trump +64",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 63.63248,
+            "margin2020": 63.52389,
             "votes2016": 2205,
             "margin2016": 65.4,
             "votes2012": 2195,
@@ -3941,7 +3999,7 @@
           {
             "fips": "31177",
             "name": "Washington",
-            "votes": 12413,
+            "votes": 12467,
             "absentee_votes": 0,
             "reporting": 16,
             "precincts": 16,
@@ -3961,7 +4019,7 @@
               "trumpd": 8583,
               "bidenj": 3554,
               "jorgensenj": 276,
-              "write-ins": 0
+              "write-ins": 54
             },
             "results_absentee": {
               "trumpd": 0,
@@ -3969,13 +4027,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:22:52Z",
-            "leader_margin_value": 40.51398,
-            "leader_margin_display": "R+41",
-            "leader_margin_name_display": "Trump +41",
+            "last_updated": "2020-12-11T15:40:01Z",
+            "leader_margin_value": 40.33849,
+            "leader_margin_display": "R+40",
+            "leader_margin_name_display": "Trump +40",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 40.51398,
+            "margin2020": 40.33849,
             "votes2016": 10832,
             "margin2016": 44.3,
             "votes2012": 10246,
@@ -3984,7 +4042,7 @@
           {
             "fips": "31179",
             "name": "Wayne",
-            "votes": 4200,
+            "votes": 4218,
             "absentee_votes": 0,
             "reporting": 11,
             "precincts": 11,
@@ -4004,7 +4062,7 @@
               "trumpd": 3055,
               "bidenj": 1022,
               "jorgensenj": 123,
-              "write-ins": 0
+              "write-ins": 18
             },
             "results_absentee": {
               "trumpd": 0,
@@ -4012,13 +4070,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:44Z",
-            "leader_margin_value": 48.40476,
+            "last_updated": "2020-12-11T15:40:10Z",
+            "leader_margin_value": 48.1982,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Trump +48",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 48.40476,
+            "margin2020": 48.1982,
             "votes2016": 3776,
             "margin2016": 49.2,
             "votes2012": 3682,
@@ -4053,7 +4111,7 @@
               "bidenj": 0,
               "jorgensenj": 0
             },
-            "last_updated": "2020-11-24T13:22:47Z",
+            "last_updated": "2020-12-11T15:40:29Z",
             "leader_margin_value": 62.68657,
             "leader_margin_display": "R+63",
             "leader_margin_name_display": "Trump +63",
@@ -4068,7 +4126,7 @@
           {
             "fips": "31183",
             "name": "Wheeler",
-            "votes": 502,
+            "votes": 503,
             "absentee_votes": 0,
             "reporting": 2,
             "precincts": 2,
@@ -4087,20 +4145,22 @@
             "results": {
               "trumpd": 438,
               "bidenj": 59,
-              "jorgensenj": 5
+              "jorgensenj": 5,
+              "write-ins": 1
             },
             "results_absentee": {
               "trumpd": 0,
               "bidenj": 0,
-              "jorgensenj": 0
+              "jorgensenj": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:22:48Z",
-            "leader_margin_value": 75.49801,
+            "last_updated": "2020-12-11T15:40:36Z",
+            "leader_margin_value": 75.34791,
             "leader_margin_display": "R+75",
             "leader_margin_name_display": "Trump +75",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 75.49801,
+            "margin2020": 75.34791,
             "votes2016": 465,
             "margin2016": 67.7,
             "votes2012": 448,
@@ -4109,7 +4169,7 @@
           {
             "fips": "31185",
             "name": "York",
-            "votes": 7143,
+            "votes": 7161,
             "absentee_votes": 0,
             "reporting": 13,
             "precincts": 13,
@@ -4129,7 +4189,7 @@
               "trumpd": 5337,
               "bidenj": 1630,
               "jorgensenj": 176,
-              "write-ins": 0
+              "write-ins": 18
             },
             "results_absentee": {
               "trumpd": 0,
@@ -4137,13 +4197,13 @@
               "jorgensenj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-12-06T04:24:00Z",
-            "leader_margin_value": 51.89696,
+            "last_updated": "2020-12-11T15:40:45Z",
+            "leader_margin_value": 51.76651,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Trump +52",
             "leader_party_id": "republican",
             "leader_key": "trumpd",
-            "margin2020": 51.89696,
+            "margin2020": 51.76651,
             "votes2016": 6381,
             "margin2016": 55.1,
             "votes2012": 6355,
@@ -5055,6 +5115,46 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T03:19:41Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.585,
+              "bidenj": 0.393
+            },
+            "votes": 952322,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-09T19:04:57Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.585,
+              "bidenj": 0.393
+            },
+            "votes": 952629,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-10T20:40:44Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.583,
+              "bidenj": 0.392
+            },
+            "votes": 954621,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-10T20:45:39Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.582,
+              "bidenj": 0.392
+            },
+            "votes": 956379,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-10T20:50:02Z"
           }
         ]
       }
@@ -5073,7 +5173,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 77523073,
+            "votes": 77532373,
             "percent": "50.8",
             "change": -9,
             "flip_count": 3,
@@ -5090,7 +5190,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 211,
-            "votes": 72831654,
+            "votes": 72835328,
             "percent": "47.7",
             "change": 10,
             "flip_count": 13,
@@ -5107,7 +5207,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2195067,
+            "votes": 2195146,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -5135,7 +5235,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 81283670,
+            "votes": 81282896,
             "percent": "51.3",
             "change": 0,
             "flip_count": 0,
@@ -5152,7 +5252,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 74222393,
+            "votes": 74222484,
             "percent": "46.8",
             "change": 0,
             "flip_count": 0,
@@ -5169,7 +5269,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2929910,
+            "votes": 2929193,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -5201,8 +5301,8 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42176693,
-            "percent": "47.3",
+            "votes": 42206320,
+            "percent": "47.2",
             "change": 1,
             "flip_count": 2,
             "leader_count": 0,
@@ -5218,8 +5318,8 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44118211,
-            "percent": "49.5",
+            "votes": 44133429,
+            "percent": "49.4",
             "change": -1,
             "flip_count": 1,
             "leader_count": 0,
@@ -5235,8 +5335,8 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2916364,
-            "percent": "3.3",
+            "votes": 2992861,
+            "percent": "3.4",
             "change": 0,
             "flip_count": 0,
             "leader_count": 0,
@@ -6089,9 +6189,9 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 191065,
-          "percent": 54,
-          "percent_display": "54.0",
+          "votes": 191112,
+          "percent": 53.9,
+          "percent_display": "53.9",
           "electoral_votes": 0,
           "absentee_votes": 80665,
           "absentee_percent": 44.5,
@@ -13792,9 +13892,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 416649,
-          "percent": 51.2,
-          "percent_display": "51.2",
+          "votes": 417645,
+          "percent": 51,
+          "percent_display": "51.0",
           "electoral_votes": 0,
           "absentee_votes": 22094,
           "absentee_percent": 37.4,
@@ -13859,9 +13959,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 195854,
-          "percent": 52.5,
-          "percent_display": "52.5",
+          "votes": 195849,
+          "percent": 52.6,
+          "percent_display": "52.6",
           "electoral_votes": 0,
           "absentee_votes": 18523,
           "absentee_percent": 70.1,
@@ -14907,11 +15007,11 @@
           "runoff": false,
           "winner": true,
           "votes": 435072,
-          "percent": 53,
-          "percent_display": "53.0",
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 3,
           "absentee_votes": 40796,
-          "absentee_percent": 67.9,
+          "absentee_percent": 68.2,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -17277,7 +17377,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1720568,
+          "votes": 1720202,
           "percent": 57.1,
           "percent_display": "57.1",
           "electoral_votes": 0,
@@ -17374,9 +17474,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1718645,
-          "percent": 56.7,
-          "percent_display": "56.7",
+          "votes": 1718736,
+          "percent": 56.8,
+          "percent_display": "56.8",
           "electoral_votes": 10,
           "absentee_votes": 140954,
           "absentee_percent": 35.4,
@@ -17589,7 +17689,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1385344,
+          "votes": 1392076,
           "percent": 60.1,
           "percent_display": "60.1",
           "electoral_votes": 0,
@@ -18674,11 +18774,11 @@
           "runoff": false,
           "winner": true,
           "votes": 583507,
-          "percent": 64.6,
-          "percent_display": "64.6",
+          "percent": 59.6,
+          "percent_display": "59.6",
           "electoral_votes": 0,
           "absentee_votes": 25231,
-          "absentee_percent": 65.3,
+          "absentee_percent": 66,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sasse-63262-28-s.png",
           "has_image": false,
           "link": ""
@@ -18732,8 +18832,8 @@
           "runoff": false,
           "winner": true,
           "votes": 556846,
-          "percent": 58.5,
-          "percent_display": "58.5",
+          "percent": 58.2,
+          "percent_display": "58.2",
           "electoral_votes": 4,
           "absentee_votes": 54387,
           "absentee_percent": 41.5,
@@ -20045,9 +20145,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2339103,
-          "percent": 66.1,
-          "percent_display": "66.1",
+          "votes": 2357809,
+          "percent": 66.2,
+          "percent_display": "66.2",
           "electoral_votes": 0,
           "absentee_votes": 74745,
           "absentee_percent": 66.8,
@@ -20515,7 +20615,7 @@
           "percent_display": "59.2",
           "electoral_votes": 7,
           "absentee_votes": 45874,
-          "absentee_percent": 75,
+          "absentee_percent": 75.1,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -21976,8 +22076,8 @@
     ]
   },
   "meta": {
-    "version": 24728,
+    "version": 24858,
     "track": "2020-11-03",
-    "timestamp": "2020-12-09T03:41:35.480Z"
+    "timestamp": "2020-12-11T20:46:30.955Z"
   }
 }
