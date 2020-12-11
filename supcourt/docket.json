@@ -650,6 +650,27 @@
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163493/20201211095822921_TX-v-State-LeaveReply-2020-12-11.pdf"
         }
       ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Motion of Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC for leave to file amicus brief submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "Texas v Pennsylvania CU CUF TPC amicus brief.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101813720_Texas%20v%20Pennsylvania%20CU%20CUF%20TPC%20amicus%20brief.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Certificate of Service.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101838283_Certificate%20of%20Service.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "Certificate of Compliance.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101845642_Certificate%20of%20Compliance.pdf"
+        }
+      ]
     }
   ],
   "AttorneyHeaderPetitioner": "Attorneys for Plaintiff",
@@ -984,6 +1005,19 @@
       "Zip": "20001",
       "Email": "AUnikowsky@jenner.com",
       "PartyName": "Steve Bullock, in his official capacity as Governor of Montana"
+    },
+    {
+      "Attorney": "William Jeffrey Olson",
+      "IsCounselofRecord": true,
+      "Title": "William J. Olson, P.C.",
+      "PrisonerId": null,
+      "Phone": "7033565070",
+      "Address": "370 Maple Ave. W., Suite 4",
+      "City": "Vienna",
+      "State": "VA",
+      "Zip": "22180",
+      "Email": "wjo@mindspring.com",
+      "PartyName": "Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC"
     }
   ]
 }
