@@ -291,6 +291,10 @@
     },
     {
       "Date": "Dec 10 2020",
+      "Text": "Motion of U.S. Representative Mike Johnson and 105 Other Members for leave to file amicus brief not accepted for filing. (December 11, 2020)"
+    },
+    {
+      "Date": "Dec 10 2020",
       "Text": "Motion to Intervene and Proposed Bill of Complaint in Intervention of State of Missouri submitted.",
       "Links": [
         {
@@ -428,27 +432,6 @@
           "Description": "Other",
           "File": "SCOTUS Brief for Intervention Final 12-10-20.pdf",
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163392/20201210150121416_SCOTUS%20Brief%20for%20Intervention%20Final%2012-10-20.pdf"
-        }
-      ]
-    },
-    {
-      "Date": "Dec 10 2020",
-      "Text": "Motion of U.S. Representative Mike Johnson and 105 Other Members for leave to file amicus brief submitted.",
-      "Links": [
-        {
-          "Description": "Main Document",
-          "File": "Texas v. Pennsylvania Amicus Brief of 106 Representatives.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163403/20201210153048641_Texas%20v.%20Pennsylvania%20Amicus%20Brief%20of%20106%20Representatives.pdf"
-        },
-        {
-          "Description": "Proof of Service",
-          "File": "Certificate of Service.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163403/20201210153121276_Certificate%20of%20Service.pdf"
-        },
-        {
-          "Description": "Certificate of Word Count",
-          "File": "Certificate of Compliance.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163403/20201210153128966_Certificate%20of%20Compliance.pdf"
         }
       ]
     },
@@ -691,6 +674,95 @@
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163498/20201211111216775_TX-v-State-LeaveReply-2020-12-11-COS.pdf"
         }
       ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Amicus brief of New California State and New Nevada State submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "Amicus 2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163506/20201211114620451_Amicus%202020-12-11.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "Word Count 2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163506/20201211114706404_Word%20Count%202020-12-11.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Proof of Service 2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163506/20201211114728998_Proof%20of%20Service%202020-12-11.pdf"
+        },
+        {
+          "Description": "Other",
+          "File": "Brief Cvr Ltr_2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163506/20201211114807342_Brief%20Cvr%20Ltr_2020-12-11.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Motion of U.S. Representative Mike Johnson and 125 Other Members for leave to file amicus brief submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "Texas v. Pennsylvania Amicus Brief of 126 Representatives -- corrected.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132250339_Texas%20v.%20Pennsylvania%20Amicus%20Brief%20of%20126%20Representatives%20--%20corrected.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Certificate of Service -- corrected.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132423402_Certificate%20of%20Service%20--%20corrected.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "Certificate of Compliance -- corrected.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132432949_Certificate%20of%20Compliance%20--%20corrected.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Intervention Motion - Certificates of Compliance and Affidavit of Service of Ron Heuer, et al. submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "SCOTUS Motion for Intervention Final - word certificate.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163580/20201211142818270_SCOTUS%20Motion%20for%20Intervention%20Final%20-%20word%20certificate.pdf"
+        },
+        {
+          "Description": "Main Document",
+          "File": "SCOTUS Brief for Intervention Final - word certificate.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163580/20201211142826630_SCOTUS%20Brief%20for%20Intervention%20Final%20-%20word%20certificate.pdf"
+        },
+        {
+          "Description": "Main Document",
+          "File": "SCOTUS Affidavit of Service 12-11-20.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163580/20201211142833114_SCOTUS%20Affidavit%20of%20Service%2012-11-20.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Motion of Members of the Democratic Caucus of the Senate of Pennsylvania for leave to file amicus brief submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "Senate D Caucus Amicus 12.11.20 final_Texas v. Pennsylvania et al.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163603/20201211152108731_Senate%20D%20Caucus%20Amicus%2012.11.20%20final_Texas%20v.%20Pennsylvania%20et%20al.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Certificate of Service.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163603/20201211152131606_Certificate%20of%20Service.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "Certificate of Compliance.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163603/20201211152142278_Certificate%20of%20Compliance.pdf"
+        }
+      ]
     }
   ],
   "AttorneyHeaderPetitioner": "Attorneys for Plaintiff",
@@ -767,6 +839,19 @@
   "AttorneyHeaderOther": "Other",
   "Other": [
     {
+      "Attorney": "John C. Eastman",
+      "IsCounselofRecord": true,
+      "Title": null,
+      "PrisonerId": null,
+      "Phone": "909-257-3869",
+      "Address": "174 W. Lincoln Ave, #620",
+      "City": "Anaheim",
+      "State": "CA",
+      "Zip": "92805",
+      "Email": "jeastman562@gmail.com",
+      "PartyName": "Donald J. Trump, President of the United States"
+    },
+    {
       "Attorney": "Charles R. Gerow",
       "IsCounselofRecord": true,
       "Title": null,
@@ -804,19 +889,6 @@
       "Zip": "65102",
       "Email": "john.sauer@ago.mo.gov",
       "PartyName": "State of Missouri"
-    },
-    {
-      "Attorney": "John C. Eastman",
-      "IsCounselofRecord": true,
-      "Title": null,
-      "PrisonerId": null,
-      "Phone": "714-628-2587",
-      "Address": "One University Drive",
-      "City": "Orange",
-      "State": "CA",
-      "Zip": "92866",
-      "Email": "jeastman@chapman.edu",
-      "PartyName": "Donald J. Trump, President of the United States"
     },
     {
       "Attorney": "Richard Douglas Bernstein",
@@ -936,19 +1008,6 @@
       "PartyName": "Bryan Cutler Speaker of the Pennsylvania House of Representatives and Kerry Benninghoff Majority Leader of the Pennsylvania House of Representatives"
     },
     {
-      "Attorney": "Phillip L. Jauregui Jr.",
-      "IsCounselofRecord": true,
-      "Title": null,
-      "PrisonerId": null,
-      "Phone": "202-216-9309",
-      "Address": "1300 I Street, NW\r\nSuite 400 E",
-      "City": "Washington",
-      "State": "DC",
-      "Zip": "20005",
-      "Email": "plj@judicialactiongroup.com",
-      "PartyName": "U.S. Representative Mike Johnson and 105 Other Members"
-    },
-    {
       "Attorney": "David H. Fink",
       "IsCounselofRecord": true,
       "Title": "Fink Bressack",
@@ -1038,6 +1097,45 @@
       "Zip": "22180",
       "Email": "wjo@mindspring.com",
       "PartyName": "Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC"
+    },
+    {
+      "Attorney": "Robert Ellsworth Thomas III",
+      "IsCounselofRecord": true,
+      "Title": null,
+      "PrisonerId": null,
+      "Phone": "5308281234",
+      "Address": "150 South Hwy 160, #310",
+      "City": "Pahrump",
+      "State": "NV",
+      "Zip": "89048",
+      "Email": "Carguy341@yahoo.com",
+      "PartyName": "New California State and New Nevada State"
+    },
+    {
+      "Attorney": "Phillip L. Jauregui Jr.",
+      "IsCounselofRecord": true,
+      "Title": null,
+      "PrisonerId": null,
+      "Phone": "202-216-9309",
+      "Address": "1300 I Street, NW\r\nSuite 400 E",
+      "City": "Washington",
+      "State": "DC",
+      "Zip": "20005",
+      "Email": "plj@judicialactiongroup.com",
+      "PartyName": "U.S. Representative Mike Johnson and 125 Other Members"
+    },
+    {
+      "Attorney": "Jessel A. Costa Jr.",
+      "IsCounselofRecord": true,
+      "Title": "Democratic Caucus Senate of Pennsylvania",
+      "PrisonerId": null,
+      "Phone": "(717) 787-3736",
+      "Address": "Room 535 Main Capitol Building",
+      "City": "Harrisburg",
+      "State": "PA",
+      "Zip": "17120",
+      "Email": "jay.costa@pasenate.com",
+      "PartyName": "Members of the Democratic Caucus of the Senate of Pennsylvania"
     }
   ]
 }
