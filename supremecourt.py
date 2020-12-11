@@ -66,7 +66,8 @@ for item in fReadJ:
 files = []
 fileNames = []
 fileURLs = []
-
+newFileNames = []
+newURLs = []
 for data in rjs['ProceedingsandOrder']:
     if 'Links' in data:
         for link in data['Links']:
@@ -78,9 +79,13 @@ for data in rjs['ProceedingsandOrder']:
             fileURLs.append(url)         
             outF = os.path.join(outFol,fileN)
             if url not in dUrls:
+                newFileNames.append(f'{fileN}')
+                newURLs.append(url)
                 downloadFile(url,fileN,outFol)
 
 outF = os.path.join(outFol,'files.json')
+
+print(newFileNames)
 
 with open(outF, 'w') as fl:
     json.dump(files, fl, indent=2)  

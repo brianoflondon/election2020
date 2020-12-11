@@ -628,6 +628,28 @@
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163482/20201210235029055_CERTIFICATE%20OF%20SERVICE%20Tex%20v%20Pa.pdf"
         }
       ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Reply of State of Texas submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "TX-v-State-MPI-Reply-2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163492/20201211095715842_TX-v-State-MPI-Reply-2020-12-11.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Reply of State of Texas submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "TX-v-State-LeaveReply-2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163493/20201211095822921_TX-v-State-LeaveReply-2020-12-11.pdf"
+        }
+      ]
     }
   ],
   "AttorneyHeaderPetitioner": "Attorneys for Plaintiff",
@@ -949,6 +971,19 @@
       "Zip": "23320",
       "Email": "jimdavids@gmail.com",
       "PartyName": "Ga. state Sen. William Ligon et al."
+    },
+    {
+      "Attorney": "Adam G. Unikowsky",
+      "IsCounselofRecord": true,
+      "Title": "Jenner & Block LLP",
+      "PrisonerId": null,
+      "Phone": "202-639-6041",
+      "Address": "1099 New York Avenue, NW\r\nSuite 900",
+      "City": "Washington",
+      "State": "DC",
+      "Zip": "20001",
+      "Email": "AUnikowsky@jenner.com",
+      "PartyName": "Steve Bullock, in his official capacity as Governor of Montana"
     }
   ]
 }
