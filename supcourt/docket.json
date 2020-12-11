@@ -631,28 +631,6 @@
     },
     {
       "Date": "Dec 11 2020",
-      "Text": "Reply of State of Texas submitted.",
-      "Links": [
-        {
-          "Description": "Main Document",
-          "File": "TX-v-State-MPI-Reply-2020-12-11.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163492/20201211095715842_TX-v-State-MPI-Reply-2020-12-11.pdf"
-        }
-      ]
-    },
-    {
-      "Date": "Dec 11 2020",
-      "Text": "Reply of State of Texas submitted.",
-      "Links": [
-        {
-          "Description": "Main Document",
-          "File": "TX-v-State-LeaveReply-2020-12-11.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163493/20201211095822921_TX-v-State-LeaveReply-2020-12-11.pdf"
-        }
-      ]
-    },
-    {
-      "Date": "Dec 11 2020",
       "Text": "Motion of Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC for leave to file amicus brief submitted.",
       "Links": [
         {
@@ -669,6 +647,48 @@
           "Description": "Certificate of Word Count",
           "File": "Certificate of Compliance.pdf",
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101845642_Certificate%20of%20Compliance.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Reply of State of Texas submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "TX-v-State-LeaveReply-2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163497/20201211110907446_TX-v-State-LeaveReply-2020-12-11.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "TX-v-State-LeaveReply-2020-12-11-WC.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163497/20201211110928852_TX-v-State-LeaveReply-2020-12-11-WC.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "TX-v-State-LeaveReply-2020-12-11-COS.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163497/20201211110941384_TX-v-State-LeaveReply-2020-12-11-COS.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Reply of State of Texas submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "TX-v-State-MPI-Reply-2020-12-11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163498/20201211111125165_TX-v-State-MPI-Reply-2020-12-11.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "TX-v-State-MPI-Reply-2020-12-11-WC.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163498/20201211111159650_TX-v-State-MPI-Reply-2020-12-11-WC.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "TX-v-State-LeaveReply-2020-12-11-COS.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163498/20201211111216775_TX-v-State-LeaveReply-2020-12-11-COS.pdf"
         }
       ]
     }
