@@ -4823,7 +4823,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42206320,
+            "votes": 42204700,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -4840,7 +4840,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44133429,
+            "votes": 44131398,
             "percent": "49.4",
             "change": -1,
             "flip_count": 1,
@@ -4857,7 +4857,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2992861,
+            "votes": 2992855,
             "percent": "3.4",
             "change": 0,
             "flip_count": 0,
@@ -17291,12 +17291,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5965013,
+          "votes": 5962982,
           "percent": 53.5,
           "percent_display": "53.5",
           "electoral_votes": 0,
           "absentee_votes": 5102822,
-          "absentee_percent": 52.8,
+          "absentee_percent": 52.9,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cornyn-367-44-s.png",
           "has_image": false,
           "link": ""
@@ -21598,8 +21598,8 @@
     ]
   },
   "meta": {
-    "version": 24858,
+    "version": 24875,
     "track": "2020-11-03",
-    "timestamp": "2020-12-11T20:46:30.955Z"
+    "timestamp": "2020-12-11T22:11:35.707Z"
   }
 }

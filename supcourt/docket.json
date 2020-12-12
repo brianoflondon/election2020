@@ -614,28 +614,15 @@
     },
     {
       "Date": "Dec 11 2020",
-      "Text": "Motion of Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC for leave to file amicus brief submitted.",
-      "Links": [
-        {
-          "Description": "Main Document",
-          "File": "Texas v Pennsylvania CU CUF TPC amicus brief.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101813720_Texas%20v%20Pennsylvania%20CU%20CUF%20TPC%20amicus%20brief.pdf"
-        },
-        {
-          "Description": "Proof of Service",
-          "File": "Certificate of Service.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101838283_Certificate%20of%20Service.pdf"
-        },
-        {
-          "Description": "Certificate of Word Count",
-          "File": "Certificate of Compliance.pdf",
-          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101845642_Certificate%20of%20Compliance.pdf"
-        }
-      ]
+      "Text": "Reply of State of Texas not accepted for filing. (December 11, 2020) (corrected brief electronically filed)"
     },
     {
       "Date": "Dec 11 2020",
-      "Text": "Reply of State of Texas submitted.",
+      "Text": "Reply of State of Texas not accepted for filing. (December 11, 2020) (corrected brief electronically filed)"
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Reply in support of motion for leave to file bill of complaint from plaintiff Texas filed.",
       "Links": [
         {
           "Description": "Main Document",
@@ -656,7 +643,7 @@
     },
     {
       "Date": "Dec 11 2020",
-      "Text": "Reply of State of Texas submitted.",
+      "Text": "Reply in support of motion for preliminary injunction and temporary restraining order or, alternatively, for stay and administrative stay from plaintiff Texas filed.",
       "Links": [
         {
           "Description": "Main Document",
@@ -672,6 +659,31 @@
           "Description": "Proof of Service",
           "File": "TX-v-State-LeaveReply-2020-12-11-COS.pdf",
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163498/20201211111216775_TX-v-State-LeaveReply-2020-12-11-COS.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "The State of Texas\u2019s motion for leave to file a bill of complaint is denied for lack of standing under Article III of the Constitution.  Texas has not demonstrated a judicially  cognizable interest in the manner in which another State conducts its elections.  All other pending motions are dismissed as moot.  Statement of Justice Alito, with whom Justice Thomas joins:  In my view, we do not have discretion to deny the filing of a bill of complaint in a case that falls within our original jurisdiction.  See <i>Arizona</i> v. <i>California</i>, 589 U. S. ___ (Feb. 24, 2020) (Thomas, J., dissenting).  I would therefore grant the motion to file the bill of complaint but would not grant other relief, and I express no view on any other issue."
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Motion of Citizens United, Citizens United Foundation, and The Presidential Coalition, LLC for leave to file amicus brief submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "Texas v Pennsylvania CU CUF TPC amicus brief.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101813720_Texas%20v%20Pennsylvania%20CU%20CUF%20TPC%20amicus%20brief.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "Certificate of Service.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101838283_Certificate%20of%20Service.pdf"
+        },
+        {
+          "Description": "Certificate of Word Count",
+          "File": "Certificate of Compliance.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163495/20201211101845642_Certificate%20of%20Compliance.pdf"
         }
       ]
     },
@@ -761,6 +773,22 @@
           "Description": "Certificate of Word Count",
           "File": "Certificate of Compliance.pdf",
           "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163603/20201211152142278_Certificate%20of%20Compliance.pdf"
+        }
+      ]
+    },
+    {
+      "Date": "Dec 11 2020",
+      "Text": "Notice of Joinder of Lieutenant Governor Janice McGeachin, Senator Lora Reinbold, Representative David Eastman, et al (Elected Officials) as Amici Curiae submitted.",
+      "Links": [
+        {
+          "Description": "Main Document",
+          "File": "SCOTUS AMICI JOINDER FINAL 2020.12.11.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163646/20201211211532561_SCOTUS%20AMICI%20JOINDER%20FINAL%202020.12.11.pdf"
+        },
+        {
+          "Description": "Proof of Service",
+          "File": "CERT OF SERVICE.pdf",
+          "DocumentUrl": "http://www.supremecourt.gov/DocketPDF/22/22O155/163646/20201211211618358_CERT%20OF%20SERVICE.pdf"
         }
       ]
     }

@@ -31,8 +31,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 11148837,
-        "absentee_votes": 9665298,
+        "votes": 11145180,
+        "absentee_votes": 9648441,
         "absentee_counties": 253,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-29T13:32:38Z",
+        "last_updated": "2020-12-11T21:58:06Z",
         "candidates": [
           {
             "candidate_id": "cornyn-367-44-s",
@@ -69,12 +69,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 5965013,
+            "votes": 5962982,
             "percent": 53.5,
             "percent_display": "53.5",
             "electoral_votes": 0,
             "absentee_votes": 5102822,
-            "absentee_percent": 52.8,
+            "absentee_percent": 52.9,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cornyn-367-44-s.png",
             "has_image": false,
             "link": ""
@@ -90,12 +90,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4890384,
+            "votes": 4888764,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
-            "absentee_votes": 4335521,
-            "absentee_percent": 44.9,
+            "absentee_votes": 4319691,
+            "absentee_percent": 44.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hegar-65996.png",
             "has_image": "",
             "link": "",
@@ -112,11 +112,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 209717,
+            "votes": 209722,
             "percent": 1.9,
             "percent_display": "1.9",
             "electoral_votes": 0,
-            "absentee_votes": 163072,
+            "absentee_votes": 163069,
             "absentee_percent": 1.7,
             "img_url": null,
             "has_image": false,
@@ -133,11 +133,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 81963,
+            "votes": 81892,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 62402,
+            "absentee_votes": 62135,
             "absentee_percent": 0.6,
             "img_url": null,
             "has_image": false,
@@ -154,11 +154,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1760,
+            "votes": 1820,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
-            "absentee_votes": 1481,
+            "absentee_votes": 724,
             "absentee_percent": 0,
             "img_url": null,
             "has_image": false,
@@ -166,8 +166,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 9.63893,
-        "leader_margin_votes": 1074629,
+        "leader_margin_value": 9.63841,
+        "leader_margin_votes": 1074218,
         "leader_margin_display": "R+10",
         "leader_margin_name_display": "Cornyn +10",
         "leader_party_id": "republican",
@@ -251,7 +251,7 @@
           {
             "fips": "48005",
             "name": "Angelina",
-            "votes": 34357,
+            "votes": 34372,
             "absentee_votes": 28462,
             "reporting": 38,
             "precincts": 43,
@@ -268,10 +268,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 24955,
-              "hegarm": 8765,
-              "mckennonk": 460,
-              "collinsda": 160,
+              "cornynj": 24962,
+              "hegarm": 8771,
+              "mckennonk": 461,
+              "collinsda": 161,
               "write-ins": 17
             },
             "results_absentee": {
@@ -281,8 +281,8 @@
               "collinsda": 118,
               "write-ins": 9
             },
-            "last_updated": "2020-11-28T14:21:50Z",
-            "leader_margin_value": 47.12286,
+            "last_updated": "2020-12-11T21:33:36Z",
+            "leader_margin_value": 47.1052,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
             "leader_party_id": "republican",
@@ -367,8 +367,8 @@
           {
             "fips": "48011",
             "name": "Armstrong",
-            "votes": 1106,
-            "absentee_votes": 842,
+            "votes": 1099,
+            "absentee_votes": 839,
             "reporting": 7,
             "precincts": 8,
             "absentee_method": "Released as a precinct as first report of the night",
@@ -386,17 +386,19 @@
             "results": {
               "cornynj": 1025,
               "hegarm": 64,
-              "mckennonk": 12,
-              "collinsda": 5
+              "collinsda": 5,
+              "mckennonk": 5,
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 779,
               "hegarm": 51,
-              "mckennonk": 8,
-              "collinsda": 4
+              "collinsda": 4,
+              "mckennonk": 5,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:55:29Z",
-            "leader_margin_value": 86.88969,
+            "last_updated": "2020-12-11T21:42:00Z",
+            "leader_margin_value": 87.44313,
             "leader_margin_display": "R+87",
             "leader_margin_name_display": "Cornyn +87",
             "leader_party_id": "republican",
@@ -405,7 +407,7 @@
           {
             "fips": "48013",
             "name": "Atascosa",
-            "votes": 17894,
+            "votes": 17896,
             "absentee_votes": 14598,
             "reporting": 25,
             "precincts": 25,
@@ -416,7 +418,7 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 10647,
             "provisional_outstanding": null,
@@ -425,16 +427,18 @@
               "cornynj": 11906,
               "hegarm": 5588,
               "mckennonk": 258,
-              "collinsda": 142
+              "collinsda": 142,
+              "write-ins": 2
             },
             "results_absentee": {
               "cornynj": 9734,
               "hegarm": 4589,
               "mckennonk": 188,
-              "collinsda": 87
+              "collinsda": 87,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-27T13:47:09Z",
-            "leader_margin_value": 35.30792,
+            "last_updated": "2020-12-11T21:42:22Z",
+            "leader_margin_value": 35.30398,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Cornyn +35",
             "leader_party_id": "republican",
@@ -443,7 +447,7 @@
           {
             "fips": "48015",
             "name": "Austin",
-            "votes": 14478,
+            "votes": 14481,
             "absentee_votes": 11498,
             "reporting": 16,
             "precincts": 18,
@@ -454,7 +458,7 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 9966,
             "provisional_outstanding": null,
@@ -463,16 +467,18 @@
               "cornynj": 11454,
               "hegarm": 2752,
               "mckennonk": 215,
-              "collinsda": 57
+              "collinsda": 57,
+              "write-ins": 3
             },
             "results_absentee": {
               "cornynj": 9047,
               "hegarm": 2260,
               "mckennonk": 153,
-              "collinsda": 38
+              "collinsda": 38,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:41:56Z",
-            "leader_margin_value": 60.10499,
+            "last_updated": "2020-12-11T21:42:32Z",
+            "leader_margin_value": 60.09254,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Cornyn +60",
             "leader_party_id": "republican",
@@ -557,7 +563,7 @@
           {
             "fips": "48021",
             "name": "Bastrop",
-            "votes": 36504,
+            "votes": 36506,
             "absentee_votes": 31197,
             "reporting": 23,
             "precincts": 23,
@@ -568,7 +574,7 @@
             "eevp_display": "100% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 25791,
             "provisional_outstanding": null,
@@ -577,16 +583,18 @@
               "cornynj": 20468,
               "hegarm": 15071,
               "mckennonk": 757,
-              "collinsda": 208
+              "collinsda": 208,
+              "write-ins": 2
             },
             "results_absentee": {
               "cornynj": 16975,
               "hegarm": 13505,
               "mckennonk": 561,
-              "collinsda": 156
+              "collinsda": 156,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:42:17Z",
-            "leader_margin_value": 14.78468,
+            "last_updated": "2020-12-11T21:42:45Z",
+            "leader_margin_value": 14.78387,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Cornyn +15",
             "leader_party_id": "republican",
@@ -633,7 +641,7 @@
           {
             "fips": "48025",
             "name": "Bee",
-            "votes": 9045,
+            "votes": 9055,
             "absentee_votes": 7260,
             "reporting": 15,
             "precincts": 18,
@@ -644,7 +652,7 @@
             "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 7301,
             "provisional_outstanding": null,
@@ -653,16 +661,18 @@
               "cornynj": 5713,
               "hegarm": 3103,
               "mckennonk": 171,
-              "collinsda": 58
+              "collinsda": 58,
+              "write-ins": 10
             },
             "results_absentee": {
               "cornynj": 4520,
               "hegarm": 2572,
               "mckennonk": 126,
-              "collinsda": 42
+              "collinsda": 42,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:32:14Z",
-            "leader_margin_value": 28.85572,
+            "last_updated": "2020-12-11T21:43:11Z",
+            "leader_margin_value": 28.82385,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Cornyn +29",
             "leader_party_id": "republican",
@@ -671,7 +681,7 @@
           {
             "fips": "48027",
             "name": "Bell",
-            "votes": 126799,
+            "votes": 126804,
             "absentee_votes": 102525,
             "reporting": 49,
             "precincts": 49,
@@ -691,16 +701,18 @@
               "cornynj": 68934,
               "hegarm": 54413,
               "mckennonk": 2725,
-              "collinsda": 727
+              "collinsda": 727,
+              "write-ins": 5
             },
             "results_absentee": {
               "cornynj": 54424,
               "hegarm": 45741,
               "mckennonk": 1840,
-              "collinsda": 520
+              "collinsda": 520,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-27T13:54:21Z",
-            "leader_margin_value": 11.45198,
+            "last_updated": "2020-12-11T21:43:30Z",
+            "leader_margin_value": 11.45153,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Cornyn +11",
             "leader_party_id": "republican",
@@ -709,7 +721,7 @@
           {
             "fips": "48029",
             "name": "Bexar",
-            "votes": 752935,
+            "votes": 752987,
             "absentee_votes": 660134,
             "reporting": 753,
             "precincts": 767,
@@ -720,7 +732,7 @@
             "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "all",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 609654,
             "provisional_outstanding": null,
@@ -729,16 +741,18 @@
               "cornynj": 320095,
               "hegarm": 411328,
               "mckennonk": 15205,
-              "collinsda": 6307
+              "collinsda": 6307,
+              "write-ins": 52
             },
             "results_absentee": {
               "cornynj": 277734,
               "hegarm": 365778,
               "mckennonk": 11794,
-              "collinsda": 4828
+              "collinsda": 4828,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:33:09Z",
-            "leader_margin_value": 12.11698,
+            "last_updated": "2020-12-11T21:43:43Z",
+            "leader_margin_value": 12.11615,
             "leader_margin_display": "D+12",
             "leader_margin_name_display": "Hegar +12",
             "leader_party_id": "democrat",
@@ -823,7 +837,7 @@
           {
             "fips": "48035",
             "name": "Bosque",
-            "votes": 9038,
+            "votes": 9039,
             "absentee_votes": 6473,
             "reporting": 11,
             "precincts": 12,
@@ -843,16 +857,18 @@
               "cornynj": 7367,
               "hegarm": 1490,
               "mckennonk": 121,
-              "collinsda": 60
+              "collinsda": 60,
+              "write-ins": 1
             },
             "results_absentee": {
               "cornynj": 5228,
               "hegarm": 1130,
               "mckennonk": 77,
-              "collinsda": 38
+              "collinsda": 38,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:26:29Z",
-            "leader_margin_value": 65.02545,
+            "last_updated": "2020-12-11T21:43:53Z",
+            "leader_margin_value": 65.01825,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
             "leader_party_id": "republican",
@@ -899,7 +915,7 @@
           {
             "fips": "48039",
             "name": "Brazoria",
-            "votes": 153362,
+            "votes": 153367,
             "absentee_votes": 138188,
             "reporting": 65,
             "precincts": 67,
@@ -910,7 +926,7 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 131649,
             "provisional_outstanding": null,
@@ -919,16 +935,18 @@
               "cornynj": 90705,
               "hegarm": 58759,
               "mckennonk": 3019,
-              "collinsda": 879
+              "collinsda": 879,
+              "write-ins": 5
             },
             "results_absentee": {
               "cornynj": 81451,
               "hegarm": 53556,
               "mckennonk": 2447,
-              "collinsda": 734
+              "collinsda": 734,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:06:32Z",
-            "leader_margin_value": 20.83045,
+            "last_updated": "2020-12-11T21:44:05Z",
+            "leader_margin_value": 20.82977,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Cornyn +21",
             "leader_party_id": "republican",
@@ -937,7 +955,7 @@
           {
             "fips": "48041",
             "name": "Brazos",
-            "votes": 84149,
+            "votes": 84161,
             "absentee_votes": 71230,
             "reporting": 95,
             "precincts": 99,
@@ -948,7 +966,7 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "all",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 57474,
             "provisional_outstanding": null,
@@ -957,16 +975,18 @@
               "cornynj": 49346,
               "hegarm": 32098,
               "mckennonk": 2243,
-              "collinsda": 462
+              "collinsda": 462,
+              "write-ins": 12
             },
             "results_absentee": {
               "cornynj": 41430,
               "hegarm": 27828,
               "mckennonk": 1635,
-              "collinsda": 337
+              "collinsda": 337,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:08:07Z",
-            "leader_margin_value": 20.49698,
+            "last_updated": "2020-12-11T21:44:25Z",
+            "leader_margin_value": 20.49405,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Cornyn +20",
             "leader_party_id": "republican",
@@ -1507,7 +1527,7 @@
           {
             "fips": "48071",
             "name": "Chambers",
-            "votes": 21342,
+            "votes": 21353,
             "absentee_votes": 18832,
             "reporting": 15,
             "precincts": 15,
@@ -1518,15 +1538,15 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 17808,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 17027,
+              "cornynj": 17037,
               "hegarm": 3786,
-              "mckennonk": 418,
+              "mckennonk": 419,
               "collinsda": 111,
               "write-ins": 0
             },
@@ -1537,8 +1557,8 @@
               "collinsda": 88,
               "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:34:01Z",
-            "leader_margin_value": 62.04198,
+            "last_updated": "2020-12-11T21:45:50Z",
+            "leader_margin_value": 62.05685,
             "leader_margin_display": "R+62",
             "leader_margin_name_display": "Cornyn +62",
             "leader_party_id": "republican",
@@ -1623,7 +1643,7 @@
           {
             "fips": "48077",
             "name": "Clay",
-            "votes": 5694,
+            "votes": 5698,
             "absentee_votes": 4133,
             "reporting": 15,
             "precincts": 17,
@@ -1640,11 +1660,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 4955,
+              "cornynj": 4958,
               "hegarm": 632,
               "mckennonk": 69,
               "collinsda": 27,
-              "write-ins": 11
+              "write-ins": 12
             },
             "results_absentee": {
               "cornynj": 3588,
@@ -1653,8 +1673,8 @@
               "collinsda": 16,
               "write-ins": 10
             },
-            "last_updated": "2020-11-28T14:55:51Z",
-            "leader_margin_value": 75.92202,
+            "last_updated": "2020-12-11T21:46:14Z",
+            "leader_margin_value": 75.92138,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Cornyn +76",
             "leader_party_id": "republican",
@@ -2781,7 +2801,7 @@
           {
             "fips": "48137",
             "name": "Edwards",
-            "votes": 985,
+            "votes": 986,
             "absentee_votes": 733,
             "reporting": 4,
             "precincts": 5,
@@ -2799,7 +2819,7 @@
             "provisional_count_progress": null,
             "results": {
               "cornynj": 824,
-              "hegarm": 143,
+              "hegarm": 144,
               "mckennonk": 14,
               "collinsda": 3,
               "write-ins": 1
@@ -2811,8 +2831,8 @@
               "collinsda": 2,
               "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:23:55Z",
-            "leader_margin_value": 69.13706,
+            "last_updated": "2020-12-11T21:46:32Z",
+            "leader_margin_value": 68.96552,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Cornyn +69",
             "leader_party_id": "republican",
@@ -3509,7 +3529,7 @@
           {
             "fips": "48175",
             "name": "Goliad",
-            "votes": 3899,
+            "votes": 3909,
             "absentee_votes": 2848,
             "reporting": 8,
             "precincts": 10,
@@ -3526,8 +3546,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 2995,
-              "hegarm": 835,
+              "cornynj": 3000,
+              "hegarm": 840,
               "mckennonk": 43,
               "collinsda": 14,
               "write-ins": 12
@@ -3539,8 +3559,8 @@
               "collinsda": 5,
               "write-ins": 8
             },
-            "last_updated": "2020-11-29T04:32:23Z",
-            "leader_margin_value": 55.39882,
+            "last_updated": "2020-12-11T21:47:10Z",
+            "leader_margin_value": 55.2571,
             "leader_margin_display": "R+55",
             "leader_margin_name_display": "Cornyn +55",
             "leader_party_id": "republican",
@@ -4402,17 +4422,17 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 23816,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 26244,
-              "hegarm": 5223,
+              "cornynj": 26253,
+              "hegarm": 5228,
               "mckennonk": 508,
               "collinsda": 189,
-              "write-ins": 16
+              "write-ins": 2
             },
             "results_absentee": {
               "cornynj": 20536,
@@ -4421,8 +4441,8 @@
               "collinsda": 129,
               "write-ins": 2
             },
-            "last_updated": "2020-11-28T14:49:34Z",
-            "leader_margin_value": 65.32318,
+            "last_updated": "2020-12-11T21:47:56Z",
+            "leader_margin_value": 65.33561,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Cornyn +65",
             "leader_party_id": "republican",
@@ -4469,8 +4489,8 @@
           {
             "fips": "48225",
             "name": "Houston",
-            "votes": 9299,
-            "absentee_votes": 6986,
+            "votes": 9334,
+            "absentee_votes": 6985,
             "reporting": 19,
             "precincts": 22,
             "absentee_method": "Released as a precinct as first report of the night",
@@ -4486,23 +4506,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 6985,
-              "hegarm": 2193,
-              "mckennonk": 91,
-              "collinsda": 28,
-              "write-ins": 2
+              "cornynj": 6984,
+              "hegarm": 2230,
+              "mckennonk": 92,
+              "collinsda": 28
             },
             "results_absentee": {
               "cornynj": 5159,
               "hegarm": 1751,
               "mckennonk": 62,
-              "collinsda": 13,
-              "write-ins": 1
+              "collinsda": 13
             },
-            "last_updated": "2020-11-28T14:40:31Z",
-            "leader_margin_value": 51.53242,
-            "leader_margin_display": "R+52",
-            "leader_margin_name_display": "Cornyn +52",
+            "last_updated": "2020-12-11T21:37:26Z",
+            "leader_margin_value": 50.93208,
+            "leader_margin_display": "R+51",
+            "leader_margin_name_display": "Cornyn +51",
             "leader_party_id": "republican",
             "leader_key": "cornynj"
           },
@@ -4547,15 +4565,15 @@
           {
             "fips": "48229",
             "name": "Hudspeth",
-            "votes": 1153,
+            "votes": 1101,
             "absentee_votes": 565,
             "reporting": 5,
             "precincts": 5,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 99,
+            "eevp": 95,
             "tot_exp_vote": 1165,
-            "eevp_value": "99%",
-            "eevp_display": "99% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
             "absentee_count_progress": "unknown",
@@ -4564,9 +4582,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 673,
-              "hegarm": 443,
-              "mckennonk": 21,
+              "cornynj": 680,
+              "hegarm": 383,
+              "mckennonk": 22,
               "collinsda": 15,
               "write-ins": 1
             },
@@ -4577,10 +4595,10 @@
               "collinsda": 4,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:26:48Z",
-            "leader_margin_value": 19.94796,
-            "leader_margin_display": "R+20",
-            "leader_margin_name_display": "Cornyn +20",
+            "last_updated": "2020-12-11T21:49:25Z",
+            "leader_margin_value": 26.97548,
+            "leader_margin_display": "R+27",
+            "leader_margin_name_display": "Cornyn +27",
             "leader_party_id": "republican",
             "leader_key": "cornynj"
           },
@@ -4625,7 +4643,7 @@
           {
             "fips": "48233",
             "name": "Hutchinson",
-            "votes": 8689,
+            "votes": 8693,
             "absentee_votes": 6937,
             "reporting": 7,
             "precincts": 9,
@@ -4645,16 +4663,18 @@
               "cornynj": 7575,
               "hegarm": 900,
               "mckennonk": 178,
-              "collinsda": 36
+              "collinsda": 36,
+              "write-ins": 4
             },
             "results_absentee": {
               "cornynj": 6098,
               "hegarm": 698,
               "mckennonk": 117,
-              "collinsda": 24
+              "collinsda": 24,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:56:58Z",
-            "leader_margin_value": 76.82127,
+            "last_updated": "2020-12-11T21:50:03Z",
+            "leader_margin_value": 76.78592,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
             "leader_party_id": "republican",
@@ -4739,15 +4759,15 @@
           {
             "fips": "48239",
             "name": "Jackson",
-            "votes": 6295,
+            "votes": 6309,
             "absentee_votes": 5059,
             "reporting": 9,
             "precincts": 10,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 6340,
-            "eevp_value": "99%",
-            "eevp_display": "99% reported",
+            "eevp_value": "100%",
+            "eevp_display": "100% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
             "absentee_count_progress": "unknown",
@@ -4759,16 +4779,18 @@
               "cornynj": 5167,
               "hegarm": 1021,
               "mckennonk": 81,
-              "collinsda": 26
+              "collinsda": 26,
+              "write-ins": 14
             },
             "results_absentee": {
               "cornynj": 4181,
               "hegarm": 807,
               "mckennonk": 51,
-              "collinsda": 20
+              "collinsda": 20,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:27:46Z",
-            "leader_margin_value": 65.8618,
+            "last_updated": "2020-12-11T21:50:26Z",
+            "leader_margin_value": 65.71564,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Cornyn +66",
             "leader_party_id": "republican",
@@ -5387,26 +5409,26 @@
           {
             "fips": "48273",
             "name": "Kleberg",
-            "votes": 10801,
+            "votes": 10710,
             "absentee_votes": 8730,
             "reporting": 16,
             "precincts": 18,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 99,
+            "eevp": 98,
             "tot_exp_vote": 10944,
-            "eevp_value": "99%",
-            "eevp_display": "99% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 8039,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 5421,
-              "hegarm": 5110,
-              "mckennonk": 184,
+              "cornynj": 5374,
+              "hegarm": 5067,
+              "mckennonk": 183,
               "collinsda": 84,
               "write-ins": 2
             },
@@ -5417,8 +5439,8 @@
               "collinsda": 63,
               "write-ins": 2
             },
-            "last_updated": "2020-11-29T04:31:51Z",
-            "leader_margin_value": 2.87936,
+            "last_updated": "2020-12-11T21:51:04Z",
+            "leader_margin_value": 2.86648,
             "leader_margin_display": "R+3",
             "leader_margin_name_display": "Cornyn +3",
             "leader_party_id": "republican",
@@ -5505,7 +5527,7 @@
           {
             "fips": "48285",
             "name": "La Vaca",
-            "votes": 10036,
+            "votes": 10038,
             "absentee_votes": 7235,
             "reporting": 18,
             "precincts": 20,
@@ -5522,7 +5544,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 8597,
+              "cornynj": 8599,
               "hegarm": 1305,
               "mckennonk": 109,
               "collinsda": 23,
@@ -5535,8 +5557,8 @@
               "collinsda": 16,
               "write-ins": 2
             },
-            "last_updated": "2020-11-29T04:27:50Z",
-            "leader_margin_value": 72.65843,
+            "last_updated": "2020-12-11T21:51:20Z",
+            "leader_margin_value": 72.66388,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Cornyn +73",
             "leader_party_id": "republican",
@@ -6157,38 +6179,40 @@
           {
             "fips": "48319",
             "name": "Mason",
-            "votes": 2553,
-            "absentee_votes": 2293,
+            "votes": 2454,
+            "absentee_votes": 1801,
             "reporting": 5,
             "precincts": 5,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 100,
+            "eevp": 96,
             "tot_exp_vote": 2553,
-            "eevp_value": "100%",
-            "eevp_display": "100% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 2092,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 1979,
-              "hegarm": 542,
+              "cornynj": 1980,
+              "hegarm": 443,
               "mckennonk": 25,
-              "collinsda": 7
+              "collinsda": 6,
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 1775,
-              "hegarm": 492,
+              "hegarm": 0,
               "mckennonk": 20,
-              "collinsda": 6
+              "collinsda": 6,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:47:25Z",
-            "leader_margin_value": 56.28672,
-            "leader_margin_display": "R+56",
-            "leader_margin_name_display": "Cornyn +56",
+            "last_updated": "2020-12-11T21:52:46Z",
+            "leader_margin_value": 62.63244,
+            "leader_margin_display": "R+63",
+            "leader_margin_name_display": "Cornyn +63",
             "leader_party_id": "republican",
             "leader_key": "cornynj"
           },
@@ -6233,7 +6257,7 @@
           {
             "fips": "48323",
             "name": "Maverick",
-            "votes": 14291,
+            "votes": 14289,
             "absentee_votes": 10691,
             "reporting": 14,
             "precincts": 14,
@@ -6251,7 +6275,7 @@
             "provisional_count_progress": null,
             "results": {
               "cornynj": 5708,
-              "hegarm": 7958,
+              "hegarm": 7956,
               "collinsda": 349,
               "mckennonk": 269,
               "write-ins": 7
@@ -6263,8 +6287,8 @@
               "mckennonk": 170,
               "write-ins": 5
             },
-            "last_updated": "2020-11-24T13:26:54Z",
-            "leader_margin_value": 15.74417,
+            "last_updated": "2020-12-11T21:53:06Z",
+            "leader_margin_value": 15.73238,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Hegar +16",
             "leader_party_id": "democrat",
@@ -6615,8 +6639,8 @@
           {
             "fips": "48337",
             "name": "Montague",
-            "votes": 9762,
-            "absentee_votes": 7997,
+            "votes": 9759,
+            "absentee_votes": 7992,
             "reporting": 14,
             "precincts": 16,
             "absentee_method": "Released as a precinct as first report of the night",
@@ -6626,27 +6650,27 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 582,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 8524,
+              "cornynj": 8526,
               "hegarm": 1051,
               "mckennonk": 135,
               "collinsda": 47,
-              "write-ins": 5
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 6975,
               "hegarm": 887,
               "mckennonk": 96,
               "collinsda": 34,
-              "write-ins": 5
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:57:23Z",
-            "leader_margin_value": 76.55194,
+            "last_updated": "2020-12-11T21:53:29Z",
+            "leader_margin_value": 76.59596,
             "leader_margin_display": "R+77",
             "leader_margin_name_display": "Cornyn +77",
             "leader_party_id": "republican",
@@ -6845,7 +6869,7 @@
           {
             "fips": "48349",
             "name": "Navarro",
-            "votes": 18953,
+            "votes": 18962,
             "absentee_votes": 13936,
             "reporting": 27,
             "precincts": 30,
@@ -6862,10 +6886,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 13688,
-              "hegarm": 4817,
+              "cornynj": 13701,
+              "hegarm": 4821,
               "mckennonk": 315,
-              "collinsda": 133
+              "collinsda": 125
             },
             "results_absentee": {
               "cornynj": 10008,
@@ -6873,8 +6897,8 @@
               "mckennonk": 217,
               "collinsda": 68
             },
-            "last_updated": "2020-11-28T14:39:42Z",
-            "leader_margin_value": 46.80526,
+            "last_updated": "2020-12-11T21:37:21Z",
+            "leader_margin_value": 46.8305,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
             "leader_party_id": "republican",
@@ -6883,7 +6907,7 @@
           {
             "fips": "48351",
             "name": "Newton",
-            "votes": 6019,
+            "votes": 6017,
             "absentee_votes": 4037,
             "reporting": 19,
             "precincts": 23,
@@ -6894,17 +6918,17 @@
             "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 3864,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
               "cornynj": 4784,
-              "hegarm": 1165,
-              "mckennonk": 46,
+              "hegarm": 1163,
+              "mckennonk": 47,
               "collinsda": 23,
-              "write-ins": 1
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 3169,
@@ -6913,8 +6937,8 @@
               "collinsda": 12,
               "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:34:37Z",
-            "leader_margin_value": 60.12627,
+            "last_updated": "2020-12-11T21:55:19Z",
+            "leader_margin_value": 60.17949,
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Cornyn +60",
             "leader_party_id": "republican",
@@ -6999,7 +7023,7 @@
           {
             "fips": "48357",
             "name": "Ochiltree",
-            "votes": 3105,
+            "votes": 3106,
             "absentee_votes": 2215,
             "reporting": 4,
             "precincts": 5,
@@ -7016,7 +7040,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 2782,
+              "cornynj": 2783,
               "hegarm": 278,
               "mckennonk": 36,
               "collinsda": 8,
@@ -7029,8 +7053,8 @@
               "collinsda": 5,
               "write-ins": 1
             },
-            "last_updated": "2020-11-28T14:57:36Z",
-            "leader_margin_value": 80.64412,
+            "last_updated": "2020-12-11T21:55:39Z",
+            "leader_margin_value": 80.65035,
             "leader_margin_display": "R+81",
             "leader_margin_name_display": "Cornyn +81",
             "leader_party_id": "republican",
@@ -7651,7 +7675,7 @@
           {
             "fips": "48391",
             "name": "Refugio",
-            "votes": 3172,
+            "votes": 3173,
             "absentee_votes": 2393,
             "reporting": 9,
             "precincts": 11,
@@ -7668,7 +7692,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 2072,
+              "cornynj": 2073,
               "hegarm": 1023,
               "mckennonk": 52,
               "collinsda": 24,
@@ -7681,8 +7705,8 @@
               "collinsda": 14,
               "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:28:02Z",
-            "leader_margin_value": 33.07062,
+            "last_updated": "2020-12-11T21:55:51Z",
+            "leader_margin_value": 33.09171,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Cornyn +33",
             "leader_party_id": "republican",
@@ -7767,40 +7791,40 @@
           {
             "fips": "48397",
             "name": "Rockwall",
-            "votes": 57704,
-            "absentee_votes": 52391,
+            "votes": 53782,
+            "absentee_votes": 36757,
             "reporting": 18,
             "precincts": 18,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 100,
+            "eevp": 93,
             "tot_exp_vote": 57704,
-            "eevp_value": "100%",
-            "eevp_display": "100% reported",
+            "eevp_value": "93%",
+            "eevp_display": "93% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 36546,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 39824,
-              "hegarm": 16600,
-              "mckennonk": 928,
-              "collinsda": 323,
-              "write-ins": 29
+              "cornynj": 37584,
+              "hegarm": 15009,
+              "mckennonk": 932,
+              "collinsda": 257,
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 36012,
-              "hegarm": 15338,
+              "hegarm": 0,
               "mckennonk": 745,
-              "collinsda": 267,
-              "write-ins": 29
+              "collinsda": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:36:25Z",
-            "leader_margin_value": 40.24678,
-            "leader_margin_display": "R+40",
-            "leader_margin_name_display": "Cornyn +40",
+            "last_updated": "2020-12-11T21:56:50Z",
+            "leader_margin_value": 41.97501,
+            "leader_margin_display": "R+42",
+            "leader_margin_name_display": "Cornyn +42",
             "leader_party_id": "republican",
             "leader_key": "cornynj"
           },
@@ -8805,27 +8829,27 @@
           {
             "fips": "48451",
             "name": "Tom Green",
-            "votes": 44514,
-            "absentee_votes": 33045,
+            "votes": 44823,
+            "absentee_votes": 33043,
             "reporting": 35,
             "precincts": 35,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 45210,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": "99%",
+            "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 37998,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 32149,
-              "hegarm": 11259,
-              "mckennonk": 873,
-              "collinsda": 231,
+              "cornynj": 32340,
+              "hegarm": 11371,
+              "mckennonk": 876,
+              "collinsda": 234,
               "write-ins": 2
             },
             "results_absentee": {
@@ -8833,10 +8857,10 @@
               "hegarm": 8872,
               "mckennonk": 534,
               "collinsda": 141,
-              "write-ins": 2
+              "write-ins": 0
             },
-            "last_updated": "2020-11-28T14:48:35Z",
-            "leader_margin_value": 46.92906,
+            "last_updated": "2020-12-11T21:57:23Z",
+            "leader_margin_value": 46.78179,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cornyn +47",
             "leader_party_id": "republican",
@@ -9151,15 +9175,15 @@
           {
             "fips": "48469",
             "name": "Victoria",
-            "votes": 33674,
+            "votes": 33692,
             "absentee_votes": 27580,
             "reporting": 29,
             "precincts": 35,
             "absentee_method": "Released as a precinct as first report of the night",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 34188,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": "99%",
+            "eevp_display": "99% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
             "absentee_count_progress": "unknown",
@@ -9168,9 +9192,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 23136,
-              "hegarm": 9825,
-              "mckennonk": 523,
+              "cornynj": 23144,
+              "hegarm": 9834,
+              "mckennonk": 524,
               "collinsda": 172,
               "write-ins": 18
             },
@@ -9181,8 +9205,8 @@
               "collinsda": 125,
               "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:28:09Z",
-            "leader_margin_value": 39.52901,
+            "last_updated": "2020-12-11T21:57:49Z",
+            "leader_margin_value": 39.50493,
             "leader_margin_display": "R+40",
             "leader_margin_name_display": "Cornyn +40",
             "leader_party_id": "republican",
@@ -9803,7 +9827,7 @@
           {
             "fips": "48503",
             "name": "Young",
-            "votes": 8114,
+            "votes": 8109,
             "absentee_votes": 6992,
             "reporting": 8,
             "precincts": 10,
@@ -9814,25 +9838,27 @@
             "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "all",
             "absentee_outstanding": null,
             "absentee_max_ballots": 9164,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cornynj": 6999,
-              "hegarm": 969,
+              "cornynj": 6996,
+              "hegarm": 967,
               "mckennonk": 120,
-              "collinsda": 26
+              "collinsda": 26,
+              "write-ins": 0
             },
             "results_absentee": {
               "cornynj": 6055,
               "hegarm": 823,
               "mckennonk": 94,
-              "collinsda": 20
+              "collinsda": 20,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-29T04:12:22Z",
-            "leader_margin_value": 74.316,
+            "last_updated": "2020-12-11T21:58:06Z",
+            "leader_margin_value": 74.34949,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Cornyn +74",
             "leader_party_id": "republican",
@@ -13204,6 +13230,66 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T15:30:54Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11148852,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:33:37Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11149203,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:37:29Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11149299,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:45:50Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11149280,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:50:27Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11149087,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:55:52Z"
+          },
+          {
+            "vote_shares": {
+              "cornynj": 0.535,
+              "hegarm": 0.439
+            },
+            "votes": 11145180,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-11T21:58:06Z"
           }
         ]
       }
@@ -13350,7 +13436,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 42206320,
+            "votes": 42204700,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -13367,7 +13453,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44133429,
+            "votes": 44131398,
             "percent": "49.4",
             "change": -1,
             "flip_count": 1,
@@ -13384,7 +13470,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2992861,
+            "votes": 2992855,
             "percent": "3.4",
             "change": 0,
             "flip_count": 0,
@@ -25818,12 +25904,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5965013,
+          "votes": 5962982,
           "percent": 53.5,
           "percent_display": "53.5",
           "electoral_votes": 0,
           "absentee_votes": 5102822,
-          "absentee_percent": 52.8,
+          "absentee_percent": 52.9,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cornyn-367-44-s.png",
           "has_image": false,
           "link": ""
@@ -30125,8 +30211,8 @@
     ]
   },
   "meta": {
-    "version": 24858,
+    "version": 24875,
     "track": "2020-11-03",
-    "timestamp": "2020-12-11T20:46:30.955Z"
+    "timestamp": "2020-12-11T22:11:35.707Z"
   }
 }
